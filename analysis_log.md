@@ -298,3 +298,4 @@ Veranstaltung --[gehört_zu]--> Studiengang
    - Relation-Typen definieren
    - Property-Mapping
 
+
