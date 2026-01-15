@@ -1,0 +1,242 @@
+@prefix hhu: <http://www.hhu.de/hhu-ontology#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+hhu:Person a rdfs:Class ;
+    rdfs:label "Person"@de ;
+    rdfs:comment "Eine Person (Dozent/in) an der HHU"@de .
+
+hhu:Veranstaltung a rdfs:Class ;
+    rdfs:label "Veranstaltung"@de ;
+    rdfs:comment "Eine Lehrveranstaltung an der HHU"@de .
+
+hhu:event_265924 a hhu:Veranstaltung ;
+    hhu:hatECTS 10 ;
+    hhu:hatTitel "Algorithmen und Datenstrukturen"@de ;
+    hhu:wirdGehaltenVon hhu:person_ArndtPeterDr,
+        hhu:person_HillebrandJohanna,
+        hhu:person_JuergensMartin,
+        hhu:person_KlauGunnarUnivProfDr,
+        hhu:person_SchmidtDanielRainerDr,
+        hhu:person_SchulteSaraChantal,
+        hhu:person_TranNguyenKhoa .
+
+hhu:event_267325 a hhu:Veranstaltung ;
+    hhu:hatTitel "Programmierung (Übung)"@de ;
+    hhu:wirdGehaltenVon hhu:person_BrenneisMarkusDr .
+
+hhu:event_268109 a hhu:Veranstaltung ;
+    hhu:hatECTS 10 ;
+    hhu:hatTitel "Programmierung"@de ;
+    hhu:wirdGehaltenVon hhu:person_BrenneisMarkusDr .
+
+hhu:event_268169 a hhu:Veranstaltung ;
+    hhu:hatECTS 7 ;
+    hhu:hatTitel "Rechnerarchitektur"@de ;
+    hhu:wirdGehaltenVon hhu:person_GolovJanine,
+        hhu:person_HartmannEllisRubyAmes,
+        hhu:person_HuggerLiv,
+        hhu:person_JanssenRobin,
+        hhu:person_MauveMartinUnivProfDr,
+        hhu:person_NguyenHoaiPhoung,
+        hhu:person_SandigVolker,
+        hhu:person_SchusterEloraSophia,
+        hhu:person_SelkerAnnKathrinDr,
+        hhu:person_TranNguyenKhoa .
+
+hhu:event_PDF_BachelorarbeitbestehtauszweiTeilbereichendie a hhu:Veranstaltung ;
+    hhu:hatECTS 360 ;
+    hhu:hatTitel "Bachelorarbeit besteht aus zwei Teilbereichen, die beide benotet werden."@de .
+
+hhu:event_PDF_CL6imBachelorStudiengangComputerlinguistik a hhu:Veranstaltung ;
+    hhu:hatECTS 150,
+        300 ;
+    hhu:hatTitel "CL6 im Bachelor-Studiengang Computerlinguistik"@de .
+
+hhu:event_PDF_CompetitiveProgrammingAimWintersemesterbehand a hhu:Veranstaltung ;
+    hhu:hatECTS 150 ;
+    hhu:hatTitel "Competitive Programming A im Wintersemester behandelt. Die beiden"@de .
+
+hhu:event_PDF_CompetitiveProgrammingBimSommersemesterbehand a hhu:Veranstaltung ;
+    hhu:hatECTS 150 ;
+    hhu:hatTitel "Competitive Programming B im Sommersemester behandelt. Die"@de .
+
+hhu:event_PDF_DataScience2werdendieGrundlagenausDataScie a hhu:Veranstaltung ;
+    hhu:hatECTS 150 ;
+    hhu:hatTitel "Data Science 2 werden die Grundlagen aus Data Science anwendungsnah vertieft,"@de .
+
+hhu:event_PDF_GrundlagenderComputernetzwerkerichtetsichanS a hhu:Veranstaltung ;
+    hhu:hatECTS 300 ;
+    hhu:hatTitel "Grundlagen der Computernetzwerke richtet sich an Studierende, die verstehen wollen, wie"@de .
+
+hhu:event_PDF_IInformatikimBachelorStudiengangComputerling a hhu:Veranstaltung ;
+    hhu:hatECTS 210 ;
+    hhu:hatTitel "I: Informatik im Bachelor-Studiengang Computerlinguistik"@de .
+
+hhu:event_PDF_Programmierungund2erfolgreichabgeschlossene a hhu:Veranstaltung ;
+    hhu:hatECTS 150 ;
+    hhu:hatTitel "Programmierung und 2 erfolgreich abgeschlossene"@de .
+
+hhu:event_PDF_bautaufdemModulAlgorithmenundDatenstrukturen a hhu:Veranstaltung ;
+    hhu:hatECTS 300 ;
+    hhu:hatTitel "baut auf dem Modul Algorithmen und Datenstrukturen auf und ist der Implementierung der"@de .
+
+hhu:event_PDF_bautaufeinemKursunddemzugehoerigenBuchvonP a hhu:Veranstaltung ;
+    hhu:hatTitel "baut auf einem Kurs und dem zugehörigen Buch von Prof. Gianluca Bon-tempi an der"@de .
+
+hhu:event_PDF_befasstsichmiteinerAuswahlvongrundlegendenA a hhu:Veranstaltung ;
+    hhu:hatTitel "befasst sich mit einer Auswahl von grundlegenden Algorithmen und Datenstrukturen aus"@de .
+
+hhu:event_PDF_beschaeftigtsichmitunterschiedlichenArtenvonM a hhu:Veranstaltung ;
+    hhu:hatECTS 150 ;
+    hhu:hatTitel "beschäftigt sich mit unterschiedlichen Arten von Matchings bzw. Zuteilungsverfahren. Solche"@de .
+
+hhu:event_PDF_beschaeftigtsichmitverschiedenenVerfahrenzurk a hhu:Veranstaltung ;
+    hhu:hatECTS 150 ;
+    hhu:hatTitel "beschäftigt sich mit verschiedenen Verfahren zur kollektiven Entscheidungsfindung unter"@de .
+
+hhu:event_PDF_beschreibtmitHilfeausgewaehlterBeispieledieAn a hhu:Veranstaltung ;
+    hhu:hatECTS 150 ;
+    hhu:hatTitel "beschreibt mit Hilfe ausgewählter Beispiele die Anwendung der Informatik und Statistik zur"@de .
+
+hhu:event_PDF_derInformatikDieBachelorArbeitmussin a hhu:Veranstaltung ;
+    hhu:hatECTS 90 ;
+    hhu:hatTitel "der Informatik. Die Bachelor-Arbeit muss in"@de .
+
+hhu:event_PDF_fuerdenBachelorStudiengangkannnurdannfuerdie a hhu:Veranstaltung ;
+    hhu:hatTitel "für den Bachelor-Studiengang kann nur dann für die Individuelle Ergänzung im Master-"@de .
+
+hhu:event_PDF_handeltessichumeineEinfuehrunginMikrocontrol a hhu:Veranstaltung ;
+    hhu:hatTitel "handelt es sich um eine Einführung in Mikrocontroller und FPGAs."@de .
+
+hhu:event_PDF_hieraufgelistetistbedeutetdiesnichtautomati a hhu:Veranstaltung ;
+    hhu:hatECTS 150 ;
+    hhu:hatTitel "hier aufgelistet ist, bedeutet dies nicht automatisch, dass das Modul allein mit den"@de .
+
+hhu:event_PDF_ineinzelnen a hhu:Veranstaltung ;
+    hhu:hatECTS 300 ;
+    hhu:hatTitel "in einzelnen"@de .
+
+hhu:event_PDF_kannnichtabgelegtwerdenwennSiedasModulRa a hhu:Veranstaltung ;
+    hhu:hatECTS 150 ;
+    hhu:hatTitel "kann nicht abgelegt werden, wenn Sie das Modul „Randomisierte"@de .
+
+hhu:event_PDF_nichtanmeldenModulemitinhaltlichenVoraussetz a hhu:Veranstaltung ;
+    hhu:hatTitel "nicht anmelden. Module mit inhaltlichen Voraussetzungen, setzen bestimmte Kenntnisse voraus. Wenn Sie"@de .
+
+hhu:event_PDF_vermitteltGrundlagenderimperativenobjektorien a hhu:Veranstaltung ;
+    hhu:hatTitel "vermittelt Grundlagen der imperativen, objektorientierten Programmierung exemplarisch"@de .
+
+hhu:event_PDF_vermittelteinfuehrendeKonzeptederalgorithmische a hhu:Veranstaltung ;
+    hhu:hatECTS 150 ;
+    hhu:hatTitel "vermittelt einführende Konzepte der algorithmischen Bioinformatik. Die Studierenden vertiefen"@de .
+
+hhu:event_PDF_vermitteltgrundlegende a hhu:Veranstaltung ;
+    hhu:hatTitel "vermittelt grundlegende"@de .
+
+hhu:event_PDF_vermitteltgrundlegendeKenntnisseausfolgendenB a hhu:Veranstaltung ;
+    hhu:hatECTS 150,
+        300 ;
+    hhu:hatTitel "vermittelt grundlegende Kenntnisse aus folgenden Bereichen."@de,
+        "vermittelt grundlegende Kenntnisse aus folgenden Bereichen:"@de .
+
+hhu:event_PDF_vermitteltgrundlegendetheoretischeundpraktisch a hhu:Veranstaltung ;
+    hhu:hatTitel "vermittelt grundlegende theoretische und praktische Kenntnisse zu Datenbanken. Der"@de .
+
+hhu:event_PDF_weitereDatenbankkonzeptevorgestelltNebenden a hhu:Veranstaltung ;
+    hhu:hatECTS 150 ;
+    hhu:hatTitel "weitere Datenbankkonzepte vorgestellt. Neben den"@de .
+
+hhu:event_PDF_werdenKenntnisseueberdieGrundlagenderKryptolo a hhu:Veranstaltung ;
+    hhu:hatECTS 150 ;
+    hhu:hatTitel "werden Kenntnisse über die Grundlagen der Kryptologie vermittelt, einige wichtige"@de .
+
+hhu:event_PDF_werdenKonzepteausderFunktionalenProgrammierun a hhu:Veranstaltung ;
+    hhu:hatECTS 150 ;
+    hhu:hatTitel "werden Konzepte aus der Funktionalen Programmierung vermittelt. Dabei verwenden wir"@de .
+
+hhu:event_PDF_werdendiewichtigstenGrundlagenModelleMethod a hhu:Veranstaltung ;
+    hhu:hatECTS 90,
+        300 ;
+    hhu:hatTitel "werden die wichtigsten Grundlagen, Modelle, Methoden und Resultate aus dem jungen,"@de,
+        "werden die wichtigsten Grundlagen, Modelle, Methoden und Resultate der theoretischen"@de .
+
+hhu:event_PDF_werdendiewichtigstenGrundlagenausdemGebietd a hhu:Veranstaltung ;
+    hhu:hatECTS 150 ;
+    hhu:hatTitel "werden die wichtigsten Grundlagen aus dem Gebiet der algorithmischen Spieltheorie in"@de .
+
+hhu:event_PDF_widmenwir a hhu:Veranstaltung ;
+    hhu:hatECTS 150 ;
+    hhu:hatTitel "widmen wir"@de .
+
+hhu:event_PDF_wirdeingrundlegendesVerstaendnisdesAufbausund a hhu:Veranstaltung ;
+    hhu:hatTitel "wird ein grundlegendes Verständnis des Aufbaus und der Funktionsweise moderner"@de .
+
+hhu:event_PDF_wirdnachdemPrinzipdesInvertedClassroomangeb a hhu:Veranstaltung ;
+    hhu:hatECTS 150 ;
+    hhu:hatTitel "wird nach dem Prinzip des Inverted Classroom angeboten: Die Vorlesungsinhalte werden"@de .
+
+hhu:hatECTS a rdf:Property ;
+    rdfs:label "hat ECTS-Punkte"@de ;
+    rdfs:domain hhu:Veranstaltung .
+
+hhu:hatTitel a rdf:Property ;
+    rdfs:label "hat Titel"@de .
+
+hhu:wirdGehaltenVon a rdf:Property ;
+    rdfs:label "wird gehalten von"@de ;
+    rdfs:domain hhu:Veranstaltung ;
+    rdfs:range hhu:Person .
+
+hhu:person_ArndtPeterDr a hhu:Person ;
+    rdfs:label "Arndt, Peter , Dr."@de .
+
+hhu:person_GolovJanine a hhu:Person ;
+    rdfs:label "Golov, Janine"@de .
+
+hhu:person_HartmannEllisRubyAmes a hhu:Person ;
+    rdfs:label "Hartmann, Ellis Ruby Ames , ."@de .
+
+hhu:person_HillebrandJohanna a hhu:Person ;
+    rdfs:label "Hillebrand, Johanna"@de .
+
+hhu:person_HuggerLiv a hhu:Person ;
+    rdfs:label "Hugger, Liv , ."@de .
+
+hhu:person_JanssenRobin a hhu:Person ;
+    rdfs:label "Janßen, Robin"@de .
+
+hhu:person_JuergensMartin a hhu:Person ;
+    rdfs:label "Jürgens, Martin"@de .
+
+hhu:person_KlauGunnarUnivProfDr a hhu:Person ;
+    rdfs:label "Klau, Gunnar , Univ.-Prof. Dr."@de .
+
+hhu:person_MauveMartinUnivProfDr a hhu:Person ;
+    rdfs:label "Mauve, Martin , Univ.-Prof. Dr."@de .
+
+hhu:person_NguyenHoaiPhoung a hhu:Person ;
+    rdfs:label "Nguyen, Hoai Phoung"@de .
+
+hhu:person_SandigVolker a hhu:Person ;
+    rdfs:label "Sandig, Volker"@de .
+
+hhu:person_SchmidtDanielRainerDr a hhu:Person ;
+    rdfs:label "Schmidt, Daniel Rainer , Dr."@de .
+
+hhu:person_SchulteSaraChantal a hhu:Person ;
+    rdfs:label "Schulte, Sara Chantal"@de .
+
+hhu:person_SchusterEloraSophia a hhu:Person ;
+    rdfs:label "Schuster, Elora Sophia"@de .
+
+hhu:person_SelkerAnnKathrinDr a hhu:Person ;
+    rdfs:label "Selker, Ann-Kathrin , Dr."@de .
+
+hhu:person_BrenneisMarkusDr a hhu:Person ;
+    rdfs:label "Brenneis, Markus , Dr."@de .
+
+hhu:person_TranNguyenKhoa a hhu:Person ;
+    rdfs:label "Tran, Nguyen Khoa"@de .
+

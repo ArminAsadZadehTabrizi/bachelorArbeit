@@ -1,0 +1,1895 @@
+{
+  "metadata": {
+    "extraction_date": "2026-01-15T23:26:14.079032",
+    "sources": [
+      "lsf_extractor",
+      "website_extractor",
+      "pdf_extractor"
+    ],
+    "version": "1.0"
+  },
+  "lsf_data": {
+    "source": "lsf_extractor",
+    "data": {
+      "- Vorlesung Präsenz: Algorithmen und Datenstrukturen Heinrich Heine Universität Düsseldorf.html": {
+        "titel": "Algorithmen und Datenstrukturen",
+        "veranstaltungsart": "Vorlesung Präsenz",
+        "veranstaltungs_id": "265924",
+        "semester": "WiSe 2025/26",
+        "ects_ohne_pruefung": null,
+        "ects_mit_pruefung": "10",
+        "sprache": null,
+        "hyperlinks": [],
+        "personen": [
+          {
+            "name": "Klau, Gunnar , Univ.-Prof. Dr.",
+            "zustaendigkeit": "verantwort"
+          },
+          {
+            "name": "Schmidt, Daniel Rainer , Dr.",
+            "zustaendigkeit": "verantwort"
+          },
+          {
+            "name": "Arndt, Peter , Dr.",
+            "zustaendigkeit": "begleitend"
+          },
+          {
+            "name": "Hillebrand, Johanna",
+            "zustaendigkeit": "begleitend"
+          },
+          {
+            "name": "Jürgens, Martin",
+            "zustaendigkeit": "begleitend"
+          },
+          {
+            "name": "Schulte, Sara Chantal",
+            "zustaendigkeit": "begleitend"
+          },
+          {
+            "name": "Tran, Nguyen Khoa",
+            "zustaendigkeit": "begleitend"
+          }
+        ],
+        "termine": [
+          {
+            "tag": "Di.",
+            "zeit": "08:30 bis 10:30",
+            "rhythmus": "woch",
+            "dauer": "14.10.2025 bis 03.02.2026",
+            "raum": "0-Hörsaal - 2511.HS 5C",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Vorlesung (4 SWS)"
+          },
+          {
+            "tag": "Fr.",
+            "zeit": "08:30 bis 10:30",
+            "rhythmus": "woch",
+            "dauer": "17.10.2025 bis 06.02.2026",
+            "raum": "0-Hörsaal - 2511.HS 5C",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Vorlesung (4 SWS)"
+          },
+          {
+            "tag": "Fr.",
+            "zeit": "12:30 bis 14:30",
+            "rhythmus": "Einzel",
+            "dauer": "am 14.11.2025",
+            "raum": "0-Hörsaal - 1612.HS Ersatz",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Übungstest 1"
+          },
+          {
+            "tag": "Fr.",
+            "zeit": "12:30 bis 14:30",
+            "rhythmus": "Einzel",
+            "dauer": "am 14.11.2025",
+            "raum": "0-Hörsaal - 2301.HS 3A",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": ""
+          },
+          {
+            "tag": "Fr.",
+            "zeit": "14:30 bis 16:30",
+            "rhythmus": "Einzel",
+            "dauer": "am 28.11.2025",
+            "raum": "0-Hörsaal - 2321.HS 3H",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": ""
+          },
+          {
+            "tag": "Fr.",
+            "zeit": "14:30 bis 16:30",
+            "rhythmus": "Einzel",
+            "dauer": "am 28.11.2025",
+            "raum": "0-Hörsaal - 1612.HS Ersatz",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Übungstest 2"
+          },
+          {
+            "tag": "Fr.",
+            "zeit": "12:30 bis 14:30",
+            "rhythmus": "Einzel",
+            "dauer": "am 05.12.2025",
+            "raum": "0-Hörsaal - 2511.HS 5C",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": ""
+          },
+          {
+            "tag": "Fr.",
+            "zeit": "12:30 bis 14:30",
+            "rhythmus": "Einzel",
+            "dauer": "am 05.12.2025",
+            "raum": "0-Hörsaal - 1612.HS Ersatz",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Übungstest 3"
+          }
+        ],
+        "studiengaenge": [
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Naturwissenschaften (BSc, PO 2018)",
+            "semester": "-",
+            "po_version": "2018"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Informatik (BSc, PO 2013)",
+            "semester": "-",
+            "po_version": "2013"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Informatik (BSc, PO 2007)",
+            "semester": "-",
+            "po_version": "2007"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Informatik (BSc, PO 2016)",
+            "semester": "-",
+            "po_version": "2016"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Medizinische Physik (BSc, PO 2019)",
+            "semester": "-",
+            "po_version": "2019"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Medizinische Physik (BSc, PO 2012)",
+            "semester": "-",
+            "po_version": "2012"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Physik (BSc, PO 2019)",
+            "semester": "-",
+            "po_version": "2019"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Physik (BSc, PO 2012)",
+            "semester": "-",
+            "po_version": "2012"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Mathematik (BSc, PO 2008)",
+            "semester": "-",
+            "po_version": "2008"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Mathematik und Anwendungsgebiete (BSc, PO 2014)",
+            "semester": "-",
+            "po_version": "2014"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Informatik (BSc, PO 2021)",
+            "semester": "-",
+            "po_version": "2021"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Interdisziplin. Naturwissenschaften (BSc, PO 2023)",
+            "semester": "-",
+            "po_version": "2023"
+          }
+        ],
+        "module": [
+          "Grundlagen der Algorithmen und Datenstrukturen (WS)"
+        ],
+        "einrichtungen": [
+          "Wissenschaftliche Einrichtung Informatik"
+        ]
+      },
+      "- Vorlesung (Hybrid Plus: Präsenz + Streaming + Aufzeichnung): Programmierung Heinrich Heine Univers.html": {
+        "titel": "Programmierung",
+        "veranstaltungsart": "Vorlesung (Hybrid Plus: Präsenz + Streaming + Aufzeichnung)",
+        "veranstaltungs_id": "268109",
+        "semester": "WiSe 2025/26",
+        "ects_ohne_pruefung": null,
+        "ects_mit_pruefung": "10 ECTS für Vorlesung und Übung",
+        "sprache": "deutsch",
+        "hyperlinks": [
+          {
+            "url": "https://link.cs.hhu.de/progra",
+            "text": "Kursseite",
+            "type": "weiterer_link"
+          }
+        ],
+        "personen": [
+          {
+            "name": "Brenneis, Markus , Dr.",
+            "zustaendigkeit": "verantwort"
+          }
+        ],
+        "termine": [
+          {
+            "tag": "Mo.",
+            "zeit": "08:30 bis 10:30",
+            "rhythmus": "woch",
+            "dauer": "13.10.2025 bis 02.02.2026",
+            "raum": "0-Hörsaal - 2301.HS 3A",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Vorlesung (4 SWS)"
+          },
+          {
+            "tag": "Do.",
+            "zeit": "14:30 bis 16:00",
+            "rhythmus": "woch",
+            "dauer": "16.10.2025 bis 05.02.2026",
+            "raum": "0-Hörsaal - 2201.HS 2A",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Tutorium"
+          },
+          {
+            "tag": "Fr.",
+            "zeit": "08:30 bis 10:00",
+            "rhythmus": "woch",
+            "dauer": "17.10.2025 bis 06.02.2026",
+            "raum": "",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Tutorium; Online"
+          },
+          {
+            "tag": "Fr.",
+            "zeit": "14:30 bis 16:00",
+            "rhythmus": "woch",
+            "dauer": "17.10.2025 bis 06.02.2026",
+            "raum": "0-Hörsaal - 2641.HS 6J",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Vorlesung (4 SWS)"
+          }
+        ],
+        "studiengaenge": [
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Computerlinguistik (BA, PO 2018)",
+            "semester": "-",
+            "po_version": "2018"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Naturwissenschaften (BSc, PO 2018)",
+            "semester": "-",
+            "po_version": "2018"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Informatik (BSc, PO 2013)",
+            "semester": "-",
+            "po_version": "2013"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Informatik (BSc, PO 2007)",
+            "semester": "-",
+            "po_version": "2007"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Informatik (BSc, PO 2016)",
+            "semester": "-",
+            "po_version": "2016"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Computerlinguistik (BA, PO 2017)",
+            "semester": "-",
+            "po_version": "2017"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Physik (BSc, PO 2019)",
+            "semester": "-",
+            "po_version": "2019"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Medizinische Physik (BSc, PO 2019)",
+            "semester": "-",
+            "po_version": "2019"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Linguistik (BA, PO 2018)",
+            "semester": "-",
+            "po_version": "2018"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Physik (BSc, PO 2012)",
+            "semester": "-",
+            "po_version": "2012"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Medizinische Physik (BSc, PO 2012)",
+            "semester": "-",
+            "po_version": "2012"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Mathematik (BSc, PO 2008)",
+            "semester": "-",
+            "po_version": "2008"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Mathematik und Anwendungsgebiete (BSc, PO 2014)",
+            "semester": "-",
+            "po_version": "2014"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Informatik (BSc, PO 2021)",
+            "semester": "-",
+            "po_version": "2021"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Interdisziplin. Naturwissenschaften (BSc, PO 2023)",
+            "semester": "-",
+            "po_version": "2023"
+          }
+        ],
+        "module": [
+          "Grundlagen der Softwareentwicklung und Programmierung (WS)"
+        ],
+        "einrichtungen": [
+          "Wissenschaftliche Einrichtung Informatik"
+        ]
+      },
+      "- Vorlesung (Hybrid Plus: Präsenz + Streaming + Aufzeichnung): Rechnerarchitektur Heinrich Heine Uni.html": {
+        "titel": "Rechnerarchitektur",
+        "veranstaltungsart": "Vorlesung (Hybrid Plus: Präsenz + Streaming + Aufzeichnung)",
+        "veranstaltungs_id": "268169",
+        "semester": "WiSe 2025/26",
+        "ects_ohne_pruefung": null,
+        "ects_mit_pruefung": "7 ECTS ab PO 2021, 9 ECTS in PO 2016 (zusammen mit Hardwarenaher Programmierung)",
+        "sprache": "deutsch",
+        "hyperlinks": [
+          {
+            "url": "http://t1p.de/ra_kurs",
+            "text": "ILIAS Kurs",
+            "type": "weiterer_link"
+          },
+          {
+            "url": "https://t1p.de/ra_orgainfos",
+            "text": "Orga Video",
+            "type": "weiterer_link"
+          }
+        ],
+        "personen": [
+          {
+            "name": "Mauve, Martin , Univ.-Prof. Dr.",
+            "zustaendigkeit": "verantwort"
+          },
+          {
+            "name": "Golov, Janine",
+            "zustaendigkeit": "begleitend"
+          },
+          {
+            "name": "Selker, Ann-Kathrin , Dr.",
+            "zustaendigkeit": "begleitend"
+          },
+          {
+            "name": "Tran, Nguyen Khoa",
+            "zustaendigkeit": "begleitend"
+          },
+          {
+            "name": "Hartmann, Ellis Ruby Ames , .",
+            "zustaendigkeit": "begleitend"
+          },
+          {
+            "name": "Hugger, Liv , .",
+            "zustaendigkeit": "begleitend"
+          },
+          {
+            "name": "Janßen, Robin",
+            "zustaendigkeit": "begleitend"
+          },
+          {
+            "name": "Nguyen, Hoai Phoung",
+            "zustaendigkeit": "begleitend"
+          },
+          {
+            "name": "Sandig, Volker",
+            "zustaendigkeit": "begleitend"
+          },
+          {
+            "name": "Schuster, Elora Sophia",
+            "zustaendigkeit": "begleitend"
+          }
+        ],
+        "termine": [
+          {
+            "tag": "Mo.",
+            "zeit": "12:30 bis 14:00",
+            "rhythmus": "Einzel",
+            "dauer": "am 13.10.2025",
+            "raum": "0-Hörsaal - 2641.HS 6J",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Ausweichraum, Rektoratsbegrüßung"
+          },
+          {
+            "tag": "Mo.",
+            "zeit": "12:30 bis 14:30",
+            "rhythmus": "woch",
+            "dauer": "13.10.2025 bis 02.02.2026",
+            "raum": "0-Hörsaal - 2301.HS 3A",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Vorlesung"
+          },
+          {
+            "tag": "Mo.",
+            "zeit": "12:30 bis 14:30",
+            "rhythmus": "Einzel",
+            "dauer": "am 19.01.2026",
+            "raum": "0-Hörsaal - 2201.HS 2A",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Zulassungstest (Termin 1)"
+          },
+          {
+            "tag": "Mo.",
+            "zeit": "12:30 bis 14:30",
+            "rhythmus": "Einzel",
+            "dauer": "am 19.01.2026",
+            "raum": "0-Hörsaal - 2641.HS 6J",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Zulassungstest (Termin 1)"
+          },
+          {
+            "tag": "Mi.",
+            "zeit": "12:30 bis 14:30",
+            "rhythmus": "woch",
+            "dauer": "15.10.2025 bis 04.02.2026",
+            "raum": "0-Hörsaal - 2641.HS 6J",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Vorlesung / Tutorium HS3D gesperrt"
+          },
+          {
+            "tag": "Do.",
+            "zeit": "08:30 bis 11:30",
+            "rhythmus": "Einzel",
+            "dauer": "am 26.02.2026",
+            "raum": "0-Hörsaal - 2511.HS 5C",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Zulassungstest (Termin 3)"
+          },
+          {
+            "tag": "Fr.",
+            "zeit": "12:30 bis 14:30",
+            "rhythmus": "Einzel",
+            "dauer": "am 30.01.2026",
+            "raum": "0-Hörsaal - 2301.HS 3A",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Zulassungstest (Termin 2)"
+          },
+          {
+            "tag": "Fr.",
+            "zeit": "12:30 bis 14:30",
+            "rhythmus": "Einzel",
+            "dauer": "am 30.01.2026",
+            "raum": "0-Hörsaal - 2511.HS 5C",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Zulassungstest (Termin 2)"
+          }
+        ],
+        "studiengaenge": [
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Naturwissenschaften (BSc, PO 2018)",
+            "semester": "-",
+            "po_version": "2018"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Medizinische Physik (BSc, PO 2019)",
+            "semester": "-",
+            "po_version": "2019"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Medizinische Physik (BSc, PO 2012)",
+            "semester": "-",
+            "po_version": "2012"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Physik (BSc, PO 2019)",
+            "semester": "-",
+            "po_version": "2019"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Physik (BSc, PO 2012)",
+            "semester": "-",
+            "po_version": "2012"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Mathematik (BSc, PO 2008)",
+            "semester": "-",
+            "po_version": "2008"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Mathematik und Anwendungsgebiete (BSc, PO 2014)",
+            "semester": "-",
+            "po_version": "2014"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Informatik (BSc, PO 2021)",
+            "semester": "-",
+            "po_version": "2021"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Informatik (BSc, PO 2016)",
+            "semester": "-",
+            "po_version": "2016"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Interdisziplin. Naturwissenschaften (BSc, PO 2023)",
+            "semester": "-",
+            "po_version": "2023"
+          }
+        ],
+        "module": [],
+        "einrichtungen": [
+          "Wissenschaftliche Einrichtung Informatik"
+        ]
+      },
+      "- Übung: Programmierung (Übung) Heinrich Heine Universität Düsseldorf.html": {
+        "titel": "Programmierung (Übung)",
+        "veranstaltungsart": "Übung",
+        "veranstaltungs_id": "267325",
+        "semester": "WiSe 2025/26",
+        "ects_ohne_pruefung": null,
+        "ects_mit_pruefung": null,
+        "sprache": null,
+        "hyperlinks": [],
+        "personen": [
+          {
+            "name": "Brenneis, Markus , Dr.",
+            "zustaendigkeit": "verantwort"
+          }
+        ],
+        "termine": [
+          {
+            "tag": "Di.",
+            "zeit": "08:30 bis 10:30",
+            "rhythmus": "woch",
+            "dauer": "21.10.2025 bis 03.02.2026",
+            "raum": "Gebäude 25.41 - 2541.U1.22",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Bitte beachten Sie die Bemerkung im Abschnitt „Inhalt“ weiter unten"
+          },
+          {
+            "tag": "Di.",
+            "zeit": "10:30 bis 12:00",
+            "rhythmus": "woch",
+            "dauer": "21.10.2025 bis 03.02.2026",
+            "raum": "Gebäude 25.41 - 2541.U1.22",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Übung für eingeschränkten Personenkreis (z. B. Neulinge), siehe Ilias"
+          },
+          {
+            "tag": "Di.",
+            "zeit": "10:30 bis 12:00",
+            "rhythmus": "woch",
+            "dauer": "21.10.2025 bis 03.02.2026",
+            "raum": "0-Hörsaal - 2522.HS 5H",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": ""
+          },
+          {
+            "tag": "Di.",
+            "zeit": "12:30 bis 14:00",
+            "rhythmus": "woch",
+            "dauer": "21.10.2025 bis 03.02.2026",
+            "raum": "0-Hörsaal - 2522.HS 5G",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": ""
+          },
+          {
+            "tag": "Di.",
+            "zeit": "12:30 bis 14:30",
+            "rhythmus": "woch",
+            "dauer": "28.10.2025 bis 20.01.2026",
+            "raum": "Gebäude 25.41 - 2541.U1.22",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Übung für eingeschränkten Personenkreis (z. B. Neulinge), siehe Ilias"
+          },
+          {
+            "tag": "Di.",
+            "zeit": "14:30 bis 16:30",
+            "rhythmus": "woch",
+            "dauer": "28.10.2025 bis 20.01.2026",
+            "raum": "Gebäude 25.41 - 2541.U1.22",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": ""
+          },
+          {
+            "tag": "Di.",
+            "zeit": "16:30 bis 18:00",
+            "rhythmus": "woch",
+            "dauer": "28.10.2025 bis 20.01.2026",
+            "raum": "Gebäude 25.41 - 2541.U1.22",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": ""
+          },
+          {
+            "tag": "Mi.",
+            "zeit": "08:30 bis 10:00",
+            "rhythmus": "woch",
+            "dauer": "15.10.2025 bis 04.02.2026",
+            "raum": "0-Hörsaal - 1612.HS Ersatz",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Bei extrem hoher Nachfrage."
+          },
+          {
+            "tag": "Do.",
+            "zeit": "08:30 bis 10:30",
+            "rhythmus": "woch",
+            "dauer": "23.10.2025 bis 05.02.2026",
+            "raum": "Gebäude 25.41 - 2541.U1.22",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": ""
+          },
+          {
+            "tag": "Do.",
+            "zeit": "10:30 bis 12:00",
+            "rhythmus": "woch",
+            "dauer": "23.10.2025 bis 05.02.2026",
+            "raum": "Gebäude 25.22 - 2522.U1.33",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": ""
+          },
+          {
+            "tag": "Do.",
+            "zeit": "10:30 bis 12:30",
+            "rhythmus": "woch",
+            "dauer": "23.10.2025 bis 05.02.2026",
+            "raum": "Gebäude 25.41 - 2541.U1.22",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": ""
+          },
+          {
+            "tag": "Do.",
+            "zeit": "12:30 bis 14:30",
+            "rhythmus": "woch",
+            "dauer": "30.10.2025 bis 22.01.2026",
+            "raum": "Gebäude 25.41 - 2541.U1.22",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": ""
+          },
+          {
+            "tag": "Do.",
+            "zeit": "14:30 bis 16:30",
+            "rhythmus": "woch",
+            "dauer": "30.10.2025 bis 22.01.2026",
+            "raum": "Gebäude 25.41 - 2541.U1.22",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": ""
+          },
+          {
+            "tag": "Fr.",
+            "zeit": "10:30 bis 12:00",
+            "rhythmus": "woch",
+            "dauer": "24.10.2025 bis 06.02.2026",
+            "raum": "Gebäude 25.22 - 2522.00.82",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": "Onlineübung"
+          },
+          {
+            "tag": "Fr.",
+            "zeit": "12:30 bis 14:00",
+            "rhythmus": "woch",
+            "dauer": "24.10.2025 bis 06.02.2026",
+            "raum": "0-Hörsaal - 2641.HS 6G",
+            "lehrperson": "",
+            "status": "",
+            "bemerkung": ""
+          }
+        ],
+        "studiengaenge": [
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Naturwissenschaften (BSc, PO 2018)",
+            "semester": "-",
+            "po_version": "2018"
+          },
+          {
+            "abschluss": "ohne Abschluß",
+            "studiengang": "Computerlinguistik (OA, PO 2017)",
+            "semester": "-",
+            "po_version": "2017"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Informatik (BSc, PO 2016)",
+            "semester": "-",
+            "po_version": "2016"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Informatik (BSc, PO 2013)",
+            "semester": "-",
+            "po_version": "2013"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Informatik (BSc, PO 2021)",
+            "semester": "-",
+            "po_version": "2021"
+          },
+          {
+            "abschluss": "Bachelor",
+            "studiengang": "Interdisziplin. Naturwissenschaften (BSc, PO 2023)",
+            "semester": "-",
+            "po_version": "2023"
+          }
+        ],
+        "module": [],
+        "einrichtungen": [
+          "Wissenschaftliche Einrichtung Informatik"
+        ]
+      }
+    },
+    "count": 4
+  },
+  "website_data": {
+    "source": "website_extractor",
+    "data": {
+      "https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/algorithmen-und-datenstrukturen": {
+        "source_url": "https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/algorithmen-und-datenstrukturen",
+        "title": "Algorithmen und Datenstrukturen (Prof. Dr. Wanke)",
+        "department": "Unsere Arbeitsgruppe Lehre und Abschlussarbeiten Unsere Forschung Schriftenverzeichnis Offene Stellen Lage und Anreise Verantwortlichkeit: WE Informatik (Mail an die Webredaktion) : Per E-Mail kontaktieren Nach oben Open search Close search Search",
+        "professor": "Wanke",
+        "contact_info": {
+          "phones": [
+            "+49 ",
+            "40"
+          ]
+        },
+        "keywords_found": {
+          "sprechstunde": [
+            {
+              "keyword": "sprechstunde",
+              "context": "ng des entwickelten Lösungskonzepts. Postanschrift Prof. Dr. Egon Wanke Gebäude 25.13, Raum O2.39 Institut für Informatik Heinrich-Heine-Universität Düsseldorf Universitätsstraße 1 D-40225 Düsseldorf Sprechstunde während der Vorlesungszeit: mittwochs: 10:00 Uhr bis 11:30 Uhr außerhalb der Vorlesungszeit: nach Vereinbarung Lehrstuhlinhaber Prof. Dr. Egon Wanke Gebäude: 25.13 Etage/Raum: O2/39 +49 211 8113730 E",
+              "position": 821
+            }
+          ],
+          "vorlesung": [
+            {
+              "keyword": "vorlesung",
+              "context": "gskonzepts. Postanschrift Prof. Dr. Egon Wanke Gebäude 25.13, Raum O2.39 Institut für Informatik Heinrich-Heine-Universität Düsseldorf Universitätsstraße 1 D-40225 Düsseldorf Sprechstunde während der Vorlesungszeit: mittwochs: 10:00 Uhr bis 11:30 Uhr außerhalb der Vorlesungszeit: nach Vereinbarung Lehrstuhlinhaber Prof. Dr. Egon Wanke Gebäude: 25.13 Etage/Raum: O2/39 +49 211 8113730 E-Mail senden Startseit",
+              "position": 846
+            },
+            {
+              "keyword": "vorlesung",
+              "context": "m O2.39 Institut für Informatik Heinrich-Heine-Universität Düsseldorf Universitätsstraße 1 D-40225 Düsseldorf Sprechstunde während der Vorlesungszeit: mittwochs: 10:00 Uhr bis 11:30 Uhr außerhalb der Vorlesungszeit: nach Vereinbarung Lehrstuhlinhaber Prof. Dr. Egon Wanke Gebäude: 25.13 Etage/Raum: O2/39 +49 211 8113730 E-Mail senden Startseite Informatik Startseite Abteilung Unsere Arbeitsgruppe Lehre und",
+              "position": 911
+            }
+          ],
+          "dozent": [
+            {
+              "keyword": "prof.",
+              "context": "Algorithmen und Datenstrukturen (Prof. Dr. Wanke) Zum Inhalt springen Zur Suche springen de / en | Intranet | Portale | ULB-Katalog HHU Math.-Nat. Fakultät Informatik Lehrstühle und Arbeitsgruppen Algorithmen und Datenstrukturen (Prof. Dr",
+              "position": 34
+            },
+            {
+              "keyword": "prof.",
+              "context": "n (Prof. Dr. Wanke) Zum Inhalt springen Zur Suche springen de / en | Intranet | Portale | ULB-Katalog HHU Math.-Nat. Fakultät Informatik Lehrstühle und Arbeitsgruppen Algorithmen und Datenstrukturen (Prof. Dr. Wanke) Wir beschäftigen uns mit dem systematischen Entwurf von Algorithmen und Datenstrukturen in den unterschiedlichsten Anwendungsbereichen. Dazu gehören die Komplexitätsanalyse der Problemstel",
+              "position": 231
+            },
+            {
+              "keyword": "prof.",
+              "context": "thmen für das spezifizierte Problem, die Implementierung der entworfenen Algorithmen mit geeigneten Programmiersprachen sowie die empirische Auswertung des entwickelten Lösungskonzepts. Postanschrift Prof. Dr. Egon Wanke Gebäude 25.13, Raum O2.39 Institut für Informatik Heinrich-Heine-Universität Düsseldorf Universitätsstraße 1 D-40225 Düsseldorf Sprechstunde während der Vorlesungszeit: mittwochs: 10:0",
+              "position": 672
+            },
+            {
+              "keyword": "prof.",
+              "context": "ersität Düsseldorf Universitätsstraße 1 D-40225 Düsseldorf Sprechstunde während der Vorlesungszeit: mittwochs: 10:00 Uhr bis 11:30 Uhr außerhalb der Vorlesungszeit: nach Vereinbarung Lehrstuhlinhaber Prof. Dr. Egon Wanke Gebäude: 25.13 Etage/Raum: O2/39 +49 211 8113730 E-Mail senden Startseite Informatik Startseite Abteilung Unsere Arbeitsgruppe Lehre und Abschlussarbeiten Unsere Forschung Schriftenver",
+              "position": 962
+            }
+          ],
+          "raum": [
+            {
+              "keyword": "raum",
+              "context": "die Implementierung der entworfenen Algorithmen mit geeigneten Programmiersprachen sowie die empirische Auswertung des entwickelten Lösungskonzepts. Postanschrift Prof. Dr. Egon Wanke Gebäude 25.13, Raum O2.39 Institut für Informatik Heinrich-Heine-Universität Düsseldorf Universitätsstraße 1 D-40225 Düsseldorf Sprechstunde während der Vorlesungszeit: mittwochs: 10:00 Uhr bis 11:30 Uhr außerhalb der V",
+              "position": 708
+            },
+            {
+              "keyword": "raum",
+              "context": "40225 Düsseldorf Sprechstunde während der Vorlesungszeit: mittwochs: 10:00 Uhr bis 11:30 Uhr außerhalb der Vorlesungszeit: nach Vereinbarung Lehrstuhlinhaber Prof. Dr. Egon Wanke Gebäude: 25.13 Etage/Raum: O2/39 +49 211 8113730 E-Mail senden Startseite Informatik Startseite Abteilung Unsere Arbeitsgruppe Lehre und Abschlussarbeiten Unsere Forschung Schriftenverzeichnis Offene Stellen Lage und Anreise",
+              "position": 1004
+            },
+            {
+              "keyword": "gebäude",
+              "context": "zierte Problem, die Implementierung der entworfenen Algorithmen mit geeigneten Programmiersprachen sowie die empirische Auswertung des entwickelten Lösungskonzepts. Postanschrift Prof. Dr. Egon Wanke Gebäude 25.13, Raum O2.39 Institut für Informatik Heinrich-Heine-Universität Düsseldorf Universitätsstraße 1 D-40225 Düsseldorf Sprechstunde während der Vorlesungszeit: mittwochs: 10:00 Uhr bis 11:30 Uhr auß",
+              "position": 693
+            },
+            {
+              "keyword": "gebäude",
+              "context": "iversitätsstraße 1 D-40225 Düsseldorf Sprechstunde während der Vorlesungszeit: mittwochs: 10:00 Uhr bis 11:30 Uhr außerhalb der Vorlesungszeit: nach Vereinbarung Lehrstuhlinhaber Prof. Dr. Egon Wanke Gebäude: 25.13 Etage/Raum: O2/39 +49 211 8113730 E-Mail senden Startseite Informatik Startseite Abteilung Unsere Arbeitsgruppe Lehre und Abschlussarbeiten Unsere Forschung Schriftenverzeichnis Offene Stellen",
+              "position": 983
+            }
+          ]
+        },
+        "links": [
+          {
+            "url": "https://www.cs.hhu.de/en/research-groups/algorithms-and-data-structures",
+            "text": "en"
+          },
+          {
+            "url": "https://www.intranet.hhu.de/",
+            "text": "Intranet"
+          },
+          {
+            "url": "https://portale.hhu.de",
+            "text": "Portale"
+          },
+          {
+            "url": "https://katalog.ulb.hhu.de",
+            "text": "ULB-Katalog"
+          },
+          {
+            "url": "https://www.hhu.de/",
+            "text": "HHU"
+          },
+          {
+            "url": "https://www.math-nat-fak.hhu.de/",
+            "text": "Math.-Nat. Fakultät"
+          },
+          {
+            "url": "https://www.cs.hhu.de/",
+            "text": "Informatik"
+          },
+          {
+            "url": "https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen",
+            "text": "Lehrstühle und Arbeitsgruppen"
+          },
+          {
+            "url": "https://www.cs.hhu.de/",
+            "text": "Startseite Informatik"
+          },
+          {
+            "url": "https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/algorithmen-und-datenstrukturen",
+            "text": "Startseite Abteilung"
+          },
+          {
+            "url": "https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/algorithmen-und-datenstrukturen/unser-team",
+            "text": "Unsere Arbeitsgruppe"
+          },
+          {
+            "url": "https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/algorithmen-und-datenstrukturen/lehre-und-abschlussarbeiten",
+            "text": "Lehre und Abschlussarbeiten"
+          },
+          {
+            "url": "https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/algorithmen-und-datenstrukturen/unsere-forschung",
+            "text": "Unsere Forschung"
+          },
+          {
+            "url": "https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/algorithmen-und-datenstrukturen/publikationen",
+            "text": "Schriftenverzeichnis"
+          },
+          {
+            "url": "https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/algorithmen-und-datenstrukturen/jobs",
+            "text": "Offene Stellen"
+          },
+          {
+            "url": "https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/algorithmen-und-datenstrukturen/serviceseite/lage-und-anreise-1",
+            "text": "Lage und Anreise"
+          }
+        ],
+        "text_blocks": [
+          "de/en|Intranet|Portale|ULB-Katalog",
+          "HHUMath.-Nat. FakultätInformatikLehrstühle und ArbeitsgruppenAlgorithmen und Datenstrukturen (Prof. Dr. Wanke)",
+          "Wir beschäftigen uns mit dem systematischen Entwurf von Algorithmen und Datenstrukturen in den unterschiedlichsten Anwendungsbereichen. Dazu gehören die Komplexitätsanalyse der Problemstellung, der Entwurf effizienter Algorithmen für das spezifizierte Problem, die Implementierung der entworfenen Algorithmen mit geeigneten Programmiersprachen sowie die empirische Auswertung des entwickelten Lösungskonzepts.PostanschriftProf. Dr. Egon WankeGebäude 25.13, Raum O2.39Institut für InformatikHeinrich-Heine-Universität DüsseldorfUniversitätsstraße 1D-40225 DüsseldorfSprechstundewährend der Vorlesungszeit:mittwochs: 10:00 Uhr bis 11:30 Uhraußerhalb der Vorlesungszeit:nach VereinbarungLehrstuhlinhaberProf. Dr. Egon  WankeGebäude: 25.13Etage/Raum: O2/39+49 211 8113730E-Mail sendenStartseite InformatikStartseite AbteilungUnsere ArbeitsgruppeLehre und AbschlussarbeitenUnsere ForschungSchriftenverzeichnisOffene StellenLage und Anreise",
+          "Wir beschäftigen uns mit dem systematischen Entwurf von Algorithmen und Datenstrukturen in den unterschiedlichsten Anwendungsbereichen. Dazu gehören die Komplexitätsanalyse der Problemstellung, der Entwurf effizienter Algorithmen für das spezifizierte Problem, die Implementierung der entworfenen Algorithmen mit geeigneten Programmiersprachen sowie die empirische Auswertung des entwickelten Lösungskonzepts.PostanschriftProf. Dr. Egon WankeGebäude 25.13, Raum O2.39Institut für InformatikHeinrich-Heine-Universität DüsseldorfUniversitätsstraße 1D-40225 DüsseldorfSprechstundewährend der Vorlesungszeit:mittwochs: 10:00 Uhr bis 11:30 Uhraußerhalb der Vorlesungszeit:nach VereinbarungLehrstuhlinhaberProf. Dr. Egon  WankeGebäude: 25.13Etage/Raum: O2/39+49 211 8113730E-Mail sendenStartseite InformatikStartseite AbteilungUnsere ArbeitsgruppeLehre und AbschlussarbeitenUnsere ForschungSchriftenverzeichnisOffene StellenLage und Anreise",
+          "Wir beschäftigen uns mit dem systematischen Entwurf von Algorithmen und Datenstrukturen in den unterschiedlichsten Anwendungsbereichen. Dazu gehören die Komplexitätsanalyse der Problemstellung, der Entwurf effizienter Algorithmen für das spezifizierte Problem, die Implementierung der entworfenen Algorithmen mit geeigneten Programmiersprachen sowie die empirische Auswertung des entwickelten Lösungskonzepts.PostanschriftProf. Dr. Egon WankeGebäude 25.13, Raum O2.39Institut für InformatikHeinrich-Heine-Universität DüsseldorfUniversitätsstraße 1D-40225 DüsseldorfSprechstundewährend der Vorlesungszeit:mittwochs: 10:00 Uhr bis 11:30 Uhraußerhalb der Vorlesungszeit:nach VereinbarungLehrstuhlinhaberProf. Dr. Egon  WankeGebäude: 25.13Etage/Raum: O2/39+49 211 8113730E-Mail sendenStartseite InformatikStartseite AbteilungUnsere ArbeitsgruppeLehre und AbschlussarbeitenUnsere ForschungSchriftenverzeichnisOffene StellenLage und Anreise",
+          "Wir beschäftigen uns mit dem systematischen Entwurf von Algorithmen und Datenstrukturen in den unterschiedlichsten Anwendungsbereichen. Dazu gehören die Komplexitätsanalyse der Problemstellung, der Entwurf effizienter Algorithmen für das spezifizierte Problem, die Implementierung der entworfenen Algorithmen mit geeigneten Programmiersprachen sowie die empirische Auswertung des entwickelten Lösungskonzepts.PostanschriftProf. Dr. Egon WankeGebäude 25.13, Raum O2.39Institut für InformatikHeinrich-Heine-Universität DüsseldorfUniversitätsstraße 1D-40225 DüsseldorfSprechstundewährend der Vorlesungszeit:mittwochs: 10:00 Uhr bis 11:30 Uhraußerhalb der Vorlesungszeit:nach Vereinbarung",
+          "Wir beschäftigen uns mit dem systematischen Entwurf von Algorithmen und Datenstrukturen in den unterschiedlichsten Anwendungsbereichen. Dazu gehören die Komplexitätsanalyse der Problemstellung, der Entwurf effizienter Algorithmen für das spezifizierte Problem, die Implementierung der entworfenen Algorithmen mit geeigneten Programmiersprachen sowie die empirische Auswertung des entwickelten Lösungskonzepts.PostanschriftProf. Dr. Egon WankeGebäude 25.13, Raum O2.39Institut für InformatikHeinrich-Heine-Universität DüsseldorfUniversitätsstraße 1D-40225 DüsseldorfSprechstundewährend der Vorlesungszeit:mittwochs: 10:00 Uhr bis 11:30 Uhraußerhalb der Vorlesungszeit:nach Vereinbarung",
+          "Wir beschäftigen uns mit dem systematischen Entwurf von Algorithmen und Datenstrukturen in den unterschiedlichsten Anwendungsbereichen. Dazu gehören die Komplexitätsanalyse der Problemstellung, der Entwurf effizienter Algorithmen für das spezifizierte Problem, die Implementierung der entworfenen Algorithmen mit geeigneten Programmiersprachen sowie die empirische Auswertung des entwickelten Lösungskonzepts.PostanschriftProf. Dr. Egon WankeGebäude 25.13, Raum O2.39Institut für InformatikHeinrich-Heine-Universität DüsseldorfUniversitätsstraße 1D-40225 DüsseldorfSprechstundewährend der Vorlesungszeit:mittwochs: 10:00 Uhr bis 11:30 Uhraußerhalb der Vorlesungszeit:nach Vereinbarung",
+          "Wir beschäftigen uns mit dem systematischen Entwurf von Algorithmen und Datenstrukturen in den unterschiedlichsten Anwendungsbereichen. Dazu gehören die Komplexitätsanalyse der Problemstellung, der Entwurf effizienter Algorithmen für das spezifizierte Problem, die Implementierung der entworfenen Algorithmen mit geeigneten Programmiersprachen sowie die empirische Auswertung des entwickelten Lösungskonzepts.PostanschriftProf. Dr. Egon WankeGebäude 25.13, Raum O2.39Institut für InformatikHeinrich-Heine-Universität DüsseldorfUniversitätsstraße 1D-40225 DüsseldorfSprechstundewährend der Vorlesungszeit:mittwochs: 10:00 Uhr bis 11:30 Uhraußerhalb der Vorlesungszeit:nach Vereinbarung",
+          "Wir beschäftigen uns mit dem systematischen Entwurf von Algorithmen und Datenstrukturen in den unterschiedlichsten Anwendungsbereichen. Dazu gehören die Komplexitätsanalyse der Problemstellung, der Entwurf effizienter Algorithmen für das spezifizierte Problem, die Implementierung der entworfenen Algorithmen mit geeigneten Programmiersprachen sowie die empirische Auswertung des entwickelten Lösungskonzepts.",
+          "Prof. Dr. Egon WankeGebäude 25.13, Raum O2.39Institut für InformatikHeinrich-Heine-Universität DüsseldorfUniversitätsstraße 1D-40225 Düsseldorf",
+          "während der Vorlesungszeit:mittwochs: 10:00 Uhr bis 11:30 Uhraußerhalb der Vorlesungszeit:nach Vereinbarung",
+          "LehrstuhlinhaberProf. Dr. Egon  WankeGebäude: 25.13Etage/Raum: O2/39+49 211 8113730E-Mail senden",
+          "LehrstuhlinhaberProf. Dr. Egon  WankeGebäude: 25.13Etage/Raum: O2/39+49 211 8113730E-Mail senden",
+          "LehrstuhlinhaberProf. Dr. Egon  WankeGebäude: 25.13Etage/Raum: O2/39+49 211 8113730E-Mail senden",
+          "Prof. Dr. Egon  Wanke",
+          "+49 211 8113730E-Mail senden",
+          "Startseite Informatik",
+          "Startseite Informatik",
+          "Startseite Informatik",
+          "Startseite Informatik",
+          "Startseite AbteilungUnsere ArbeitsgruppeLehre und AbschlussarbeitenUnsere ForschungSchriftenverzeichnisOffene StellenLage und Anreise",
+          "Startseite AbteilungUnsere ArbeitsgruppeLehre und AbschlussarbeitenUnsere ForschungSchriftenverzeichnisOffene StellenLage und Anreise",
+          "Startseite AbteilungUnsere ArbeitsgruppeLehre und AbschlussarbeitenUnsere ForschungSchriftenverzeichnisOffene StellenLage und Anreise",
+          "Lehre und Abschlussarbeiten",
+          "Verantwortlichkeit:WE Informatik (Mail an die Webredaktion): Per E-Mail kontaktieren",
+          "Verantwortlichkeit:WE Informatik (Mail an die Webredaktion): Per E-Mail kontaktieren",
+          "Open searchClose searchSearch",
+          "Open searchClose searchSearch"
+        ]
+      },
+      "https://dbs.cs.uni-duesseldorf.de/": {
+        "source_url": "https://dbs.cs.uni-duesseldorf.de/",
+        "title": "Universität Düsseldorf: Informatik - Lehrstuhl Datenbanken und Informationssysteme",
+        "department": "Datenbanken und Informationssysteme Heinrich-Heine-Universität Düsseldorf Datenbanken und Informationssysteme Portale ULB-Katalog Intranet HHU Start Fakultäten MNF Fächer Informatik Lehrstühle und Arbeitsgruppen Datenbanken & Informationssysteme Zurück zur Informatik Aktuelles / Termine Unser Team Lehre Unsere Forschung Publikationen Datasets Sonstiges Kontakt Datenschutz Impressum Serviceseiten Shortcuts Transaktionsverwaltung DBS-Praktikum Abschlussarbeiten Aktuelles ImageCLEFmedical Caption Challenge 2024 Kirill Bogomasov und Heiko Kauschke haben bei der ImageCLEFmedical Caption Challenge 2024 den ersten Platz erreicht. Helsinki Tomography Challenge 2022 Thomas Germer (Heinrich Heine Universität)",
+        "professor": "Stefan Conrad Universit",
+        "contact_info": {
+          "phones": [
+            "1 ",
+            "2",
+            "+49 ",
+            "200"
+          ]
+        },
+        "keywords_found": {
+          "klausur": [
+            {
+              "keyword": "exam",
+              "context": ".02.33 Präsentation Bachelorarbeit \"Prognose und Einflussanalyse des globalen Energieverbrauchs mithilfe eines CNN-LSTM-Modells\" (Shifeng Geng) 24.10.25, 15:00 Raum: Online Präsentation Masterarbeit \"Examining Circulating Tumor Cells Using Deep-Learning-Based Features\" (Heiko Kauschke) Heinrich Heine Universität Datenbanken und Informationssysteme Lehrstuhlinhaber Prof. Dr. Stefan Conrad Universitätss",
+              "position": 1971
+            }
+          ],
+          "praktikum": [
+            {
+              "keyword": "praktikum",
+              "context": "nssysteme Zurück zur Informatik Aktuelles / Termine Unser Team Lehre Unsere Forschung Publikationen Datasets Sonstiges Kontakt Datenschutz Impressum Serviceseiten Shortcuts Transaktionsverwaltung DBS-Praktikum Abschlussarbeiten Aktuelles ImageCLEFmedical Caption Challenge 2024 Kirill Bogomasov und Heiko Kauschke haben bei der ImageCLEFmedical Caption Challenge 2024 den ersten Platz erreicht. Helsinki Tomog",
+              "position": 484
+            }
+          ],
+          "dozent": [
+            {
+              "keyword": "prof.",
+              "context": "nline Präsentation Masterarbeit \"Examining Circulating Tumor Cells Using Deep-Learning-Based Features\" (Heiko Kauschke) Heinrich Heine Universität Datenbanken und Informationssysteme Lehrstuhlinhaber Prof. Dr. Stefan Conrad Universitätsstr. 1 40225 Düsseldorf Gebäude: 25.12 Etage/Raum: 02.24 Tel.: +49 211 81-14088 E-Mail senden Sekretariat Lisa Lorenz Universitätsstr. 1 40225 Düsseldorf Gebäude: 25.12",
+              "position": 2138
+            }
+          ],
+          "raum": [
+            {
+              "keyword": "raum",
+              "context": "ction of outliers in time series by analyzing cluster transitions. den Best Paper Award der International conference on Time Series and Forecasting 2022 (ITISE 2022) erhalten. Termine 18.12.25, 10:00 Raum: 25.22.00.82 Präsentation Bachelorarbeit \"Text-to-SQL-Based Ontology Evaluation for Task-Oriented Dialogue\" (Leon Can Alkan) 24.11.25, 14:00 Raum: 25.22.00.82 Präsentation Bachelorarbeit \"A Compariso",
+              "position": 1308
+            },
+            {
+              "keyword": "raum",
+              "context": "g 2022 (ITISE 2022) erhalten. Termine 18.12.25, 10:00 Raum: 25.22.00.82 Präsentation Bachelorarbeit \"Text-to-SQL-Based Ontology Evaluation for Task-Oriented Dialogue\" (Leon Can Alkan) 24.11.25, 14:00 Raum: 25.22.00.82 Präsentation Bachelorarbeit \"A Comparison Of Methods For Cable Detection In Images\" (Christian Steller) 17.11.25, 12:30 Raum: 25.12.02.33 Präsentation Bachelorarbeit \"Untersuchung der Pe",
+              "position": 1454
+            },
+            {
+              "keyword": "raum",
+              "context": "for Task-Oriented Dialogue\" (Leon Can Alkan) 24.11.25, 14:00 Raum: 25.22.00.82 Präsentation Bachelorarbeit \"A Comparison Of Methods For Cable Detection In Images\" (Christian Steller) 17.11.25, 12:30 Raum: 25.12.02.33 Präsentation Bachelorarbeit \"Untersuchung der Performance des XCM Modells zur kontinuierlichen Sepsisüberwachung\" (Sebastian Richter) 11.11.25, 15:00 Raum: 25.12.02.33 Präsentation Bache",
+              "position": 1592
+            },
+            {
+              "keyword": "raum",
+              "context": "istian Steller) 17.11.25, 12:30 Raum: 25.12.02.33 Präsentation Bachelorarbeit \"Untersuchung der Performance des XCM Modells zur kontinuierlichen Sepsisüberwachung\" (Sebastian Richter) 11.11.25, 15:00 Raum: 25.12.02.33 Präsentation Bachelorarbeit \"Prognose und Einflussanalyse des globalen Energieverbrauchs mithilfe eines CNN-LSTM-Modells\" (Shifeng Geng) 24.10.25, 15:00 Raum: Online Präsentation Mastera",
+              "position": 1760
+            },
+            {
+              "keyword": "raum",
+              "context": "ian Richter) 11.11.25, 15:00 Raum: 25.12.02.33 Präsentation Bachelorarbeit \"Prognose und Einflussanalyse des globalen Energieverbrauchs mithilfe eines CNN-LSTM-Modells\" (Shifeng Geng) 24.10.25, 15:00 Raum: Online Präsentation Masterarbeit \"Examining Circulating Tumor Cells Using Deep-Learning-Based Features\" (Heiko Kauschke) Heinrich Heine Universität Datenbanken und Informationssysteme Lehrstuhlinhab",
+              "position": 1931
+            },
+            {
+              "keyword": "raum",
+              "context": "rning-Based Features\" (Heiko Kauschke) Heinrich Heine Universität Datenbanken und Informationssysteme Lehrstuhlinhaber Prof. Dr. Stefan Conrad Universitätsstr. 1 40225 Düsseldorf Gebäude: 25.12 Etage/Raum: 02.24 Tel.: +49 211 81-14088 E-Mail senden Sekretariat Lisa Lorenz Universitätsstr. 1 40225 Düsseldorf Gebäude: 25.12 Etage/Raum: 02.22 Tel.: +49 211 81-11312 E-Mail senden Verantwortlich für den In",
+              "position": 2219
+            },
+            {
+              "keyword": "raum",
+              "context": "tefan Conrad Universitätsstr. 1 40225 Düsseldorf Gebäude: 25.12 Etage/Raum: 02.24 Tel.: +49 211 81-14088 E-Mail senden Sekretariat Lisa Lorenz Universitätsstr. 1 40225 Düsseldorf Gebäude: 25.12 Etage/Raum: 02.22 Tel.: +49 211 81-11312 E-Mail senden Verantwortlich für den Inhalt: Datenbanken & Informationssysteme © Copyright 2002-2023 Datenbanken & Informationssysteme Impressum Datenschutz Kontakt",
+              "position": 2349
+            },
+            {
+              "keyword": "gebäude",
+              "context": "Cells Using Deep-Learning-Based Features\" (Heiko Kauschke) Heinrich Heine Universität Datenbanken und Informationssysteme Lehrstuhlinhaber Prof. Dr. Stefan Conrad Universitätsstr. 1 40225 Düsseldorf Gebäude: 25.12 Etage/Raum: 02.24 Tel.: +49 211 81-14088 E-Mail senden Sekretariat Lisa Lorenz Universitätsstr. 1 40225 Düsseldorf Gebäude: 25.12 Etage/Raum: 02.22 Tel.: +49 211 81-11312 E-Mail senden Verantw",
+              "position": 2198
+            },
+            {
+              "keyword": "gebäude",
+              "context": "hlinhaber Prof. Dr. Stefan Conrad Universitätsstr. 1 40225 Düsseldorf Gebäude: 25.12 Etage/Raum: 02.24 Tel.: +49 211 81-14088 E-Mail senden Sekretariat Lisa Lorenz Universitätsstr. 1 40225 Düsseldorf Gebäude: 25.12 Etage/Raum: 02.22 Tel.: +49 211 81-11312 E-Mail senden Verantwortlich für den Inhalt: Datenbanken & Informationssysteme © Copyright 2002-2023 Datenbanken & Informationssysteme Impressum Datens",
+              "position": 2328
+            }
+          ],
+          "termin": [
+            {
+              "keyword": "termin",
+              "context": "anken und Informationssysteme Portale ULB-Katalog Intranet HHU Start Fakultäten MNF Fächer Informatik Lehrstühle und Arbeitsgruppen Datenbanken & Informationssysteme Zurück zur Informatik Aktuelles / Termine Unser Team Lehre Unsere Forschung Publikationen Datasets Sonstiges Kontakt Datenschutz Impressum Serviceseiten Shortcuts Transaktionsverwaltung DBS-Praktikum Abschlussarbeiten Aktuelles ImageCLEFmed",
+              "position": 328
+            },
+            {
+              "keyword": "termin",
+              "context": "cannot be detected. Detection of outliers in time series by analyzing cluster transitions. den Best Paper Award der International conference on Time Series and Forecasting 2022 (ITISE 2022) erhalten. Termine 18.12.25, 10:00 Raum: 25.22.00.82 Präsentation Bachelorarbeit \"Text-to-SQL-Based Ontology Evaluation for Task-Oriented Dialogue\" (Leon Can Alkan) 24.11.25, 14:00 Raum: 25.22.00.82 Präsentation Bache",
+              "position": 1284
+            },
+            {
+              "keyword": "termine",
+              "context": "anken und Informationssysteme Portale ULB-Katalog Intranet HHU Start Fakultäten MNF Fächer Informatik Lehrstühle und Arbeitsgruppen Datenbanken & Informationssysteme Zurück zur Informatik Aktuelles / Termine Unser Team Lehre Unsere Forschung Publikationen Datasets Sonstiges Kontakt Datenschutz Impressum Serviceseiten Shortcuts Transaktionsverwaltung DBS-Praktikum Abschlussarbeiten Aktuelles ImageCLEFmedi",
+              "position": 328
+            },
+            {
+              "keyword": "termine",
+              "context": "cannot be detected. Detection of outliers in time series by analyzing cluster transitions. den Best Paper Award der International conference on Time Series and Forecasting 2022 (ITISE 2022) erhalten. Termine 18.12.25, 10:00 Raum: 25.22.00.82 Präsentation Bachelorarbeit \"Text-to-SQL-Based Ontology Evaluation for Task-Oriented Dialogue\" (Leon Can Alkan) 24.11.25, 14:00 Raum: 25.22.00.82 Präsentation Bachel",
+              "position": 1284
+            }
+          ]
+        },
+        "links": [
+          {
+            "url": "https://portale.hhu.de/",
+            "text": "Portale"
+          },
+          {
+            "url": "https://katalog.ulb.hhu.de/",
+            "text": "ULB-Katalog"
+          },
+          {
+            "url": "https://www.mitarbeiter.hhu.de/",
+            "text": "Intranet"
+          },
+          {
+            "url": "https://www.uni-duesseldorf.de/home/",
+            "text": "HHU Start"
+          },
+          {
+            "url": "https://www.uni-duesseldorf.de/home/fakultaeten.html",
+            "text": "Fakultäten"
+          },
+          {
+            "url": "http://www.math-nat-fak.hhu.de/",
+            "text": "MNF"
+          },
+          {
+            "url": "http://www.math-nat-fak.hhu.de/faecher.html",
+            "text": "Fächer"
+          },
+          {
+            "url": "https://www.cs.hhu.de",
+            "text": "Informatik"
+          },
+          {
+            "url": "https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen.html",
+            "text": "Lehrstühle und Arbeitsgruppen"
+          },
+          {
+            "url": "https://www.dbs.cs.uni-duesseldorf.de",
+            "text": "Datenbanken & Informationssysteme"
+          },
+          {
+            "url": "https://www.cs.hhu.de/",
+            "text": "Zurück zur Informatik"
+          },
+          {
+            "url": "https://dbs.cs.uni-duesseldorf.de/index.php",
+            "text": "Aktuelles / Termine"
+          },
+          {
+            "url": "https://dbs.cs.uni-duesseldorf.de/mitarbeiter.php",
+            "text": "Unser Team"
+          },
+          {
+            "url": "https://dbs.cs.uni-duesseldorf.de/lehre/lehre.php",
+            "text": "Lehre"
+          },
+          {
+            "url": "https://dbs.cs.uni-duesseldorf.de/forschung.php",
+            "text": "Unsere Forschung"
+          },
+          {
+            "url": "https://dbs.cs.uni-duesseldorf.de/publikationen.php",
+            "text": "Publikationen"
+          },
+          {
+            "url": "https://dbs.cs.uni-duesseldorf.de/datasets/",
+            "text": "Datasets"
+          },
+          {
+            "url": "https://dbs.cs.uni-duesseldorf.de/sonstiges.php",
+            "text": "Sonstiges"
+          },
+          {
+            "url": "https://dbs.cs.uni-duesseldorf.de/kontakt.php",
+            "text": "Kontakt"
+          },
+          {
+            "url": "https://dbs.cs.uni-duesseldorf.de/datenschutz.php",
+            "text": "Datenschutz"
+          },
+          {
+            "url": "https://dbs.cs.uni-duesseldorf.de/impressum.php",
+            "text": "Impressum"
+          },
+          {
+            "url": "https://www.cs.hhu.de/serviceseiten.html",
+            "text": "Serviceseiten"
+          },
+          {
+            "url": "https://dbs.cs.uni-duesseldorf.de/lehre/veranst.php?veranst=130",
+            "text": "Transaktionsverwaltung"
+          },
+          {
+            "url": "https://dbs.cs.uni-duesseldorf.de/lehre/veranst.php?veranst=116",
+            "text": "DBS-Praktikum"
+          },
+          {
+            "url": "https://dbs.cs.uni-duesseldorf.de/lehre/bmarbeit/index.php",
+            "text": "Abschlussarbeiten"
+          },
+          {
+            "url": "https://imageclef.org/2024/medical/caption",
+            "text": "ImageCLEFmedical Caption Challenge 2024"
+          },
+          {
+            "url": "https://www.fips.fi/HTCresults.php#anchor1",
+            "text": "Helsinki Tomography Challenge 2022"
+          },
+          {
+            "url": "https://www.researchgate.net/publication/361372461_Alone_We_Can_Do_So_Little_Together_We_Cannot_Be_Detected",
+            "text": "Alone we can do so little; together we cannot be detected. Detection of outliers in time series by analyzing cluster transitions."
+          },
+          {
+            "url": "https://dbs.cs.uni-duesseldorf.de/impressum.php",
+            "text": "Impressum"
+          },
+          {
+            "url": "https://dbs.cs.uni-duesseldorf.de/datenschutz.php",
+            "text": "Datenschutz"
+          },
+          {
+            "url": "https://dbs.cs.uni-duesseldorf.de/kontakt.php",
+            "text": "Kontakt"
+          }
+        ],
+        "text_blocks": [
+          "Heinrich-Heine-Universität DüsseldorfDatenbanken und InformationssystemePortaleULB-KatalogIntranet",
+          "Heinrich-Heine-Universität Düsseldorf",
+          "Heinrich-Heine-Universität Düsseldorf",
+          "Datenbanken und InformationssystemePortaleULB-KatalogIntranet",
+          "Datenbanken und Informationssysteme",
+          "Datenbanken und Informationssysteme",
+          "PortaleULB-KatalogIntranet",
+          "HHU StartFakultätenMNFFächerInformatikLehrstühle und ArbeitsgruppenDatenbanken & Informationssysteme",
+          "HHU StartFakultätenMNFFächerInformatikLehrstühle und ArbeitsgruppenDatenbanken & Informationssysteme",
+          "HHU StartFakultätenMNFFächerInformatikLehrstühle und ArbeitsgruppenDatenbanken & Informationssysteme",
+          "Zurück zur InformatikAktuelles / TermineUnser TeamLehreUnsere ForschungPublikationenDatasetsSonstigesKontaktDatenschutzImpressumServiceseitenShortcutsTransaktionsverwaltungDBS-PraktikumAbschlussarbeiten",
+          "Zurück zur InformatikAktuelles / TermineUnser TeamLehreUnsere ForschungPublikationenDatasetsSonstigesKontaktDatenschutzImpressumServiceseitenShortcutsTransaktionsverwaltungDBS-PraktikumAbschlussarbeiten",
+          "Zurück zur Informatik",
+          "Kirill Bogomasov und Heiko Kauschke haben bei derImageCLEFmedical Caption Challenge 2024den ersten Platz erreicht.",
+          "18.12.25, 10:00Raum:  25.22.00.82",
+          "Präsentation Bachelorarbeit",
+          "\"Text-to-SQL-Based Ontology Evaluation for Task-Oriented Dialogue\" (Leon Can Alkan)",
+          "24.11.25, 14:00Raum:  25.22.00.82",
+          "Präsentation Bachelorarbeit",
+          "\"A Comparison Of Methods For Cable Detection In Images\" (Christian Steller)",
+          "17.11.25, 12:30Raum:  25.12.02.33",
+          "Präsentation Bachelorarbeit",
+          "\"Untersuchung der Performance des XCM Modells zur kontinuierlichen Sepsisüberwachung\" (Sebastian Richter)",
+          "11.11.25, 15:00Raum:  25.12.02.33",
+          "Präsentation Bachelorarbeit",
+          "\"Prognose und Einflussanalyse des globalen Energieverbrauchs mithilfe eines CNN-LSTM-Modells\" (Shifeng Geng)",
+          "24.10.25, 15:00Raum:  Online",
+          "Präsentation Masterarbeit",
+          "\"Examining Circulating Tumor Cells Using Deep-Learning-Based Features\" (Heiko Kauschke)",
+          "Heinrich Heine UniversitätDatenbanken und InformationssystemeLehrstuhlinhaberProf. Dr. Stefan  ConradUniversitätsstr. 140225DüsseldorfGebäude: 25.12Etage/Raum: 02.24Tel.: +49 211 81-14088E-Mail sendenSekretariatLisa LorenzUniversitätsstr. 140225DüsseldorfGebäude: 25.12Etage/Raum: 02.22Tel.: +49 211 81-11312E-Mail senden",
+          "Heinrich Heine UniversitätDatenbanken und InformationssystemeLehrstuhlinhaberProf. Dr. Stefan  ConradUniversitätsstr. 140225DüsseldorfGebäude: 25.12Etage/Raum: 02.24Tel.: +49 211 81-14088E-Mail sendenSekretariatLisa LorenzUniversitätsstr. 140225DüsseldorfGebäude: 25.12Etage/Raum: 02.22Tel.: +49 211 81-11312E-Mail senden",
+          "Heinrich Heine Universität",
+          "Heinrich Heine Universität",
+          "Datenbanken und Informationssysteme",
+          "LehrstuhlinhaberProf. Dr. Stefan  ConradUniversitätsstr. 140225DüsseldorfGebäude: 25.12Etage/Raum: 02.24Tel.: +49 211 81-14088E-Mail senden",
+          "Universitätsstr. 140225DüsseldorfGebäude: 25.12Etage/Raum: 02.24",
+          "Tel.: +49 211 81-14088E-Mail senden",
+          "SekretariatLisa LorenzUniversitätsstr. 140225DüsseldorfGebäude: 25.12Etage/Raum: 02.22Tel.: +49 211 81-11312E-Mail senden",
+          "Universitätsstr. 140225DüsseldorfGebäude: 25.12Etage/Raum: 02.22",
+          "Tel.: +49 211 81-11312E-Mail senden",
+          "Verantwortlich für den Inhalt:Datenbanken & Informationssysteme",
+          "© Copyright 2002-2023 Datenbanken & InformationssystemeImpressumDatenschutzKontakt",
+          "© Copyright 2002-2023 Datenbanken & Informationssysteme"
+        ]
+      },
+      "https://ccc.cs.uni-duesseldorf.de/~rothe/": {
+        "source_url": "https://ccc.cs.uni-duesseldorf.de/~rothe/",
+        "title": "Jörg Rothe",
+        "department": "Informatik Heinrich-Heine-Universität Düsseldorf Universitätsstr. 1 40225 Düsseldorf Germany Office: Geb. 25.12",
+        "professor": null,
+        "contact_info": {
+          "emails": [
+            "rothe@hhu.de"
+          ],
+          "phones": [
+            "1 ",
+            "",
+            "2",
+            "+49 "
+          ]
+        },
+        "keywords_found": {
+          "ects": [
+            {
+              "keyword": "ects",
+              "context": "al Complexity • Computational Social Choice • Collective Decision Making • Algorithmic Game Theory • Fair Division • Argumentation Theory • Algorithmics • Cryptology List of Publications Research Projects Teaching Our Group Springer (2015) Spektrum (2011) COMSOC-2010 Springer (2010) [More information] Biographical Sketch Services Some Events Personal Stuff Springer (2008) Springer (2005) BoD (2015) [M",
+              "position": 547
+            }
+          ],
+          "dozent": [
+            {
+              "keyword": "prof.",
+              "context": "Jörg Rothe Prof. Dr. Jörg Rothe Institut für Informatik Heinrich-Heine-Universität Düsseldorf Universitätsstr. 1 40225 Düsseldorf Germany Office: Geb. 25.12, Ebene 02, Raum 26 Email: rothe@hhu.de Phone: +49 211 81 12",
+              "position": 12
+            }
+          ],
+          "raum": [
+            {
+              "keyword": "raum",
+              "context": "Jörg Rothe Prof. Dr. Jörg Rothe Institut für Informatik Heinrich-Heine-Universität Düsseldorf Universitätsstr. 1 40225 Düsseldorf Germany Office: Geb. 25.12, Ebene 02, Raum 26 Email: rothe@hhu.de Phone: +49 211 81 12188 Fax: +49 211 81 11667 WWW: https://ccc.cs.uni-duesseldorf.de/~rothe/ Secretary: Claudia Forstinger Research Areas: Computational Complexity • Computatio",
+              "position": 169
+            }
+          ]
+        },
+        "links": [
+          {
+            "url": "https://www.springer.com/de/book/9783662479032",
+            "text": "Springer (2015)"
+          },
+          {
+            "url": "https://www.springer.com/de/book/9783827425706",
+            "text": "Spektrum (2011)"
+          },
+          {
+            "url": "https://ccc.cs.uni-duesseldorf.de/COMSOC-2010/index.shtml",
+            "text": "COMSOC-2010"
+          },
+          {
+            "url": "https://www.springer.com/computer/theoretical+computer+science/book/978-3-642-04499-1",
+            "text": "Springer (2010)"
+          },
+          {
+            "url": "https://www.springer.com/computer/foundations/book/978-3-540-79744-9",
+            "text": "Springer (2008)"
+          },
+          {
+            "url": "https://www.springer.com/computer/foundations/book/978-3-540-22147-0",
+            "text": "Springer (2005)"
+          },
+          {
+            "url": "https://www.bod.de/buchshop/lilandra-joerg-rothe-9783738644807",
+            "text": "BoD (2015)"
+          },
+          {
+            "url": "https://www.bod.de/buchshop/lilandra-ii-joerg-rothe-9783734751776",
+            "text": "BoD (2015)"
+          },
+          {
+            "url": "https://www.lunardi-verlag.de/index.php?id=16000&b_id=0",
+            "text": "Lunardi (2005)"
+          },
+          {
+            "url": "https://www.amazon.de/LILANDRA-II-J%C3%B6rg-Rothe-ebook/dp/B00GEZ5YRY",
+            "text": "Kindle (2012)"
+          },
+          {
+            "url": "https://ccc.cs.uni-duesseldorf.de/",
+            "text": "CCC: Computational Complexity and Cryptology"
+          },
+          {
+            "url": "https://www.cs.uni-duesseldorf.de",
+            "text": "Institut für Informatik"
+          },
+          {
+            "url": "http://www.math-nat-fak.hhu.de/",
+            "text": "Mathematisch-Naturwissenschaftliche Fakultät"
+          },
+          {
+            "url": "https://www.uni-duesseldorf.de/home/startseite.html",
+            "text": "Heinrich-Heine-Universität Düsseldorf"
+          },
+          {
+            "url": "https://ccc.cs.uni-duesseldorf.de/~rothe/impressum.html",
+            "text": "Impressum"
+          },
+          {
+            "url": "https://ccc.cs.uni-duesseldorf.de/~rothe/datenschutz.html",
+            "text": "Datenschutz"
+          },
+          {
+            "url": "https://ccc.cs.uni-duesseldorf.de/~rothe/kontakt.html",
+            "text": "Kontakt"
+          }
+        ],
+        "text_blocks": [
+          "Office:Geb. 25.12, Ebene 02, Raum 26Email:rothe@hhu.dePhone:+49 211 81 12188Fax:+49 211 81 11667WWW:https://ccc.cs.uni-duesseldorf.de/~rothe/Secretary:Claudia Forstinger",
+          "List of PublicationsResearch ProjectsTeachingOur GroupSpringer (2015)Spektrum (2011)COMSOC-2010Springer (2010)[More information]Biographical SketchServicesSome EventsPersonal StuffSpringer (2008)Springer (2005)BoD (2015)[More]BoD (2015)[More][More information]Lunardi (2005)Kindle (2012)More information on:CCC: Computational Complexity and CryptologyInstitut für Informatik/Mathematisch-Naturwissenschaftliche Fakultät/Heinrich-Heine-Universität DüsseldorfLast update: April 22, 2021© Copyright seit 2000 Komplexitätstheorie & Kryptologie\n•Impressum•Datenschutz•Kontakt",
+          "List of PublicationsResearch ProjectsTeachingOur Group",
+          "Research ProjectsTeachingOur Group",
+          "Biographical SketchServicesSome EventsPersonal Stuff",
+          "ServicesSome EventsPersonal Stuff",
+          "Some EventsPersonal Stuff",
+          "Institut für Informatik/Mathematisch-Naturwissenschaftliche Fakultät/Heinrich-Heine-Universität DüsseldorfLast update: April 22, 2021© Copyright seit 2000 Komplexitätstheorie & Kryptologie\n•Impressum•Datenschutz•Kontakt",
+          "Last update: April 22, 2021© Copyright seit 2000 Komplexitätstheorie & Kryptologie\n•Impressum•Datenschutz•Kontakt",
+          "© Copyright seit 2000 Komplexitätstheorie & Kryptologie\n•Impressum•Datenschutz•Kontakt"
+        ]
+      }
+    },
+    "count": 3
+  },
+  "pdf_data": {
+    "source": "pdf_extractor",
+    "data": {
+      "modulhandbuch_bachelor_po21_de.pdf": {
+        "source_file": "modulhandbuch_bachelor_po21_de.pdf",
+        "modules": [
+          {
+            "modul_name": "nicht anmelden. Module mit inhaltlichen Voraussetzungen, setzen bestimmte Kenntnisse voraus. Wenn Sie",
+            "ects": null,
+            "semester": null,
+            "veranstaltungsart": null,
+            "sprache": "(deutsch oder englisch) angegeben. Dies ist die Sprache, in",
+            "voraussetzungen": null,
+            "inhalte": null,
+            "lernziele": null,
+            "prüfung": null,
+            "raw_text": "Modul\nnicht anmelden. Module mit inhaltlichen Voraussetzungen, setzen bestimmte Kenntnisse voraus. Wenn Sie\ndiese Kenntnisse nicht mitbringen, müssen Sie diese selbstständig erwerben. In der Regel empfehlen wir\ndazu, die entsprechenden Module zu absolvieren.\n\nformalen  und \n\nZu allen Modulen ist eine Unterrichtssprache (deutsch oder englisch) angegeben. Dies ist die Sprache, in\nwelcher in Lehrsituationen typischerweise kommuniziert wird. Es ist möglich, dass ein "
+          },
+          {
+            "modul_name": "in einzelnen",
+            "ects": "300",
+            "semester": null,
+            "veranstaltungsart": "praktikum",
+            "sprache": "der verwendeten Fachliteratur nicht der",
+            "voraussetzungen": null,
+            "inhalte": "Das",
+            "lernziele": "des Studiengangs Bachelor Informatik. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5",
+            "prüfung": null,
+            "raw_text": "Modul in einzelnen\nJahren  in  der  anderen  der  beiden  Sprachen  unterrichtet  wird.  Dies  wird  über  HIS/LSF  vor  Beginn  der\nLehrveranstaltung bekannt gegeben. Weiterhin muss die Sprache der verwendeten Fachliteratur nicht der\nUnterrichtssprache entsprechen. Die referenzierte Literatur ist häufig in englischer Sprache.\n\nBeachten  Sie  jedoch,  dass  in  allen  Fragen  zum  Studium  sowie  zum  Prüfungswesen  die  Bachelor-\nPrüfungsordnung des Fachs Informatik maßgeblich ist.\n\nDüsseldorf, 02. Juli 2025\n\nDer Prüfungsausschuss für den Bachelor-Studiengang Informatik\n\n2\n\nModulhandbuch B.Sc. Informatik PO 2021\n\nVersion: 2025-07-02\n\n\fInhaltsverzeichnis\n\nVorwort . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2\n\nQualifikationsziele des Studiengangs Bachelor Informatik. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5\n\nWissenschaftliche Befähigung und Befähigung zu einer qualifizierten Erwerbstätigkeit . . . . . . . . . . . . . .  5\n\nPersönlichkeitsentwicklung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5\n\nStudienverlaufspläne. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6\n\nPflichtmodule der Informatik (1.–4. Fachsemester) (en. Compulsory Modules in Computer\n\nScience) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7\n\nAlgorithmen und Datenstrukturen (en. Algorithms and Data Structures) . . . . . . . . . . . . . . . . . . . . . . . . . .  8\n\nC-Programmierung für Algorithmen und Datenstrukturen (en. C Programming for Algorithms and\n\nData Structures). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+          },
+          {
+            "modul_name": "befasst sich mit einer Auswahl von grundlegenden Algorithmen und Datenstrukturen aus",
+            "ects": null,
+            "semester": null,
+            "veranstaltungsart": "Vorlesung",
+            "sprache": null,
+            "voraussetzungen": null,
+            "inhalte": null,
+            "lernziele": null,
+            "prüfung": null,
+            "raw_text": "Modul  befasst  sich  mit  einer  Auswahl  von  grundlegenden  Algorithmen  und  Datenstrukturen  aus\nTheorie  und  Praxis.  Anhand  der  vorgestellten  Algorithmen  und  Datenstrukturen  wird  erläutert,  wie  der\nRessourcenverbrauch  (Rechenzeit-  und  Speicherplatzbedarf)  theoretisch  analysiert  und  vorhergesagt\nwerden kann.\n\n• Algorithmen und ihre formalen Grundlagen\n• Rechenmodelle, Effizienzmaße\n• Suchstrategien (Binärsuche)\n• Sortierverfahren (Quicksort, Heapsort, Mergesort, …)\n• Grundlegende Datenstrukturen (Arraylisten, verkettete Listen, Stacks und Queues)\n• Suchbäume (Binärbäume, Balancierte Suchbäume)\n• Dictionaries (offene Hashverfahren, dynamische Hashverfahren)\n• Prioritätswarteschlangen (Binäre Heaps)\n• Verwaltung von Mengensystemen (Union Find)\n• Amortisierte Laufzeitanalyse\n• Graphenalgorithmen (Tiefensuche, Breitensuche, Spannbäume, Kürzeste Wege)\n• Entwurfsmuster (Greedyalgorithmen, Divide-and-Conquer, Dynamische Programmierung)\n• Grenzen effizienter Algorithmen (Ausblick)\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• die  vorgestellten  Algorithmen/Datenstrukturen  anwenden,  analysieren  und  ihre  Funktionsweise\n\nerklären,\n\n• einen geeigneten Algorithmus/eine geeignete Datenstruktur für eine Problemstellung erkennen und aus\n\neinem Repertoire auswählen,\n\n• aus  einer  natürlichsprachlichen  Beschreibung  eine  Spezifikationen  eines  Algorithmus  oder  einer\nDatenstrukturen entwickeln und bestehende Spezifikationen erklären und Fragen dazu beantworten\n• den  Resourcenbedarf  von  Algorithmen  und  Datenstrukturen  mit  den  fundamentalen  Techniken  der\n\nVorlesung analysieren, vorhersagen und vergleichen,\n\n• nachweisen,  dass  ein  Algorithmus/eine  Datenstruktur  korrekt  arbeitet  und  andere  davon  überzeugen\n\nund\n\n• die vorgestellten Algorithmen und Datenstrukturen anpassen und kombinieren.\n\nLiteratur\n\n• Thomas  H.  Cormen,  Charles  E.  Leiserson,  Ronald  L. "
+          },
+          {
+            "modul_name": "CL6 im Bachelor-Studiengang Computerlinguistik",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "Vorlesung (2 SWS)",
+            "voraussetzungen": "• Formal: Erfolgreicher Abschluss des Moduls Programmierung oder des Moduls Mathematik für",
+            "inhalte": "der Module Programmierung und Mathematik für Informatik 1",
+            "lernziele": null,
+            "prüfung": "am Ende des Semesters",
+            "raw_text": "Modul CL6 im Bachelor-Studiengang Computerlinguistik\n\nTeilnahmevoraussetzungen\n\n• Formal:  Erfolgreicher  Abschluss  des  Moduls  Programmierung  oder  des  Moduls  Mathematik  für\n\nInformatik 1 oder des Moduls Analysis I.\n\n• Inhaltlich: Inhalte der Module Programmierung und Mathematik für Informatik 1\n\nVoraussetzungen für die Vergabe von Leistungspunkten\n\n• Erwerb  der  Klausurzulassung  durch  Bestehen  eines  Übungstests  sowie  Erreichen  der  notwendigen\n\nPunkte in den ILIAS-Übungen\n\n• schriftliche Klausur (i. d. R. 90 Minuten) oder mündliche Prüfung am Ende des Semesters\n\nModulbeauftragte und hauptamtlich Lehrende\n\nDr. Daniel Schmidt, Prof. Dr. Gunnar W. Klau, Prof. Dr. Melanie Schmidt\n\nLetzte Änderung 2025-06-13\n\nVersion: 2025-07-02\n\nModulhandbuch B.Sc. Informatik PO 2021\n\n9\n\n\fC-Programmierung für Algorithmen und Datenstrukturen\n(en. C Programming for Algorithms and Data Structures)\n\nLeistungspunkte\n\nArbeitsaufwand\n\nKontaktzeit\n\nSelbststudium\n\n5 LP\n\n150 Stunden\n\n60 Stunden\n\n90 Stunden\n\nLehrveranstaltungen\n\nTurnus\n\nStudiengang\n\nUnterrichtssprache\n\nVorlesung (2 SWS)\nÜbung (2 SWS)\n\nInhalte\n\njedes Sommersemester Bachelor-Studiengang\n\nDeutsch\n\nInformatik\n\nDieses "
+          },
+          {
+            "modul_name": "baut auf dem Modul Algorithmen und Datenstrukturen auf und ist der Implementierung der",
+            "ects": "300",
+            "semester": "02 semester",
+            "veranstaltungsart": "mit Hilfe eines Rechners zur Modellierung von Systemen und Vorhersage von",
+            "sprache": "C gewidmet. Konkret werden folgende Themen",
+            "voraussetzungen": "• Formal: Erfolgreicher Abschluss des Moduls Programmierung",
+            "inhalte": "der Module Algorithmen und Datenstrukturen und Programmierung",
+            "lernziele": null,
+            "prüfung": "(Klausur, i. d. R. 90 Minuten)",
+            "raw_text": "Modul baut auf dem Modul Algorithmen und Datenstrukturen auf und ist der Implementierung der\ndort  vermittelten  Konzepte  in  der  Programmiersprache  C  gewidmet.  Konkret  werden  folgende  Themen\nbehandelt:\n\n• Einführung in C\n• Grundlegende Datenstrukturen (Stacks, doppelt verkettete Listen, Bäume)\n• Suchbäume\n• Heaps\n• Quicksort\n• Hashing\n• Dynamische Graphdatenstruktur und Dijkstras Algorithmus\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• zentrale  Algorithmen  und  Datenstrukturen  in  der  Programmiersprache  C  unter  Berücksichtigung\n\ndynamischer Speicherverwaltung implementieren und\n\n• Werkzeuge für typische Aufgaben bei der C-Programmierung (Speicherverwaltung, Debugging, Build-\n\nProzesse) verwenden.\n\nLiteratur\n\n• R. Sedgewick: Algorithmen in C. Pearson. 2005.\n• R. Seacord: Effective C. No Starch Press. 2020.\n• G. Gonzales-Morris und I. Horton: Beginning C: From Beginner to Pro. Apress. 2020.\n\nVerwendbarkeit des Moduls\n\n• Pflichtbereich Bachelor-Studiengang PO 2021\n• Hardwarenahe Programmierung PO 2013, 2016\n\nTeilnahmevoraussetzungen\n\n• Formal: Erfolgreicher Abschluss des Moduls Programmierung\n• Inhaltlich: Inhalte der Module Algorithmen und Datenstrukturen und Programmierung\n\nVoraussetzungen für die Vergabe von Leistungspunkten\n\n• aktive  und  erfolgreiche  Mitarbeit \n\nin  den  Übungen  (wöchentliche  Programmieraufgaben  und\n\n10\n\nModulhandbuch B.Sc. Informatik PO 2021\n\nVersion: 2025-07-02\n\n\fsemesterbegleitende mündliche Testate, Anmeldemodalitäten, Bestehenskriterien und Termine werden\nzu Beginn der Veranstaltung bekannt gegeben)\n• schriftliche Prüfung (Klausur, i. d. R. 90 Minuten)\n\nModulbeauftragte und hauptamtlich Lehrende\n\nDr. Daniel Schmidt, Prof. Dr. Gunnar W. Klau, Prof. Dr. Melanie Schmidt\n\nLetzte Änderung 2025-06-13\n\nVersion: 2025-07-02\n\nModulhandbuch B.Sc. Informatik PO 2021\n\n11\n\n\fData Science (en. Data Science)\n\nLeistungspunkte\n\nArbeitsaufwand\n\nKontaktzeit\n\nSelbs"
+          },
+          {
+            "modul_name": "Programmierung und 2 erfolgreich abgeschlossene",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "Vorlesung (2 SWS)",
+            "voraussetzungen": "für die Vergabe von Leistungspunkten",
+            "inhalte": "jedes Sommersemester Bachelor-Studiengang",
+            "lernziele": null,
+            "prüfung": "(Klausur, i. d. R. 90 Minuten)",
+            "raw_text": "Modul  Programmierung  und  2  erfolgreich  abgeschlossene\nModule  aus  den  Modulen  Mathematik  für  Informatik  1–3.  Die  Voraussetzung  der  2  Module  aus\nMathematik  für  Informatik  1–3  kann  auch  durch  die  Module  Lineare  Algebra  I,  Analysis  I  erbracht\nwerden.\n\nVoraussetzungen für die Vergabe von Leistungspunkten\n\n• aktive und erfolgreiche Mitwirkung in den theoretischen und praktischen Übungen\n• Bestehen der schriftlichen Prüfung (Klausur, i. d. R. 90 Minuten)\n\nModulbeauftragte und hauptamtlich Lehrende\n\nDr. Konrad Völkel, Prof. Dr. Milica Gašic\n\nLetzte Änderung 2024-10-10\n\nVersion: 2025-07-02\n\nModulhandbuch B.Sc. Informatik PO 2021\n\n13\n\n\fDatenbanken: Eine Einführung (en. Databases: An\nIntroduction)\n\nLeistungspunkte\n\nArbeitsaufwand\n\nKontaktzeit\n\nSelbststudium\n\n5 LP\n\n150 Stunden\n\n60 Stunden\n\n90 Stunden\n\nLehrveranstaltungen\n\nTurnus\n\nStudiengang\n\nUnterrichtssprache\n\nVorlesung (2 SWS)\nÜbung (2 SWS) \n\nInhalte\n\njedes Sommersemester Bachelor-Studiengang\n\nDeutsch\n\nInformatik\n\nDieses  "
+          },
+          {
+            "modul_name": "vermittelt grundlegende theoretische und praktische Kenntnisse zu Datenbanken. Der",
+            "ects": null,
+            "semester": null,
+            "veranstaltungsart": null,
+            "sprache": null,
+            "voraussetzungen": null,
+            "inhalte": null,
+            "lernziele": null,
+            "prüfung": null,
+            "raw_text": "Modul  vermittelt  grundlegende  theoretische  und  praktische  Kenntnisse  zu  Datenbanken.  Der\nSchwerpunkt  liegt  dabei  auf  den  verschiedenen  Phasen  des  Datenbankentwurfs  sowie  Anfragen  in  SQL\nund den dafür erforderlichen Grundlagen.\n\n• Architektur von Datenbanksystemen; 3-Ebenen-Schemaarchitektur\n• Aufgaben eines Datenbanksystems\n• Daten(bank)modelle; insb. Relationales Modell\n• konzeptioneller  und \n\nlogischer  Datenbankentwurf  (Phasenmodell,  ER-Modell,  Transformation \n\nin\n\nrelationale Modell); Normalisierung (funktionale Abhängigkeiten, Normalformen, Synthesealgorithmus)\n• Anfragesprachen für relationale Datenbanken und ihre Grundlagen; relationale Algebra, Kalküle, SQL\n• Concurrency  Control:  Probleme  des  Mehrbenutzerbetriebs,  Transaktionen  und  Schedules,\n\nSerialisierbarkeit\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• die Aufgaben und Funktionen eines Datenbanksystems benennen und erläutern,\n• selbstständig Datenbanken entwerfen,\n• Datenbankanfragen  in  verschiedenen  Formalismen  (insb.  relationale  Algebra  und  SQL)  formulieren\n\nund zwischen den Formalismen übersetzen und\n\n• Transaktionsschedules auf Serialisierbarkeit überprüfen.\n\nLiteratur\n\n• G.  Saake,  K.-U.  Sattler,  A.  Heuer:  Datenbanken  –  Konzepte  und  Sprachen.  mitp  Verlag.  2018.  6.\n\nAuflage\n\n• Kemper, A. Eickler: Datenbanksysteme – Eine Einführung. Oldenbourg Verlag. 2015. 10. Auflage\n• G.  Vossen:  Datenmodelle,  Datenbanksprachen  und  Datenbankmanagementsysteme.  Oldenbourg\n\nVerlag. 2008.\n\n• R. Elmasri, S.B. Navath: Fundamentals of Database Systems. Pearson. 2016. 7th edition\n• H. Garcia-Molina, J.D. Ullman, J. Widom: Database Systems: The Complete Book. Pearson. 2009. 2nd\n\nedition\n\nVerwendbarkeit des Moduls\n\n• Pflichtbereich Bachelor-Studiengang PO 2021\n• Wahlpflicht- und Schwerpunktbereich Bachelor-Studiengang PO 2013 und PO 2016\n• Anwendungsfach im Bachelor-Studiengang Mathematik u"
+          },
+          {
+            "modul_name": "CL6 im Bachelor-Studiengang Computerlinguistik",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "Vorlesung (2 SWS)",
+            "voraussetzungen": "• keine",
+            "inhalte": "jedes Sommersemester Bachelor-Studiengang",
+            "lernziele": null,
+            "prüfung": "(Klausur, i. d. R. 60 Minuten)",
+            "raw_text": "Modul CL6 im Bachelor-Studiengang Computerlinguistik\n\nTeilnahmevoraussetzungen\n\n• keine\n\nVoraussetzungen für die Vergabe von Leistungspunkten\n\n• Aktive und erfolgreiche Teilnahme an den Übungen (in der Regel mit Hausaufgaben)\n• schriftliche Prüfung (Klausur, i. d. R. 60 Minuten)\n\nModulbeauftragte und hauptamtlich Lehrende\n\nProf. Dr. Stefan Conrad, Dr. Leonie Selbach\n\nLetzte Änderung 2023-03-23\n\nVersion: 2025-07-02\n\nModulhandbuch B.Sc. Informatik PO 2021\n\n15\n\n\fGrundlagen der Computernetzwerke (en. Foundations of\nComputer Networks)\n\nLeistungspunkte\n\nArbeitsaufwand\n\nKontaktzeit\n\nSelbststudium\n\n5 LP\n\n150 Stunden\n\n60 Stunden\n\n90 Stunden\n\nLehrveranstaltungen\n\nTurnus\n\nStudiengang\n\nUnterrichtssprache\n\nVorlesung (2 SWS)\nÜbung (2 SWS)\n\nInhalte\n\njedes Sommersemester Bachelor-Studiengang\n\nDeutsch\n\nInformatik\n\nDas  "
+          },
+          {
+            "modul_name": "Grundlagen der Computernetzwerke richtet sich an Studierende, die verstehen wollen, wie",
+            "ects": "300",
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "jedes Sommersemester Bachelor-Studiengang",
+            "voraussetzungen": "• keine",
+            "inhalte": "Ziel der beiden Module des Programmierpraktikums ist es, Studierende dazu zu befähigen, im Team ein",
+            "lernziele": null,
+            "prüfung": "(Klausur, i. d. R. 90 Minuten)",
+            "raw_text": "Modul  Grundlagen  der  Computernetzwerke  richtet  sich  an  Studierende,  die  verstehen  wollen,  wie\nComputernetzwerke  aus  technischer  Sicht  funktionieren.  Es  werden  die  grundlegenden  Fragestellungen\ndes Gebietes untersucht und es wird besprochen, wie diese Fragestellungen im Internet gelöst sind. Ziel\ndes  Moduls  ist  es,  sowohl  ein  solides  allgemeines  Basiswissen  im  Bereich  der  Computernetzwerke  als\nauch praktisch einsetzbare Kenntnisse zu vermitteln.\n\n• Einleitung und Übersicht\n• Anwendungsschicht  (World  Wide  Web/HTTP,  File  Transfer/FTP,  E-Mail/SMTP,  Domain  Name\n\nSystem/DNS, Socketprogrammierung mit UDP und TCP)\n\n• Transportschicht (Adressierung, zuverlässige Datenübertragung/RDT, Überlastkontrolle, UDP, TCP)\n• Netzwerkschicht  (Virtuelle  Leitungen  und  Datagrammnetzwerke,  Funktionsweise  und  Aufbau  von\nRoutern,  Adressierung/DHCP  und  NAT,  das  Internetprotokoll/IP,  ICMP,  Link  State  Routing  und\nDistance Vector Routing, RIP, OSPF, BGP)\n\n• Sicherungsschicht  (Rahmenbildung,  Fehlererkennung  und  Fehlerkorrektur,  Medienzugriff  in  Lokalen\nNetzen, Adressierung/ARP, Ethernet, Hubs, Switches, PPP, IP over ATM und MPLS, Anwendungen)\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden\n\n• die  geschichtete  Netzwerkarchitektur  des  Internets  erläutern  und  die  wichtigsten  Protokolle  in  den\n\neinzelnen Schichten anwenden,\n\n• die Performance einzelner Protokolle in einfachen Netzwerken berechnen,\n• die  Adressierungsmechanismen \n\nin  den  verschiedenen  Netzwerkschichten  erklären  und \n\nihr\n\nZusammenspiel diskutieren,\n\n• einfache  lokale  Netzwerkstrukturen  analysieren  bzw.  für  gegebene  Anwendungsfälle  geeignete\n\nNetzwerkstrukturen designen und mit geeigneten Protokollen implementieren,\n\n• grundlegende  Methoden  anwenden,  um  die  Performance  von  komplexen  Netzwerken  zu  optimieren,\n\nund\n\n• verschiedene  Arten \n\nvon  Übertragungsfehlern  bene"
+          },
+          {
+            "modul_name": "CL6 im Bachelor-Studiengang Computerlinguistik",
+            "ects": "300",
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "jedes Wintersemester",
+            "voraussetzungen": "• Formal: Erfolgreicher Abschluss des Moduls Programmierung",
+            "inhalte": "Ziel der beiden Module des Programmierpraktikums ist es, Studierende dazu zu befähigen, im Team ein",
+            "lernziele": null,
+            "prüfung": "(Klausur, i. d. R. 90 Minuten)",
+            "raw_text": "Modul CL6 im Bachelor-Studiengang Computerlinguistik\n\nTeilnahmevoraussetzungen\n\n• Formal: Erfolgreicher Abschluss des Moduls Programmierung\n\nVoraussetzungen für die Vergabe von Leistungspunkten\n\n• aktive und erfolgreiche Mitwirkung in den theoretischen und praktischen Übungen\n• schriftliche Prüfung (Klausur, i. d. R. 90 Minuten)\n\nModulbeauftragte und hauptamtlich Lehrende\n\nDr. Jens Bendisposto, Dr. Markus Brenneis\n\nLetzte Änderung 2024-07-24\n\nVersion: 2025-07-02\n\nModulhandbuch B.Sc. Informatik PO 2021\n\n19\n\n\fProgrammierpraktikum 2 (en. Programming Project 2)\n\nLeistungspunkte\n\nArbeitsaufwand\n\nKontaktzeit\n\nSelbststudium\n\n10 LP\n\n300 Stunden\n\n124 Stunden\n\n176 Stunden\n\nLehrveranstaltungen\n\nTurnus\n\nStudiengang\n\nUnterrichtssprache\n\njedes Wintersemester\n\nBachelor-Studiengang\nInformatik\n\nDeutsch\n\nVorlesung (2 SWS)\nÜbung (2 SWS) \npraktische Übung\n(1 SWS)\nBlockpraktikum (4 SWS)\n\nInhalte\n\nZiel  der  beiden  Module  des  Programmierpraktikums  ist  es,  Studierende  dazu  zu  befähigen,  im  Team  ein\ngrößeres,  webbasiertes,  qualitativ  hochwertiges  Informationssystem  in  Java  entwickeln  zu  können.  Das\nProgrammierpraktikum 2 behandelt folgende Themen:\n\n• Webentwicklung  (HTTP,  HTML,  Accessibility,  Authentifizierung  und  Autorisierung,  Security,  REST,\n\nServlets, Spring Web)\n\n• Anbindung an Datenbanken (JDBC, Spring Data)\n• Softwarearchitektur und Architekturmuster\n• Integration- und Architektur-Testing (ArchUnit)\n• Vorgehensmodelle\n• Architekturdokumentation (arc42, UML)\n\nZusätzliche Bemerkungen\n\n• Die Angabe der SWS zur Kontaktzeit ist nicht genau sondern gerundet.\n• Die Vorlesung folgt dem Modell des Flipped Classrooms.\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• Webanwendungen implementieren und absichern\n• die Barrierefreiheit von Webanwendungen sicherstellen\n• datenbankbasierte Informationssysteme entwickeln\n• Architekturmuster benennen und anwenden\n• Integrationstests für webbasierte"
+          },
+          {
+            "modul_name": "vermittelt Grundlagen der imperativen, objektorientierten Programmierung exemplarisch",
+            "ects": null,
+            "semester": null,
+            "veranstaltungsart": null,
+            "sprache": "Java. Dabei werden einführend Aspekte von Algorithmen und",
+            "voraussetzungen": null,
+            "inhalte": null,
+            "lernziele": null,
+            "prüfung": null,
+            "raw_text": "Modul  vermittelt  Grundlagen  der  imperativen,  objektorientierten  Programmierung  exemplarisch\nanhand  der  Programmiersprache  Java.  Dabei  werden  einführend  Aspekte  von  Algorithmen  und\nDatenstrukturen behandelt. Es wird keine Programmiererfahrung vorausgesetzt.\n\n• Primitive Datentypen und Variablen\n• Kontrollstrukturen\n• Arrays\n• Standardein- und -ausgabe, Dateien\n• Programmstrukturen im Speicher (Heap, Stack)\n• Rekursion\n• Konzepte der Objektorientierung (Klassen, Objekte, Polymorphie, Interfaces, Vererbung)\n• Fehlerbehandlung\n• Suchen und Sortieren (lineare Suche, binäre Suche, Insertion Sort, Mergesort)\n• Dynamische Datenstrukturen (Listen, Binäre Suchbäume, Hashing)\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• gegebenen Java-Programmcode erklären,\n• Beschreibungen  iterativer/rekursiver  Algorithmen  in  strukturierten  Code  übersetzen  und  eigene,\n\neinfache Algorithmen entwerfen,\n\n• Standardein- und -ausgabe sowie Dateien zum Einlesen und Ausgeben von Textdaten verwenden,\n• objektorientierte Programme schreiben, die Gegebenheiten der echten Welt abbilden,\n• Vorteile von Polymorphismus erklären und anwenden,\n• die  Vor-  und  Nachteile  verschiedener  Datenstrukturen  (Arrays,  einfach  verkettete  Listen,  binäre\n\nSuchbäume, Hashsets) erläutern,\n\n• Algorithmen  für  verschiedene  Datenstrukturen  (Arrays,  einfach  verkettete  Listen,  binäre  Suchbäume,\n\nHashsets) entwerfen und implementieren, und\n\n• Compilezeitfehler beheben und Laufzeitfehler angemessen behandeln.\n\nLiteratur\n\n• R.  Schiedermeier:  Programmieren  mit  Java.  Pearson  Studium.  München,  2010.  2.  aktualisierte\n\nAusgabe\n\n• C. Ullenboom: Java ist auch eine Insel. Rheinwerk Computing. Bonn, 2021. 16. Auflage\n• R. Sedgewick & K. Wayne: Introduction to Programming in Java. Addison-Wesley, United States, 2007.\n\n1st Edition\n\n22\n\nModulhandbuch B.Sc. Informatik PO 2021\n\nVersion: 2025-07-02\n\n\fVerwendbarkeit des"
+          },
+          {
+            "modul_name": "I: Informatik im Bachelor-Studiengang Computerlinguistik",
+            "ects": "210",
+            "semester": null,
+            "veranstaltungsart": "Vorlesung",
+            "sprache": "jedes Wintersemester",
+            "voraussetzungen": "• keine",
+            "inhalte": "werden",
+            "lernziele": null,
+            "prüfung": "(Klausur, i. d. R. 120 Minuten)",
+            "raw_text": "Modul I: Informatik im Bachelor-Studiengang Computerlinguistik\n\nTeilnahmevoraussetzungen\n\n• keine\n\nVoraussetzungen für die Vergabe von Leistungspunkten\n\n• Bestehen \n\neines  Zulassungstests \n\n(Daten,  Bestehensgrenze \n\nund \n\nInhalte  werden \n\nzu\n\nVeranstaltungsbeginn bekannt gegeben)\n\n• schriftliche Prüfung (Klausur, i. d. R. 120 Minuten)\n\nModulbeauftragte und hauptamtlich Lehrende\n\nDr. Markus Brenneis, Prof. Dr. Michael Schöttner\n\nLetzte Änderung 2025-02-07\n\nVersion: 2025-07-02\n\nModulhandbuch B.Sc. Informatik PO 2021\n\n23\n\n\fRechnerarchitektur (en. Computer Architecture)\n\nLeistungspunkte\n\nArbeitsaufwand\n\nKontaktzeit\n\nSelbststudium\n\n7 LP\n\n210 Stunden\n\n90 Stunden\n\n120 Stunden\n\nLehrveranstaltungen\n\nTurnus\n\nStudiengang\n\nUnterrichtssprache\n\njedes Wintersemester\n\nBachelor-Studiengang\nInformatik\n\nDeutsch\n\nVorlesung (3 SWS)\nÜbung (2 SWS) \nTutorium (1 SWS)\n\nInhalte\n\nIn  diesem  "
+          },
+          {
+            "modul_name": "wird ein grundlegendes Verständnis des Aufbaus und der Funktionsweise moderner",
+            "ects": null,
+            "semester": null,
+            "veranstaltungsart": "von",
+            "sprache": "(Übersetzung von einfachen",
+            "voraussetzungen": null,
+            "inhalte": null,
+            "lernziele": null,
+            "prüfung": null,
+            "raw_text": "Modul  wird  ein  grundlegendes  Verständnis  des  Aufbaus  und  der  Funktionsweise  moderner\nComputer vermittelt. Dabei wird auf folgende Themengebiete eingegangen:\n\n• Datendarstellung \n\n(ASCII,  Unicode,  b-adische  Zahlen,  Zweierkomplement,  nicht  ganzzahlige\n\nBinärzahlen, Gleitkommazahlen nach IEEE 754),\n\n• Schaltalgebra  (Definition  nach  Huntington,  weitere  Rechenregeln,  vollständige  Operatorensysteme,\nWahrheitstabellen, disjunktive und konjunktive Normalform, KV-Diagamme, disjunktive und konjunktive\nMinimalform, Don’t Care Belegungen),\n\n• Digitale Logik (Gatter, De- und Encoder, Multiplexer und Demultiplexer, Shifter, Halb- und Volladdierer,\nTaktsignale,  Flip-Flops  und  Latches  (jeweils  SR-,  D-),  zusammengesetzte  Schaltungen  mit  diesen\nElementen, Hazardfehler),\n\n• Fehlererkennung und -korrektur (Verdopplung, Paritätsbit, Zweidimensionale Parität, Hammingdistanz,\n\nHammingcode),\n\n• Einführung  von  Java  Bytecode  als  Beispiel  für  eine  Assemblersprache  (Übersetzung  von  einfachen\nJava Programmausschnitten in Java Byte Code, Entwurf einfacher Programmausschnitte direkt in Java\nByte Code)\n\n• Mikroarchitektur (Implementierung eines Prozessors für die Ausführung einer Teilmenge des Java Byte\nCodes,  digitale  Logik  des  Prozessors,  Mikroprogramm  für  den  Prozessor,  Interpretation  von  Java\nBytecode durch den Prozessor) und\n\n• Verfahren  zur  Beschleunigung  eines  Prozessors  (Reduktion  von  Arbeitszyklen, \n\nInstruktions-\n\nPrefetching, Pipelining, Sprungvorhersage, Caching).\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• die  verschiedenen  Schichten  einer  Rechnerarchitektur  unter  Berücksichtigung  ihrer  Verbindungen\n\nuntereinander beschreiben,\n\n• Zahlen in den oben genannten Darstellungen darstellen und zwischen diesen umrechnen,\n• angeben, wie Zeichen und Zeichenketten im Rechner repräsentiert werden,\n• boolesche  Funktionen  in  verschiedenen  Formen  ("
+          },
+          {
+            "modul_name": "CL6 im Bachelor-Studiengang Computerlinguistik",
+            "ects": "300",
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "Vorlesung (4 SWS)",
+            "voraussetzungen": "• Inhaltlich: Es wird davon ausgegangen, dass die Studierenden parallel die Veranstaltung",
+            "inhalte": "jedes Sommersemester Bachelor-Studiengang",
+            "lernziele": null,
+            "prüfung": "(Klausur, i. d. R. 90 Minuten)",
+            "raw_text": "Modul CL6 im Bachelor-Studiengang Computerlinguistik\n\nTeilnahmevoraussetzungen\n\n• Inhaltlich:  Es  wird  davon  ausgegangen,  dass  die  Studierenden  parallel  die  Veranstaltung\n\nProgrammierung hören oder über grundlegende Programmierkenntnisse verfügen.\n\nVoraussetzungen für die Vergabe von Leistungspunkten\n\n• ausreichende  Bearbeitung  der  Übungsblätter  (die  zu  erreichenden  Punktzahlen  werden  zu\n\nVeranstaltungsbeginn bekannt gegeben)\n\n• bestehen \n\ndes \n\nZulassungstests \n\n(Daten,  Bestehensgrenze \n\nund \n\nThemen  werden \n\nzu\n\nVeranstaltungsbeginn bekannt gegeben)\n\n• schriftliche Prüfung (Klausur, i. d. R. 90 Minuten)\n\nModulbeauftragte und hauptamtlich Lehrende\n\nProf. Dr. Stefan Conrad, Janine Golov, Prof. Dr. Martin Mauve\n\nLetzte Änderung 2025-06-13\n\nVersion: 2025-07-02\n\nModulhandbuch B.Sc. Informatik PO 2021\n\n25\n\n\fTheoretische Informatik (en. Theoretical Computer\nScience)\n\nLeistungspunkte\n\nArbeitsaufwand\n\nKontaktzeit\n\nSelbststudium\n\n10 LP\n\n300 Stunden\n\n90 Stunden\n\n210 Stunden\n\nLehrveranstaltungen\n\nTurnus\n\nStudiengang\n\nUnterrichtssprache\n\nVorlesung (4 SWS)\nÜbung (2 SWS)\n\nInhalte\n\njedes Sommersemester Bachelor-Studiengang\n\nDeutsch\n\nInformatik\n\nIn diesem "
+          },
+          {
+            "modul_name": "werden die wichtigsten Grundlagen, Modelle, Methoden und Resultate der theoretischen",
+            "ects": "90",
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "eine sie erzeugende Grammatik bzw. einen sie akzeptierenden Automaten",
+            "voraussetzungen": "• Inhalte des Moduls Mathematik für Informatik 1 (alternativ: Lineare Algebra I)",
+            "inhalte": "des Moduls Mathematik für Informatik 1 (alternativ: Lineare Algebra I)",
+            "lernziele": "und",
+            "prüfung": "(Klausur, i. d. R. 90 Minuten)",
+            "raw_text": "Modul werden die wichtigsten Grundlagen, Modelle, Methoden und Resultate der theoretischen\nInformatik  eingeführt, \nformalen  Sprachen  und  Automaten,  zur\nBerechenbarkeitstheorie und zur Theorie der NP-Vollständigkeit.\n\ninsbesondere  zur  Theorie  der \n\nFormale Sprachen und Automaten\n\n• Grundbegriffe (Wörter, Sprachen und Grammatiken; die Chomsky-Hierarchie)\n• Reguläre  Sprachen  (endliche  Automaten;  reguläre  Ausdrücke;  Gleichungssysteme;  das  Pumping-\nLemma;  Satz  von  Myhill  und  Nerode  und  Minimalautomaten;  Abschlusseigenschaften  und\nCharakterisierungen regulärer Sprachen)\n\n• Kontextfreie  Sprachen  (Normalformen;  das  Pumping-Lemma;  Abschlusseigenschaften  kontextfreier\n\nSprachen; der Algorithmus von Cocke, Younger und Kasami; Kellerautomaten)\n\n• Deterministisch  kontextfreie  Sprachen  (deterministische  Kellerautomaten;  Anwendung:  Syntaxanalyse\n\ndurch LL(k)-Parser)\n\n• Kontextsensitive \n\nund \n\nL_0-Sprachen \n\n(Turingmaschinen; \n\nlinear \n\nbeschränkte  Automaten;\n\nZusammenfassung)\n\nBerechenbarkeit\n\n• Intuitiver Berechenbarkeitsbegriff und die These von Church\n• Turing-Berechenbarkeit\n• LOOP-, WHILE- und GOTO-Berechenbarkeit\n• Primitiv  rekursive  und  partiell  rekursive  Funktionen  (primitiv  rekursive  Funktionen;  die  Ackermann-\n\nFunktion; allgemein und partiell rekursive Funktionen; der Hauptsatz der Berechenbarkeitstheorie)\n\n• Entscheidbarkeit und Aufzählbarkeit\n• Unentscheidbarkeit  (der  Satz  von  Rice;  Reduzierbarkeit;  das  Postsche  Korrespondenzproblem;\n\nUnentscheidbarkeit in der Chomsky-Hierarchie; Zusammenfassung)\n\nNP-Vollständigkeit\n\n• Probleme in P und NP (deterministische Polynomialzeit; das Erfüllbarkeitsproblem der Aussagenlogik;\n\nnichtdeterministische Polynomialzeit)\n\n• NP-Vollständigkeit und der Satz von Cook\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• formale Sprachen in die Chomsky-Hierarchie einordnen,\n• besprochene  äquivalente  Automatenmode"
+          },
+          {
+            "modul_name": "für den Bachelor-Studiengang kann nur dann für die Individuelle Ergänzung im Master-",
+            "ects": null,
+            "semester": null,
+            "veranstaltungsart": null,
+            "sprache": null,
+            "voraussetzungen": "der jeweiligen Module. Wenn",
+            "inhalte": null,
+            "lernziele": null,
+            "prüfung": null,
+            "raw_text": "Modul  für  den  Bachelor-Studiengang  kann  nur  dann  für  die  Individuelle  Ergänzung  im  Master-\nStudiengang  Informatik  verwendet  werden,  wenn  es  nicht  bereits  für  ein  vorangegangenes  Bachelor-\nStudium verwendet wurde und dafür zugelassen ist (dies ist seit dem 01.09.2022 in der Regel nicht mehr\nder Fall).\n\nLehrveranstaltungen anderer Studiengänge oder Institute\n(en. Courses from other programs or institutes)\n\nEinige  Lehrveranstaltungen  anderer  Studiengänge  und/oder  Institute  können  durch  Studierende  im\nBachelor-Studiengang Informatik ebenfalls belegt werden.\n\nBeachten Sie, dass Kurse aus dem Master Informatik (welches nicht der Master AI and Data Science ist)\nnicht im Bachelor Informatik verwendet werden können.\n\nMaster AI and Data Science\n\nDie  hier  aufgeführten  Module  finden  Sie  im  Modulhandbuch  des  Studiengangs  Master  AI  and  Data\nScience. Beachten Sie die dort angegebenen inhaltlichen Voraussetzungen der jeweiligen Module. Wenn\nein  "
+          },
+          {
+            "modul_name": "hier aufgelistet ist, bedeutet dies nicht automatisch, dass das Modul allein mit den",
+            "ects": "150",
+            "semester": "10",
+            "veranstaltungsart": "Vorlesung",
+            "sprache": "Machine Learning",
+            "voraussetzungen": null,
+            "inhalte": "jedes Sommersemester Bachelor-Studiengang",
+            "lernziele": null,
+            "prüfung": null,
+            "raw_text": "Modul  hier  aufgelistet  ist,  bedeutet  dies  nicht  automatisch,  dass  das  Modul  allein  mit  den\nVorkenntnissen aus den Pflichtkursen des Bachelor Informatik sinnvoll absolvierbar ist.\n\nTitel\n\nVerantwortliche Personen\n\nTurnus\n\nLP\n\nSprache\n\nMachine Learning\n\nProf. Dr. Paul Swoboda\n\njedes\nWintersemester\n\n10 LP\n\nEN\n\nWahlfächer außerhalb der Informatik\n\nIm  Rahmen  Ihres  Studiums  dürfen  Sie,  in  begrenztem  Umfang  (siehe  Prüfungsordnung),  auch  Fächer\naußerhalb der Informatik belegen. Weitere Informationen dazu finden Sie auf unseren Webseiten.\n\nVersion: 2025-07-02\n\nModulhandbuch B.Sc. Informatik PO 2021\n\n37\n\n\fAlgorithmen in der Bioinformatik (en. Algorithms in\nBioinformatics)\n\nLeistungspunkte\n\nArbeitsaufwand\n\nKontaktzeit\n\nSelbststudium\n\n5 LP\n\n150 Stunden\n\n60 Stunden\n\n90 Stunden\n\nLehrveranstaltungen\n\nTurnus\n\nStudiengang\n\nUnterrichtssprache\n\nVorlesung (2 SWS)\nÜbung (2 SWS)\n\nInhalte\n\njedes Sommersemester Bachelor-Studiengang\n\nDeutsch\n\nInformatik\n\nDiese "
+          },
+          {
+            "modul_name": "vermittelt einführende Konzepte der algorithmischen Bioinformatik. Die Studierenden vertiefen",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "Vorlesung (2 SWS)",
+            "voraussetzungen": "• Inhaltlich: Inhalte der Module Programmierung und Algorithmen und Datenstrukturen und Mathematik",
+            "inhalte": "der Module Programmierung und Algorithmen und Datenstrukturen und Mathematik",
+            "lernziele": null,
+            "prüfung": "(schriftlich, i. d. R. 90 Minuten)",
+            "raw_text": "Modul vermittelt einführende Konzepte der algorithmischen Bioinformatik. Die Studierenden vertiefen\nund wenden diese in theoretischen und praktischen Übungen an.\n\n• Biologische Grundlagen\n• Exhaustive Suche: DNA-Motive\n• Gierige Algorithmen: Genom-Umordnungen\n• Dynamische Programmierung: Sequenz-Alignment\n• Graphen-Algorithmen: Assembly\n• Kombinatorische Mustersuche und Suffixbäume\n• Clustering\n• Phylogenetische Bäume und molekulare Evolution\n• Hidden Markov Modelle: CpG-Inseln\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• die  besprochenen  algorithmische  Designprinzipien  anwenden,  Korrektheit  von  Algorithmen  beweisen\n\nund Laufzeiten analysieren,\n\n• zwischen verschiedenen Klassen von Algorithmen unterscheiden und die Konsequenzen erklären,,\n• klassische Bioinformatikalgorithmen erklären und anwenden,\n• viele dieser Algorithmen in Python implementieren und\n• für eine bestimmte Aufgabe geeignete Algorithmen auswählen.\n\nLiteratur\n\n• Neil C. Jones, Pavel A. Pevzner: An Introduction to Bioinformatics Algorithms. The MIT Press, 2004\n• Phillip  Compeau,  Pavel  A.  Pevzner  :  Bioinformatics  Algorithms,  An  Active  Learning  Approach,  Vol.  I\n\nand II, Active Learning Publishers, 2015\n\nVerwendbarkeit des Moduls\n\n• Wahlbereich Bachelor-Studiengang PO 2021\n• Wahlpflicht- und Schwerpunktbereich Bachelor-Studiengang PO 2013 und PO 2016\n• Anwendungsfach im Bachelor-Studiengang Mathematik und Anwendungsgebiete\n• Nebenfach im Bachelor-Studiengang Physik\n• Nebenfach im Bachelor-Studiengang Medizinische Physik\n\n38\n\nModulhandbuch B.Sc. Informatik PO 2021\n\nVersion: 2025-07-02\n\n\fTeilnahmevoraussetzungen\n\n• Inhaltlich: Inhalte der Module Programmierung und Algorithmen und Datenstrukturen und Mathematik\n\nfür Informatik 1 (oder Lineare Algebra I oder Analysis I)\n\nVoraussetzungen für die Vergabe von Leistungspunkten\n\n• aktive Teilnahme an den Übungen\n• erfolgreiches Bearbeiten der Übungsaufgaben (50%)\n• "
+          },
+          {
+            "modul_name": "vermittelt grundlegende Kenntnisse aus folgenden Bereichen:",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "Vorlesung (2 SWS)",
+            "voraussetzungen": "Voraussetzungen für die Vergabe von Leistungspunkten",
+            "inhalte": "Dieses",
+            "lernziele": null,
+            "prüfung": "am Ende des Semesters",
+            "raw_text": "Modul vermittelt grundlegende Kenntnisse aus folgenden Bereichen:\n\n• konvexe Hülle in der Ebene\n• Plane-Sweep  Algorithmen  /  Segment-Schnittprobleme-  Distanzprobleme-  Geometrisches  Divide  and\n\nConquer / dichtestes Punktpaar\n\n• Voronoi Diagramme / Delaunay-Triangulierungen / nächster Nachbar Anfragen\n• Triangulierung von Polygonen / monotonen Polygonen\n• Bereichsanfragen / Ham-Sandwich Theorem\n• Rechteckabfragen / Bereichsbäume\n• Punkt/Gerade-Dualität / Geradenarrangement\n• kleinste umschließende Kreise / randomisierte Algorithmen\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• mit Datenstrukturen für die Berechnung der konvexe Hülle, eines Voronoi-Diagramms, einer Delauney-\n\nTriangulierung oder eines Graden-Arrangement umgehen\n\n• Plane-Sweep Techniken, Teile-und-herrsche Verfahren und randomisierte Ansätze für das Lösen von\n\ngeometrischen Problemen einsetzen\n\n• untere  Schranken  für  die  Komplexität  geometrischer  Fragestellungen  auf  Punktmengen  in  der\n\nEuklidischen Ebene bestimmen\n\nLiteratur\n\n• de Berg et al: Computational Geometry, Algorithms and Applications. Springer-Verlag. Berlin, 2000. 2.\n\nrev. ed.\n\n• Preparata, Shamos: Computational Geometry, an Introduction. Springer-Verlag. New York, 1985.\n• Edelsbrunner:  Algorithms  in  Combinatorial  Geometry,  EATCS  Monographs  in  Computer  Science  10.\n\nSpringer-Verlag, 1987.\n\n• Matousek: Lectures on Discrete Geometry, Graduate Texts in Mathematics, 212. Springer-Verlag, New\n\nYork, 2002.\n\nVerwendbarkeit des Moduls\n\n• Wahlbereich Bachelor-Studiengang PO 2021\n• Wahlpflicht- und Schwerpunktbereich Bachelor-Studiengang PO 2013 und PO 2016\n• Anwendungsfach im Bachelor-Studiengang Mathematik und Anwendungsgebiete\n• Nebenfach im Bachelor-Studiengang Physik\n• Nebenfach im Bachelor-Studiengang Medizinische Physik\n\n40\n\nModulhandbuch B.Sc. Informatik PO 2021\n\nVersion: 2025-07-02\n\n\fTeilnahmevoraussetzungen\n\nVoraussetzungen für die Vergabe vo"
+          },
+          {
+            "modul_name": "vermittelt grundlegende Kenntnisse aus folgenden Bereichen:",
+            "ects": "300",
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "Vorlesung (4 SWS)",
+            "voraussetzungen": "• Inhaltlich: Inhalte der Module Algorithmen und Datenstrukturen und Mathematik für Informatik 1 (oder",
+            "inhalte": "der Module Algorithmen und Datenstrukturen und Mathematik für Informatik 1 (oder",
+            "lernziele": null,
+            "prüfung": "am Ende des Semesters",
+            "raw_text": "Modul vermittelt grundlegende Kenntnisse aus folgenden Bereichen:\n\n• Einführung in die Berechenbarkeit (Gödelisierung, Diagonalisierung und Unterprogrammtechnik)\n• Einführung in die algorithmische Komplexität (Nicht-Determinismus, NP-Vollständigkeit, …)\n• Sat, 3-SAT, Clique, IS, VC, 3-DM, Dominating Set, 3-Partition und weitere klassische NP-vollständige\n\nProbleme\n\n• Pseudopolynomielle Algorithmen z. B. für Rucksack- und Partitions-Probleme\n• Approximationsalgorithmen\n• Parameterisierte Algorithmen, FPT\n• Platzkomplexität (Satz von Savich, Satz von Immerman und Szelepcsényi)\n• Randomisierte Algorithmen\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• nichtdeterministische Berechnungsmodelle anwenden,\n• die Komplexität algorithmischer Probleme abschätzen,\n• Grundlegende Techniken zur Approximation von Lösungen anwenden,\n• pseudo-polynomielle Lösungsansätze entwickeln, und\n• parametrisierte Fragestellungen analysieren.\n\nLiteratur\n\n• Michael  R.  Garey  and  David  S.  Johnson:  Computers  &  Intractability:  A  Guide  to  the  Theory  of  NP-\n\nCompleteness. Freeman. 1979\n\n• Christos H. Papadimitriou: Computational Complexity. Addison-Wesley. 2008\n\nVerwendbarkeit des Moduls\n\n• Wahlbereich Bachelor-Studiengang PO 2021\n• Wahlpflicht- und Schwerpunktbereich Bachelor-Studiengang PO 2013 und PO 2016\n• Anwendungsfach im Bachelor-Studiengang Mathematik und Anwendungsgebiete\n• Nebenfach im Bachelor-Studiengang Physik\n• Nebenfach im Bachelor-Studiengang Medizinische Physik\n• Individuelle Ergänzung im Master Informatik\n\nTeilnahmevoraussetzungen\n\n• Inhaltlich: Inhalte der Module Algorithmen und Datenstrukturen und Mathematik für Informatik 1 (oder\n\n42\n\nModulhandbuch B.Sc. Informatik PO 2021\n\nVersion: 2025-07-02\n\n\fLineare Algebra I und Analysis I)\n\nVoraussetzungen für die Vergabe von Leistungspunkten\n\n• aktive Mitarbeit in den Übungen,\n• schriftliche Klausur (i. d. R. 90 Minuten) oder mündliche Prüfung am En"
+          },
+          {
+            "modul_name": "vermittelt grundlegende",
+            "ects": null,
+            "semester": null,
+            "veranstaltungsart": "Vorlesung",
+            "sprache": null,
+            "voraussetzungen": null,
+            "inhalte": null,
+            "lernziele": null,
+            "prüfung": null,
+            "raw_text": "Modul  vermittelt  grundlegende\nTechniken,  um  verschiedene  Arten  von  Problemen  zu  erkennen  und  in  C++  zu  lösen.  Ziel  ist  es,  die\nTeilnehmer dieses Moduls auf die Teilnahme an nationalen und internationalen Programmierwettbewerben\n(z. B. \nneben  wöchentlichen\nProgrammierhausaufgaben auch einige Live-Contests während der Vorlesungszeit geben.\n\nvorzubereiten.  Während \n\ndes  Semesters  wird \n\nICPC) \n\nes \n\nThemen des Moduls:\n\n• Basisalgorithmen (Binärsuche, Sortieren, Dynamisches Programmieren, Backtracking, Prefixsummen)\n• Greedy Algorithmen\n• Graphenprobleme (DFS, kürzeste Wege, Spannbäume, Union-Find)\n• Segmentbäume\n\nWeitere  Themen  werden  im  "
+          },
+          {
+            "modul_name": "Competitive Programming B im Sommersemester behandelt. Die",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "of Programming Contest. Second Edition, Special Online Edition for UVa",
+            "sprache": "jedes Sommersemester Bachelor-Studiengang",
+            "voraussetzungen": "• Inhaltlich: Gute Programmierkenntnisse in C++, Java oder Python und Grundkenntnisse von",
+            "inhalte": "Competitive Programming ist ein Sport, bei dem es darum geht, Programmierprobleme möglichst schnell",
+            "lernziele": null,
+            "prüfung": null,
+            "raw_text": "Modul  Competitive  Programming  B  im  Sommersemester  behandelt.  Die\nbeiden Module ergänzen sich und können unabhängig voneinander belegt werden.\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden\n\n• Datenstrukturen und Algorithmen der C++ Standard Library benutzen,\n• die Laufzeit von Programmen für gegebene Eingabegrößen abschätzen,\n• gängige  Lösungsmuster  in  einfachen  Aufgaben  von  Programmierwettbewerben  zu  den  Themen  des\n\nModuls erkennen, und\n\n• effiziente  Programme  für  einfache  Aufgaben  von  Programmierwettbewerben  zu  den  Themen  des\n\nModuls entwerfen und implementieren.\n\nLiteratur\n\n• Ahmed  Shamsul  Arefin:  Art  of  Programming  Contest.  Second  Edition,  Special  Online  Edition  for  UVa\n\nOnline Judge Users\n\n• Steven  Halim,  Felix  Halim,  and  Suhendry  Effendy:  Competitive  Programming  4:  The  Lower  Bound  of\n\nProgramming Contest in the 2020s, Books 1+2. Lulu Press. 2020\n\n• Nicolai  Josuttis:  The  C++  Standard  Library  -  A  Tutorial  and  Reference.  Addison  Wesley  Longman.\n\n1999. 2nd edition\n\n• Steven Skiena: The Algorithm Design Manual. Springer. 2008. 2nd edition.\n• Steven  Skiena  and  Miguel  Revilla:  Programming  Challenges  -  The  Programming  Contest  Training\n\nManual. Springer Verlag. 2003.\n\n46\n\nModulhandbuch B.Sc. Informatik PO 2021\n\nVersion: 2025-07-02\n\n\fVerwendbarkeit des Moduls\n\n• Wahlbereich Bachelor-Studiengang PO 2021\n• Wahlpflicht- und Schwerpunktbereich Bachelor-Studiengang PO 2013 und PO 2016\n• Anwendungsfach im Bachelor-Studiengang Mathematik und Anwendungsgebiete\n• Nebenfach im Bachelor-Studiengang Physik\n• Nebenfach im Bachelor-Studiengang Medizinische Physik\n\nTeilnahmevoraussetzungen\n\n• Inhaltlich:  Gute  Programmierkenntnisse  in  C++,  Java  oder  Python  und  Grundkenntnisse  von\n\nDatenstrukturen und Algorithmen.\n\nVoraussetzungen für die Vergabe von Leistungspunkten\n\n• 50% aus den wöchentlichen Hausaufgaben, mindestens 4 Wertunge"
+          },
+          {
+            "modul_name": "vermittelt grundlegende",
+            "ects": null,
+            "semester": null,
+            "veranstaltungsart": "Vorlesung",
+            "sprache": null,
+            "voraussetzungen": null,
+            "inhalte": null,
+            "lernziele": null,
+            "prüfung": null,
+            "raw_text": "Modul  vermittelt  grundlegende\nTechniken,  um  verschiedene  Arten  von  Problemen  zu  erkennen  und  in  C++  zu  lösen.  Ziel  ist  es,  die\nTeilnehmer dieses Moduls auf die Teilnahme an nationalen und internationalen Programmierwettbewerben\n(z. B. \nneben  wöchentlichen\nProgrammierhausaufgaben auch einige Live-Contests während der Vorlesungszeit geben.\n\nvorzubereiten.  Während \n\ndes  Semesters  wird \n\nICPC) \n\nes \n\nThemen des Moduls:\n\n• Geometrische Probleme (konvexe Hülle, Schnittbildung)\n• Zahlentheoretische Probleme (Primzahlzerlegung, Teilbarkeitsprobleme)\n• Wortprobleme (Teilwörter)\n\nWeitere Themen werden im "
+          },
+          {
+            "modul_name": "Competitive Programming A im Wintersemester behandelt. Die beiden",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "of Programming Contest. Second Edition, Special Online Edition for UVa",
+            "sprache": "jedes Wintersemester",
+            "voraussetzungen": "• Inhaltlich: Gute Programmierkenntnisse in C++, Java oder Python und Grundkenntnisse von",
+            "inhalte": "In der Veranstaltung werden die Grundlagen des Compilerbaus besprochen.",
+            "lernziele": null,
+            "prüfung": null,
+            "raw_text": "Modul Competitive Programming A im Wintersemester behandelt. Die beiden\nModule ergänzen sich und können unabhängig voneinander belegt werden.\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden\n\n• Datenstrukturen und Algorithmen der C++ Standard Library benutzen,\n• die Laufzeit von Programmen für gegebene Eingabegrößen abschätzen,\n• gängige  Lösungsmuster  in  einfachen  Aufgaben  von  Programmierwettbewerben  zu  den  Themen  des\n\nModuls erkennen, und\n\n• effiziente  Programme  für  einfache  Aufgaben  von  Programmierwettbewerben  zu  den  Themen  des\n\nModuls entwerfen und implementieren.\n\nLiteratur\n\n• Ahmed  Shamsul  Arefin:  Art  of  Programming  Contest.  Second  Edition,  Special  Online  Edition  for  UVa\n\nOnline Judge Users\n\n• Steven  Halim,  Felix  Halim,  and  Suhendry  Effendy:  Competitive  Programming  4:  The  Lower  Bound  of\n\nProgramming Contest in the 2020s, Books 1+2. Lulu Press. 2020\n\n• Nicolai  Josuttis:  The  C++  Standard  Library  -  A  Tutorial  and  Reference.  Addison  Wesley  Longman.\n\n1999. 2nd edition\n\n• Steven Skiena: The Algorithm Design Manual. Springer. 2008. 2nd edition.\n• Steven  Skiena  and  Miguel  Revilla:  Programming  Challenges  -  The  Programming  Contest  Training\n\nManual. Springer Verlag. 2003.\n\n48\n\nModulhandbuch B.Sc. Informatik PO 2021\n\nVersion: 2025-07-02\n\n\fVerwendbarkeit des Moduls\n\n• Wahlbereich Bachelor-Studiengang PO 2021\n• Wahlpflicht- und Schwerpunktbereich Bachelor-Studiengang PO 2013 und PO 2016\n• Anwendungsfach im Bachelor-Studiengang Mathematik und Anwendungsgebiete\n• Nebenfach im Bachelor-Studiengang Physik\n• Nebenfach im Bachelor-Studiengang Medizinische Physik\n\nTeilnahmevoraussetzungen\n\n• Inhaltlich:  Gute  Programmierkenntnisse  in  C++,  Java  oder  Python  und  Grundkenntnisse  von\n\nDatenstrukturen und Algorithmen.\n\nVoraussetzungen für die Vergabe von Leistungspunkten\n\n• 50% aus den wöchentlichen Hausaufgaben, mindestens 4 Wertungen sind "
+          },
+          {
+            "modul_name": "Data Science 2 werden die Grundlagen aus Data Science anwendungsnah vertieft,",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "und Umfang von Daten Algorithmen ohne Parallelisierung ungeeignet sind,",
+            "sprache": "jedes Wintersemester",
+            "voraussetzungen": "• Inhaltlich: Inhalte der Module Data Science oder Machine Learning",
+            "inhalte": "der Module Data Science oder Machine Learning",
+            "lernziele": null,
+            "prüfung": "(Klausur, i. d. R. 90 Minuten)",
+            "raw_text": "Modul  Data  Science  2  werden  die  Grundlagen  aus  Data  Science  anwendungsnah  vertieft,\nvor Allem hinsichtlich der Themengebiete:\n\n• Große Datenmengen (Big Data)\n• Datenparallelverarbeitung (Algorithmen und Softwarepakete)\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• Algorithmen  für  große  Datenmengen  und/oder  Datenströme  analysieren  mit  Bezug  auf  die  Laufzeit-\n\nund Kommunikationskomplexität,\n\n• insbesondere in den Themenbereichen Nachbarsuche in hochdimensionalen Daten, Locality Sensitive\nHashing (LSH), Dimensionalitätsreduktion, Empfehlungssysteme, Clustering (Varianten von k-means),\nLinkanalyse (PageRank), Werbung im Web,\n\n• entscheiden, für welche Art und Umfang von Daten Algorithmen ohne Parallelisierung ungeeignet sind,\n• welche Techniken der Parallelverarbeitung für gegebene Probleme geeignet sind,\n• insbesondere map-reduce,\n• und diese implementieren bzw. vorhandene Softwarepakete geeignet einsetzen.\n\nLiteratur\n\n• Leskovec, Rajaraman and Ullman: Mining of Massive Datasets. Cambridge University Press. 2020. 3rd\n\nEdition (mmds.org)\n\nVerwendbarkeit des Moduls\n\n• Wahlbereich Bachelor-Studiengang PO 2021\n• Wahlpflicht- und Schwerpunktbereich Bachelor-Studiengang PO 2013 und PO 2016\n\nTeilnahmevoraussetzungen\n\n• Inhaltlich: Inhalte der Module Data Science oder Machine Learning\n\nVoraussetzungen für die Vergabe von Leistungspunkten\n\n• aktive und erfolgreiche Mitwirkung in den theoretischen und praktischen Übungen\n• Bestehen der schriftlichen Prüfung (Klausur, i. d. R. 90 Minuten)\n\n54\n\nModulhandbuch B.Sc. Informatik PO 2021\n\nVersion: 2025-07-02\n\n\fModulbeauftragte und hauptamtlich Lehrende\n\nDr. Konrad Völkel\n\nLetzte Änderung 2023-03-23\n\nVersion: 2025-07-02\n\nModulhandbuch B.Sc. Informatik PO 2021\n\n55\n\n\fDatenbanken: Weiterführende Konzepte (en. Databases:\nFurther Concepts)\n\nLeistungspunkte\n\nArbeitsaufwand\n\nKontaktzeit\n\nSelbststudium\n\n5 LP\n\n150 Stunden\n\n60 Stunden\n\n90 Stunden\n\nL"
+          },
+          {
+            "modul_name": "weitere Datenbankkonzepte vorgestellt. Neben den",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "Vorlesung",
+            "sprache": "Vorlesung (2 SWS)",
+            "voraussetzungen": "• Inhaltlich: Inhalte des Moduls Datenbanken: Eine Einführung",
+            "inhalte": "des Moduls Datenbanken: Eine Einführung",
+            "lernziele": null,
+            "prüfung": null,
+            "raw_text": "Modul  weitere  Datenbankkonzepte  vorgestellt.  Neben  den\nund\nGrundlagen \n-anwendungsprogrammierung)  im  Vordergrund.  Die  folgenden  Themen  werden  dafür  in  der  Vorlesung\nbehandelt:\n\n(Datenbankentwurf \n\nUmsetzung \n\npraktische \n\nallem \n\nsteht \n\nvor \n\ndie \n\n• Datenbankdefinition (in SQL)\n• Datenbankanwendungsprogrammierung und Datenbankanbindung im Web\n• Datenschutz und Datensicherheit (SQL Injection; Sichten und Rechte in Datenbanken)\n• Trigger\n• Implementierungsaspekte (physische Speicherung; Indexstrukturen)\n• Algorithmen für Anfrageoperatoren und Anfrageoptimierung\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• selbstständig  Datenbankanwendungen  entwickeln  (einschl.  Datenbankentwurf,  Datenbankdefinition\n\nund Anwendungsprogrammierung),\n\n• grundlegende  Aspekte  des  Datenschutzes  und  der  Datensicherheit \n\nin  der  Entwicklung  von\n\nDatenbankanwendungen berücksichtigen und\n\n• zentrale  Implementierungskonzepte  zur  Speicherung  von  Daten  und  elementare  Datenstrukturen  und\n\nAlgorithmen zur Anfragebearbeitung erklären und bewerten.\n\nLiteratur\n\n• G. Saake, K.-U. Sattler, A. Heuer: Datenbanken – Konzepte und Sprachen. mitp Verlag. 2018. TODO\n\nAuflage\n\n• G.  Saake,  K.-U.  Sattler,  A.  Heuer:  Datenbanken  –  Implementierungstechniken.  mitp  Verlag.  2011.  3.\n\nAuflage\n\n• Kemper, A. Eickler: Datenbanksysteme – Eine Einführung. Oldenbourg Verlag. 2015. 10. Auflage\n• R. Elmasri, S.B. Navathe: Fundamentals of Database Systems. Pearson. 2016. 7th edition\n• H. Garcia-Molina, J.D. Ullman, J. Widom: Database Systems: The Complete Book. Pearson. 2009. 2nd\n\nedition\n\nVerwendbarkeit des Moduls\n\n• Wahlbereich Bachelor-Studiengang PO 2021\n• Wahlpflicht- und Schwerpunktbereich Bachelor-Studiengang PO 2013 und PO 2016\n\n56\n\nModulhandbuch B.Sc. Informatik PO 2021\n\nVersion: 2025-07-02\n\n\f• Anwendungsfach im Bachelor-Studiengang Mathematik und Anwendungsgebiete\n\nTeilnahmevoraussetzungen\n\n• I"
+          },
+          {
+            "modul_name": "werden die wichtigsten Grundlagen aus dem Gebiet der algorithmischen Spieltheorie in",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "Vorlesung (2 SWS)",
+            "voraussetzungen": "• Inhaltlich: Inhalte der Module Algorithmen und Datenstrukturen und Mathematik für Informatik 1",
+            "inhalte": "der Module Algorithmen und Datenstrukturen und Mathematik für Informatik 1",
+            "lernziele": null,
+            "prüfung": "am Ende des Semesters",
+            "raw_text": "Modul  werden  die  wichtigsten  Grundlagen  aus  dem  Gebiet  der  algorithmischen  Spieltheorie  in\nder  Breite  präsentiert.  Dazu  werden  verschiedene  Felder  innerhalb  der  algorithmischen  Spieltheorie\nvorgestellt und besonders wichtige Ergebnisse vermittelt.\n\n• Strategische Spiele (Normalform, Dominanz, reine und gemischte Gleichgewichte und ihre Existenz)\n• Potentialspiele  (Atomic-  and  Non-atomic  selfish  routing  games,  Preis  der  Stabilität  und  Anarchy,\n\nPotentialfunktionen)\n\n• Mechanism Design (einfache Auktionen, Myerson’s Lemma, VCG-Preise, Revenue Maximization)\n• Mechanism Design without Money (Kidney Exchange, Stable Matching)\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• die besprochenen spieltheoretischen Modelle erkennen und erklären,\n• die besprochenen Resultate wiedergeben und anwenden,\n• die  besprochenen  Eigenschaften  und  Metriken  erklären  und  an  einfachen  Anwendungen  analysieren\n\nund\n\n• neue spieltheoretische Modelle oder Mechanismen entwickeln.\n\nLiteratur\n\n• Noam Nisan, Tim Roughgarden, Éva Tardos, Vijay V. Vazirani: Algorithmic Game Theory. Cambridge\n\nUniversity Press. 2007.\n\nVerwendbarkeit des Moduls\n\n• Wahlbereich Bachelor-Studiengang PO 2021\n• Wahlpflicht- und Schwerpunktbereich Bachelor-Studiengang PO 2013 und PO 2016\n• Anwendungsfach im Bachelor-Studiengang Mathematik und Anwendungsgebiete\n• Nebenfach im Bachelor-Studiengang Physik\n• Nebenfach im Bachelor-Studiengang Medizinische Physik\n\nTeilnahmevoraussetzungen\n\n• Inhaltlich:  Inhalte  der  Module  Algorithmen  und  Datenstrukturen  und  Mathematik  für  Informatik  1\n\n(alternativ: Lineare Algebra I oder Analysis I)\n\n62\n\nModulhandbuch B.Sc. Informatik PO 2021\n\nVersion: 2025-07-02\n\n\fVoraussetzungen für die Vergabe von Leistungspunkten\n\n• erfolgreiche Bearbeitung der Übungen\n• schriftliche Klausur (i. d. R. 90 Minuten) oder mündliche Prüfung am Ende des Semesters\n\nModulbeauftragte und hauptam"
+          },
+          {
+            "modul_name": "widmen wir",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "Vorlesung (2 SWS)",
+            "voraussetzungen": "• Inhaltlich: Inhalte des Moduls Data Science",
+            "inhalte": "des Moduls Data Science",
+            "lernziele": null,
+            "prüfung": "am Ende des Semesters",
+            "raw_text": "Modul widmen wir\nuns  einer  Auswahl  an  Kernthemen  der  Theorie  und  Anwendung  neuronaler  Netze,  mit  Blick  auf  Deep\nLearning. Dazu gehören unter anderem:\n\n• Einzelne Neuronen: logistische Regression und Aktivierungsfunktionen\n• Automatische Differentiation und Backpropagation\n• Latente Variablen, Autoencoder\n• Implementierung von Training und Inferenz mit Pytorch\n• Verwenden vortrainierter Modelle\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• Grundbegriffe und -konzepte neuronaler Netze benennen und erklären,\n• mathematische Grundlagen für neuronale Netze anwenden,\n• einfache Modelle selbst implementieren,\n• vortrainierte Modelle in andere Systeme integrieren und\n• beurteilen, welche der besprochenen Modelle hinsichtlich einer Anwendung in Frage kommen.\n\nLiteratur\n\n• Nielsen, Michael A.: Neural Networks and Deep Learning. Determination Press. San Francisco, 2015.\n\n(online)\n\n• Goodfellow,  Ian  and  Bengio,  Yoshua  and  Courville,  Aaron:  Deep  Learning.  MIT.  Cambridge,  2017.\n\n(online)\n\n• Stevens,  Eli  and  Antiga,  Luca  and  Viehmann,  Thomas:  Deep  Learning  with  PyTorch.  Manning.  New\n\nYork, 2020 (online)\n\n• Zhang,  Aston  and  Lipton,  Zachary  C.  and  Li,  Mu  and  Smola,  Alexander  J.:  Dive  into  Deep  Learning.\n\nOnline. Everywhere, 2021. (online)\n\nVerwendbarkeit des Moduls\n\n• Wahlbereich Bachelor-Studiengang PO 2021\n• Wahlpflicht- und Schwerpunktbereich Bachelor-Studiengang PO 2013 und PO 2016\n• Anwendungsfach im Bachelor-Studiengang Mathematik und Anwendungsgebiete\n• Nebenfach im Bachelor-Studiengang Physik\n• Nebenfach im Bachelor-Studiengang Medizinische Physik\n\n64\n\nModulhandbuch B.Sc. Informatik PO 2021\n\nVersion: 2025-07-02\n\n\fTeilnahmevoraussetzungen\n\n• Inhaltlich: Inhalte des Moduls Data Science\n\nVoraussetzungen für die Vergabe von Leistungspunkten\n\n• aktive Mitarbeit in den Übungen\n• Abgabe der Hausaufgaben\n• schriftliche Klausur (in der Regel 90 Minuten) "
+          },
+          {
+            "modul_name": "werden Konzepte aus der Funktionalen Programmierung vermittelt. Dabei verwenden wir",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "praktikum",
+            "sprache": "Clojure - ein modernes Lisp, das auf der JVM läuft. Wir behandeln folgende Aspekte:",
+            "voraussetzungen": "• Inhaltlich: Inhalte der Module Programmierung und Programmierpraktikum 1",
+            "inhalte": "gelisteten Themen erklären und anwenden.",
+            "lernziele": null,
+            "prüfung": "(Klausur, i. d. R. 90 Minuten),",
+            "raw_text": "Modul werden Konzepte aus der Funktionalen Programmierung vermittelt. Dabei verwenden wir\nals Sprache Clojure - ein modernes Lisp, das auf der JVM läuft. Wir behandeln folgende Aspekte:\n\n• Clojure Syntax und Programmierung\n• immutable Datenstrukturen und Laziness\n• das epochale Zeit-Modell\n• Simplicity und die Clojure Philosophie\n• Polymorphismus a la carte\n• Homoikonizität und Macros.\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• die  Prinzipien  der \n\nfunktionalen  Programmierung  bezeichnen  und  klassischen, \n\nimperativen\n\nProgrammiersprachen gegenüberstellen,\n\n• bewerten, für welche Einsatzbereiche die funktionale Programmierung vorteilhaft ist,\n• eigenständig funktionale Programme erstellen und testen,\n• die Konzepte der unter Inhalte gelisteten Themen erklären und anwenden.\n\nLiteratur\n\n• Moseley, Marks: Out of the tarpit. Online\n• Fogus, Houser: The Joy of Clojure. Manning. 2014. 2nd edition.\n• Emerick, Carper, Grand: Programming Clojure. O’Reilly. 2012. 1st edition.\n• Rathore, Avila: Clojure in Action. Manning. 2016. Second 2nd.\n• Higginbotham: Clojure for the Brave and True. No Starch Press. 2015. 1st edition.\n\nVerwendbarkeit des Moduls\n\n• Wahlbereich Bachelor-Studiengang PO 2021\n• Wahlpflicht- und Schwerpunktbereich Bachelor-Studiengang PO 2013 und PO 2016\n• Anwendungsfach im Bachelor-Studiengang Mathematik und Anwendungsgebiete\n• Nebenfach im Bachelor-Studiengang Physik\n• Nebenfach im Bachelor-Studiengang Medizinische Physik\n• Individuelle Ergänzung im Master Informatik\n\nTeilnahmevoraussetzungen\n\n• Inhaltlich: Inhalte der Module Programmierung und Programmierpraktikum 1\n\n66\n\nModulhandbuch B.Sc. Informatik PO 2021\n\nVersion: 2025-07-02\n\n\fVoraussetzungen für die Vergabe von Leistungspunkten\n\n• Je nach Teilnehmendenzahl:\n• bevorzugt schriftliche Prüfung (Klausur, i. d. R. 90 Minuten),\n• mündliche Prüfung (i. d. R. 30-45 Minuten).\n\nModulbeauftragte und hauptamtlich Lehrende\n\nPhilipp K"
+          },
+          {
+            "modul_name": "beschreibt mit Hilfe ausgewählter Beispiele die Anwendung der Informatik und Statistik zur",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "Python implementiert:",
+            "voraussetzungen": "• keine",
+            "inhalte": "Die Veranstaltung ist eine weiterführende Algorithmenvorlesung, die sich mit Randomisierung als Entwurfs-",
+            "lernziele": null,
+            "prüfung": "(i. d. R. 90 Minuten)",
+            "raw_text": "Modul  beschreibt  mit  Hilfe  ausgewählter  Beispiele  die  Anwendung  der  Informatik  und  Statistik  zur\nLösung  verschiedener  Probleme  aus  Biologie,  Physik  und  Chemie.  Wesentliche  Teile  der\nzugrundeliegenden Algorithmen werden in der Programmiersprache Python implementiert:\n\n• Schnelle Fourier-Transformation zur Reduzierung der Laufzeit im multiplen Alignment\n• Pebble-Game-Algorithmus zur Steifigkeitsanalyse von Biomolekülen\n• Motivsuche in DNA-Sequenzen mittels Gibbs-Sampling\n• Dynamic-Programming im paarweisen Sequenzvergleich\n• Gruppierungsverfahren  für  Sequenz-  und  Expressionsdaten:  Neighbor-Joining,  Markov-Clustering-\n\nAlgorithmus, k-Means, Expectation Maximization\n\n• Lateraler  Gentransfer  oder  phylogenetische  Artefakte?  Statistischer  Test  der  Übereinstimmung  von\n\nBäumen mit nicht-identischen Blattmengen ohne einen verlässlichen Referenzbaum\n• Wurzeln phylogenetischer Bäume mit Hilfe des Mean-Ancestor-Deviation-Verfahrens\n• Rekursion und das Problem der Independent-Phylogenetic-Contrasts\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• die  zugrundeliegenden  naturwissenschaftlichen  Hintergründe  und  die  damit  verbundenen\n\nProblemstellungen der vorgestellten Methoden beschreiben,\n\n• die zur Problemlösung dargestellten Algorithmen auf Beispieldaten anwenden,\n• verschiedene mögliche Lösungswege zu einer Problemstellung kritisch miteinander vergleichen und\n• die erlernten Verfahren eigenständig in der Programmiersprache Python implementieren.\n\nLiteratur\n\n• Relevante Publikationen werden in der Lehrveranstaltung bekannt gegeben.\n\nVerwendbarkeit des Moduls\n\n• Wahlbereich Bachelor-Studiengang PO 2021\n• Wahlpflicht- und Schwerpunktbereich Bachelor-Studiengang PO 2013 und PO 2016\n• Anwendungsfach im Bachelor-Studiengang Mathematik und Anwendungsgebiete\n\nTeilnahmevoraussetzungen\n\n• keine\n\n68\n\nModulhandbuch B.Sc. Informatik PO 2021\n\nVersion: 2025-07-02\n\n\fVoraussetzu"
+          },
+          {
+            "modul_name": "kann nicht abgelegt werden, wenn Sie das Modul „Randomisierte",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "praktische Übung",
+            "voraussetzungen": "• Inhaltlich:",
+            "inhalte": "der Module Algorithmen und Datenstrukturen, Theoretische",
+            "lernziele": null,
+            "prüfung": "(schriftlich oder mündlich)",
+            "raw_text": "Modul  kann  nicht  abgelegt  werden,  wenn  Sie  das  Modul  „Randomisierte\nAlgorithmen und Analysetechniken” bereits bestanden haben.\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden: - Begriffe\nund  grundlegende  Methoden  der  Randomisierung  in  der  Algorithmik  beschreiben,  -  Algorithmen\nunterschiedlichen  Entwurfsparadigmen  zuordnen  und  exemplarisch  anwenden,  -  Eigenschaften  wie\nLaufzeiten  und  Genauigkeiten  randomisierter  Algorithmen  analysieren  und  dadurch  bewerten  und\nvergleichen und - erste randomisierte Algorithmen nach geeigneten Entwurfsmustern entwickeln.\n\nLiteratur\n\n• Juraj Hromkovič: Randomisierte Algorithmen: Methoden zum Entwurf von zufallsgesteuerten Systemen\n\nfür Einsteiger. Teubner-Verlag. Wiesbaden, 2004. 1. Ausgabe\n\n• Michael  Mitzenmacher  and  Eli  Upfal:  Probability  and  Computing.  Cambridge  University  Press.\n\nCambridge, 2017. 2nd Edition.\n\nVerwendbarkeit des Moduls\n\n• Wahlbereich Bachelor-Studiengang PO 2021\n• Wahlpflicht- und Schwerpunktbereich Bachelor-Studiengang PO 2013 und PO 2016\n• Anwendungsfach im Bachelor-Studiengang Mathematik und Anwendungsgebiete\n• Nebenfach im Bachelor-Studiengang Physik\n• Nebenfach im Bachelor-Studiengang Medizinische Physik\n\n70\n\nModulhandbuch B.Sc. Informatik PO 2021\n\nVersion: 2025-07-02\n\n\f• Individuelle Ergänzung im Master Informatik\n\nTeilnahmevoraussetzungen\n\n• Inhaltlich: \n\nInhalte  der  Module  Algorithmen  und  Datenstrukturen,  Theoretische \n\nInformatik  und\n\nMathematik für Informatik 3\n\nVoraussetzungen für die Vergabe von Leistungspunkten\n\n• aktive Teilnahme an den Übungen\n• erfolgreiches Bearbeiten der Übungsaufgaben\n• abschließende Prüfung (schriftlich oder mündlich)\n\nModulbeauftragte und hauptamtlich Lehrende\n\nProf. Dr. Melanie Schmidt, Dr. Anja Rey, Dr. Andreas Abels\n\nLetzte Änderung 2024-10-01\n\nVersion: 2025-07-02\n\nModulhandbuch B.Sc. Informatik PO 2021\n\n71\n\n\fEmbedded Systems (en. Embedded Systems)\n\nLeis"
+          },
+          {
+            "modul_name": "handelt es sich um eine Einführung in Mikrocontroller und FPGAs.",
+            "ects": null,
+            "semester": null,
+            "veranstaltungsart": "projekt",
+            "sprache": null,
+            "voraussetzungen": null,
+            "inhalte": null,
+            "lernziele": null,
+            "prüfung": null,
+            "raw_text": "Modul handelt es sich um eine Einführung in Mikrocontroller und FPGAs.\n\nMit Hilfe von Arduinos werden die Konzepte von Mikrokontrollen erarbeitet. Hierbei werden Grundlagen zu\nSensoren und Aktoren vermittelt. Ein Beispielprojekt zu Mikrocontroller ist hierbei der Cody Computer, ein\n8 Bit Homebrew Computer.\n\nDie  Programmierung  von  FPGAs  wird  mit  den  Sprachen  Verilog  und  VHDL  vermittelt  und  in  den\npraktischen Übungen an FPGAs durchgeführt.\n\nDas  "
+          },
+          {
+            "modul_name": "wird nach dem Prinzip des Inverted Classroom angeboten: Die Vorlesungsinhalte werden",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "Vorlesung",
+            "sprache": "Seminar (2 SWS)",
+            "voraussetzungen": "• Inhaltlich: Inhalte der Module Programmierung und Rechnerarchitektur",
+            "inhalte": "werden",
+            "lernziele": null,
+            "prüfung": "(in der Regel 30 Minuten)",
+            "raw_text": "Modul  wird  nach  dem  Prinzip  des  Inverted  Classroom  angeboten:  Die  Vorlesungsinhalte  werden\nasynchron durch Lehrvideos vermittelt und in Präsenz in praktischen Übungen angewendet.\n\nKonkret werden folgende Inhalte behandelt:\n\n• Mikrocontroller / Arduino Uno R3: Arduino IDE, I/O, Analog vs. Digital, Sensoren und Aktoren\n• Mikrocontroller / Parallax Propeller: Der Cody Computer, Assembler\n• Serielle Kommunikation: UART/COM, SPI, I2C\n• CAD: Schaltpläne mit KiCAD\n• Grundlagen der FPGAs: Aufbau und Funktionsprinzipien\n• AMD Xilinx Vivado, Intel Quartus, Kommandozeilenwerkzeuge\n• Verschiedene FPGAs und FPGA Boards in der Praxis: Basys 3, MAX1000, iCE40, Tang Nano\n• Hardwarebeschreibungssprachen: Verilog und VHDL\n\nZusätzliche Bemerkungen\n\n• Aus didaktischen Gründen können maximal 20 Studierende an dieser Veranstaltung teilnehmen.\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• eigenständig Schaltungen mit Mikrocontrollern und FPGAs aufbauen und erklären\n• Programmcode in Verilog und VHDL lesen, erklären und erstellen\n• Schaltpläne mit den bekannten Bausteinen lesen\n• Projekte mit Mikrocontrollern und FPGA selbstständig entwickeln und umsetzen\n• Konzepte von Mikrocontrollern und FPGAs benennen und ihre Funktionsweise erklären\n\nLiteratur\n\n• Uwe Altenburg: Embedded Systems. Rheinwerk Verlag, Bonn. 2025. Erstausgabe\n• Danny Schreiter: Arduino Kompendium. BMU Verlag, 2019. Erstausgabe\n• Claus Kühnel: Arduino: Das umfassende Handbuch. Rheinwerk Verlag, Bonn. 2024. Erstausgabe\n• Erik Bartmann: FPGA für alle. Bombini Verlag. 2023. Erstausgabe\n• Jörg Rippel: FPGAs: Einstieg, Schaltungen, Projekte. Rheinwerk Verlag, Bonn. 2024. Erstausgabe\n\n72\n\nModulhandbuch B.Sc. Informatik PO 2021\n\nVersion: 2025-07-02\n\n\f• Steven Hugg: Designing Video Game Hardware in Verilog. Independently published. 2018. 1St Edition\n• Frederick John Milens III: The Cody Computer Book. Open Book. 2024. 1St Edition\n\nVerwendbarkeit "
+          },
+          {
+            "modul_name": "vermittelt grundlegende Kenntnisse aus folgenden Bereichen.",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "techniques for",
+            "sprache": "Vorlesung (3 SWS)",
+            "voraussetzungen": "• Inhaltlich: Inhalte der Module Programmierung, Algorithmen und Datenstrukturen und Mathematik für",
+            "inhalte": "der Module Programmierung, Algorithmen und Datenstrukturen und Mathematik für",
+            "lernziele": null,
+            "prüfung": "am Ende des Semesters",
+            "raw_text": "Modul vermittelt grundlegende Kenntnisse aus folgenden Bereichen.\n\n• Suchmethoden auf Graphen\n• Topologische Anordnungen\n• Zusammenhangsprobleme\n• Kürzeste Wege\n• Minimale Spannbäume\n• Netzwerkfluss-Probleme\n• Matching-Probleme\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• die besprochenen Graphalgorithmen wiedergeben und erklären,\n• die  besprochenen  Graphalgorithmen  unterschiedlichen  Problemstellungen  zuordnen  und  geeignet\n\nanwenden,\n\n• die besprochenen Graphalgorithmen auf ihre Laufzeit und Korrektheit hin analysieren und\n• neue einfache Graphalgorithmen entwickeln und analysieren.\n\nLiteratur\n\n• Thomas  H.  Cormen,  Charles  E.  Leiserson,  Ronald  L.  Rivest,  Clifford  Stein:  Algorithmen  –  Eine\n\nEinführung. De Gruyter Oldenbourg. 2017. 4. Auflage.\n\n• Ravindra  Ahuja,  Thomas  Magnanti,  James  B.  Orlin:  Network  Flows:  Theory,  Algorithms  and\n\nApplications. Prentice Hall. Englewood Cliffs, 1993. 1. Ausgabe\n\nVerwendbarkeit des Moduls\n\n• Wahlbereich Bachelor-Studiengang PO 2021\n• Wahlpflicht- und Schwerpunktbereich Bachelor-Studiengang PO 2013 und PO 2016\n• Anwendungsfach im Bachelor-Studiengang Mathematik und Anwendungsgebiete\n• Nebenfach im Bachelor-Studiengang Physik\n• Nebenfach im Bachelor-Studiengang Medizinische Physik\n\nTeilnahmevoraussetzungen\n\n• Inhaltlich:  Inhalte  der  Module  Programmierung,  Algorithmen  und  Datenstrukturen  und  Mathematik  für\n\nInformatik 1\n\n76\n\nModulhandbuch B.Sc. Informatik PO 2021\n\nVersion: 2025-07-02\n\n\fVoraussetzungen für die Vergabe von Leistungspunkten\n\n• aktive Mitarbeit in den Übungen\n• Abgabe der Hausaufgaben\n• schriftliche Klausur (i. d. R. 90 Minuten) oder mündliche Prüfung am Ende des Semesters\n\nModulbeauftragte und hauptamtlich Lehrende\n\nProf. Dr. Melanie Schmidt, Dr. Daniel Schmidt\n\nLetzte Änderung 2024-10-02\n\nVersion: 2025-07-02\n\nModulhandbuch B.Sc. Informatik PO 2021\n\n77\n\n\fGrundlagen Verteilter Systeme (en. Foundations of\nDist"
+          },
+          {
+            "modul_name": "werden Kenntnisse über die Grundlagen der Kryptologie vermittelt, einige wichtige",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "Vorlesung (2 SWS)",
+            "voraussetzungen": "• keine",
+            "inhalte": "In der Lehrveranstaltung werden in der Natur vorkommende Muster betrachtet, im Hinblick auf ihre",
+            "lernziele": "und Definitionen der Komplexitätstheorie erläutern,",
+            "prüfung": "(Klausur, i. d. R. 90 Minuten)",
+            "raw_text": "Modul  werden  Kenntnisse  über  die  Grundlagen  der  Kryptologie  vermittelt,  einige  wichtige\nKryptosysteme  vorgestellt  und  ihre  Sicherheit  diskutiert,  die  häufig  auf  der  Komplexität  geeigneter\nProbleme beruht. Deshalb wird auch in die Grundlagen der Komplexitätstheorie eingeführt, insbesondere\nmit  dem  Ziel,  Methoden  zum  Nachweis  unterer  Schranken  bezüglich  der  Komplexitätsmaße  Rechenzeit\nund Speicherplatz zu verstehen und anwenden zu können. Besonderer Wert wird darauf gelegt, dass die\nStudierenden die enge Verflechtung dieser Gebiete verstehen.\n\nEinführung in die Kryptologie\n\n• Einige klassische Kryptosysteme und ihre Kryptoanalyse (Substitutions- und Permutationschiffren, affin\n\nlineare Blockchiffren, Block- und Stromchiffren)\n\n• Perfekte  Geheimhaltung \nSchlüsselmehrdeutigkeit)\n\n(Satz  von  Shannon  und  Vernams  One-Time  Pad,  Entropie  und\n\n• RSA,  Primzahltests  und  das  Faktorisierungsproblem  (das  Public-Key  Kryptosystem  RSA,  digitale\n\nSignaturen mit RSA, Sicherheit von RSA)\n\nEinführung in die Komplexitätstheorie\n\n• Grundlagen (Komplexitätsmaße und -klassen, Kompression und Beschleunigung, Hierarchiesätze)\n• Zwischen  L  und  PSPACE  (einfache  Inklusionen,  komplexitätsbeschränkte  Many-one-Reduktionen,\n\nvollständige Probleme in NL, NP-vollständige Probleme)\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• symmetrische Kryptosysteme hinsichtlich ihrer Eigenschaften klassifizieren,\n• die Sicherheit von Blockchiffren und anderen klassischen Kryposystemen bewerten,\n• begründen, weshalb bestimmte Kryptosysteme welche Eigenschaften besitzen,\n• die Idee der Public-Key-Kryptographie erläutern,\n• die grundlegenden Ziele und Definitionen der Komplexitätstheorie erläutern,\n• die Komplexität von natürlichen Problemen beschreiben und begründen und\n• selbstständig Reduktionen zwischen Problemen zum Nachweis unterer Schranken entwerfen und ihre\n\nKorrektheit nachweis"
+          },
+          {
+            "modul_name": "werden die wichtigsten Grundlagen, Modelle, Methoden und Resultate aus dem jungen,",
+            "ects": "300",
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "Vorlesung (4 SWS)",
+            "voraussetzungen": "• keine",
+            "inhalte": "jedes Sommersemester Bachelor-Studiengang",
+            "lernziele": null,
+            "prüfung": "(Klausur, i. d. R. 90 Minuten)",
+            "raw_text": "Modul werden die wichtigsten Grundlagen, Modelle, Methoden und Resultate aus dem jungen,\ninterdisziplinären  Gebiet  Computational  Social  Choice  vermittelt,  das\nsich  rasant  entwickelnden, \nAnwendungen  in  den  Gebieten  Artificial  Intelligence  und  Multiagent  Systems  hat.  Insbesondere  werden\nEigenschaften  von  Wahlsystemen  behandelt  sowie  die  damit \nim  Zusammenhang  stehenden\nEntscheidungsprobleme \n(Gewinnerbestimmung,  Manipulation,  Wahlkontrolle,  Bestechung  usw.)\nhinsichtlich ihrer Algorithmik und Komplexität untersucht.\n\nGrundlagen der Social-Choice-Theorie\n\n• Wahlen\n• Wahlsysteme  (Scoring-Protokolle  wie  Plurality,  Veto  und  Borda;  Condorcet;  Copeland;  Maximin;\n\nDodgson; Young; Bucklin; Fallback; etc.)\n\n• Eigenschaften von Wahlsystemen\n• Einige Wahl-Paradoxa und Unmöglichkeitssätze\n\nAlgorithmik und Komplexität von Wahlproblemen\n\n• Gewinnerbestimmung\n• Mögliche und notwendige Gewinner\n• Manipulation\n• Wahlkontrolle\n• Bestechung\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• die  gebräuchlichsten  Wahlsysteme  (Scoring-Protokolle  wie  Plurality,  Veto  und  Borda;  Condorcet;\n\nCopeland; Maximin; Dodgson; Young; Bucklin; Fallback; etc.) und ihre Eigenschaften beschreiben,\n\n• diskutieren, wie sinnvoll welche axiomatischen Eigenschaften von Wahlsystemen sind,\n• die Gewinner der gebräuchlichsten Wahlsysteme für gegebene Präferenzprofile bestimmen,\n• Beispiele  für  erfolgreiche  Manipulations-,  Kontroll-  und  Bestechungsaktionen  für  die  gebräuchlichsten\n\nWahlsysteme angeben und die zugehörigen Entscheidungsprobleme beschreiben,\n\n• argumentieren, weshalb welche dieser Probleme entweder durch effiziente Algorithmen gelöst werden\n\nkönnen oder schwer zu lösen sind.\n\nLiteratur\n\n• Jörg  Rothe  (ed.):  Economics  and  Computation:  An  Introduction  to  Algorithmic  Game  Theory,\nComputational Social Choice, and Fair Division. Springer Texts in Business and Economic"
+          },
+          {
+            "modul_name": "Bachelorarbeit besteht aus zwei Teilbereichen, die beide benotet werden.",
+            "ects": "360",
+            "semester": null,
+            "veranstaltungsart": null,
+            "sprache": "-",
+            "voraussetzungen": null,
+            "inhalte": "der Bachelor-Arbeit liegt in einem gewählten",
+            "lernziele": null,
+            "prüfung": null,
+            "raw_text": "Modul Bachelorarbeit besteht aus zwei Teilbereichen, die beide benotet werden.\n\nVersion: 2025-07-02\n\nModulhandbuch B.Sc. Informatik PO 2021\n\n99\n\n\fAbschlussarbeit (en. Thesis)\n\nLeistungspunkte\n\nArbeitsaufwand\n\nKontaktzeit\n\nSelbststudium\n\n12 LP\n\n360 Stunden\n\n-\n\n-\n\nLehrveranstaltungen\n\nTurnus\n\nStudiengang\n\nUnterrichtssprache\n\n-\n\njederzeit\n\nBachelor-Studiengang\nInformatik\n\nDeutsch \nEnglisch\n\nInhalte\n\nDer Inhalt der Bachelor-Arbeit liegt in einem gewählten "
+          },
+          {
+            "modul_name": "der Informatik. Die Bachelor-Arbeit muss in",
+            "ects": "90",
+            "semester": null,
+            "veranstaltungsart": "seminar",
+            "sprache": "verfasst werden.",
+            "voraussetzungen": "Für die Anmeldung zur Bachelor-Arbeit müssen mindestens 120 der im Rahmen des Bachelor-Studiums zu",
+            "inhalte": "der Bachelorarbeit",
+            "lernziele": null,
+            "prüfung": "(schriftlich, i. d. R. 90 Minuten)",
+            "raw_text": "Modul der Informatik. Die Bachelor-Arbeit muss in\ndeutscher oder englischer Sprache verfasst werden.\n\nLernergebnisse/Kompetenzen\n\nMit der schriftlichen Abschlussarbeit sollen die Studierenden nachweisen, dass sie in der Lage sind:\n\n• innerhalb einer vorgegebenen Frist (von 3 Monaten)\n• ein Thema selbstständig zu bearbeiten und\n• dieses angemessen schriftlich darzustellen.\n\nIm  Begutachtungsgespräch  sollen  die  Studierenden  nachweisen,  dass  sie  in  der  Lage  sind,  das\nselbstständig  bearbeitete  Thema  angemessen  mündlich  darzustellen  sowie  Fragen  zur  eigenen  Arbeit\nbeantworten können.\n\nLiteratur\n\n• In Absprache mit den Betreuungspersonen.\n\nVerwendbarkeit des Moduls\n\n• Bachelorarbeit\n\nTeilnahmevoraussetzungen\n\nFür die Anmeldung zur Bachelor-Arbeit müssen mindestens 120 der im Rahmen des Bachelor-Studiums zu\nerwerbenden Leistungspunkte nachgewiesen werden.\n\nVoraussetzungen für die Vergabe von Leistungspunkten\n\n• erfolgreiche Bearbeitung des Themas und Darstellung in einer fristgerecht abgegebenen Ausarbeitung\n\n(Bachelor-Arbeit)\n\n• bestandenes Begutachtungsgespräch über die Inhalte der Bachelorarbeit\n\nModulbeauftragte und hauptamtlich Lehrende\n\nLehrende der Informatik\n\nLetzte Änderung 2024-08-26\n\n100\n\nModulhandbuch B.Sc. Informatik PO 2021\n\nVersion: 2025-07-02\n\n\fAbschlussseminar (en. Final Seminar)\n\nLeistungspunkte\n\nArbeitsaufwand\n\nKontaktzeit\n\nSelbststudium\n\n3 LP\n\n90 Stunden\n\n30\n\n60\n\nLehrveranstaltungen\n\nTurnus\n\nStudiengang\n\nUnterrichtssprache\n\n-\n\njederzeit\n\nBachelor-Studiengang\nInformatik\n\nDeutsch \nEnglisch\n\nInhalte\n\nIm  Rahmen  des  benoteten  Abschlussseminars  werden  Thema  und  Ergebnisse  der  Abschlussarbeit  der\nentsprechenden  Arbeitsgruppe \nsolcher)  mit  anschließender\n(oder  einem  Zusammenschluss \nwissenschaftlicher Diskussion präsentiert.\n\nLernergebnisse/Kompetenzen\n\nNach der Teilnahme am Abschlussseminar sind die Studierenden in der Lage\n\n• ein selbstständig erarbeitetes Thema in einem Vortrag zu präsentieren\n• wissenschaftlichen Vorträg"
+          },
+          {
+            "modul_name": "beschäftigt sich mit verschiedenen Verfahren zur kollektiven Entscheidungsfindung unter",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "Vorlesung (2 SWS)",
+            "voraussetzungen": "• Inhaltlich: Inhalte des Moduls Theoretische Informatik",
+            "inhalte": "der Veranstaltung sind",
+            "lernziele": null,
+            "prüfung": "(Klausur, i. d. R. 90 Minuten)",
+            "raw_text": "Modul  beschäftigt  sich  mit  verschiedenen  Verfahren  zur  kollektiven  Entscheidungsfindung  unter\nBerücksichtigung  von  Präferenzen.  Solche  Verfahren  werden  in  vielen  Bereichen  der  künstlichen\nIntelligenz, zum Beispiel bei der Interaktion von autonomen Agenten benötigt. Inhalt der Veranstaltung sind\nverschiedene  Verfahren  mit  ihren  axiomatischen  und  algorithmischen  Eigenschaften  aus  den  drei\nBereichen: Wahlen, Bürgerhaushalte und Verteilung von Gütern.\n\n• Wahlen (Wahlregeln, Eigenschaften, Unmöglichkeitsresultate)\n• Bürgerhaushalte (Präferenzen, Aggregationsregeln, Eigenschaften)\n• Verteilung von Gütern (Präferenzen, soziale Wohlfahrt, Allokationen)\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• unterschiedliche  Verfahren  zur  kollektiven  Entscheidungsfindung  beschreiben  und  auf  konkrete\n\nSituationen anwenden,\n\n• eigene Entscheidungsverfahren entwerfen und im Hinblick auf ihre Eigenschaften analysieren und\n• unter  gegebenen  Rahmenbedingungen  begründete  Empfehlungen  für  den  Einsatz  bestimmter\n\nVerfahren geben.\n\nLiteratur\n\n• Jörg  Rothe,  Dorothea  Baumeister,  Claudia  Lindner  und  Irene  Rothe:  Einführung  in  Computational\nSocial Choice. Individuelle Strategien und kollektive Entscheidungen beim Spielen, Wählen und Teilen.\nSpektrum, Akademischer Verlag. 2011.\n\n• Felix  Brandt,  Vincent  Conitzer,  Ulle  Endriss,  Jerome  Lang,  and  Ariel  Procaccia  (eds.):  Handbook  of\n\nComputational Social Choice. Cambridge University Press. 2015.\n\nVerwendbarkeit des Moduls\n\n• Wahlbereich Bachelor-Studiengang PO 2021\n• Wahlpflicht- und Schwerpunktbereich Bachelor-Studiengang PO 2013 und PO 2016\n• Anwendungsfach im Bachelor-Studiengang Mathematik und Anwendungsgebiete\n• Nebenfach im Bachelor-Studiengang Physik\n• Nebenfach im Bachelor-Studiengang Medizinische Physik\n\nTeilnahmevoraussetzungen\n\n• Inhaltlich: Inhalte des Moduls Theoretische Informatik\n\nVersion: 2025-0"
+          },
+          {
+            "modul_name": "beschäftigt sich mit unterschiedlichen Arten von Matchings bzw. Zuteilungsverfahren. Solche",
+            "ects": "150",
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "Vorlesung (2 SWS)",
+            "voraussetzungen": "• Inhaltlich: Inhalte des Moduls Theoretische Informatik",
+            "inhalte": "der Veranstaltung sind die verschiedenen Verfahren mit ihren axiomatischen und",
+            "lernziele": null,
+            "prüfung": "(Klausur, i. d. R. 90 Minuten)",
+            "raw_text": "Modul beschäftigt sich mit unterschiedlichen Arten von Matchings bzw. Zuteilungsverfahren. Solche\nVerfahren  können  in  unterschiedlichen  Bereichen  eingesetzt  werden,  Beispiele  sind  die  Vergabe  von\nStudienplätzen,  die  Verteilung  von  Assistenzärzten  auf  Krankenhäuser  oder  die  Zuordnung  von\nWohnheimplätzen. Inhalt der Veranstaltung sind die verschiedenen Verfahren mit ihren axiomatischen und\nalgorithmischen Eigenschaften.\n\n• Matching in Graphen\n• Matching mit beidseitigen Präferenzen (stabiles Heiratsproblem)\n• Nicht-bipartites Matching mit Präferenzen (stabiles Mitbewohnerproblem)\n• Bipartites Matching mit einseitigen Präferenzen (Vergabe von Plätzen im Studierendenwohnheim)\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• Zuteilungsverfahren in unterschiedlichen Situationen durchführen,\n• Herausforderungen von praktischen Zuteilungsproblemen identifizieren,\n• Verfahren zur Zuteilung für spezielle Einsatzbereiche entwickeln und im Hinblick auf ihre Eigenschaften\n\nuntersuchen,\n\n• bekannte Verfahren zur Zuteilung auf neue Einsatzbereiche übertragen,\n• verschiedenen Verfahren zur Zuteilung gegenüberstellen und\n• Empfehlungen für bestimmte Einsatzbereiche der Zuteilung geben.\n\nLiteratur\n\n• Dan  Gusfield  and  Robert  W.  Irving:  The  Stable  Marriage  Problem,  Structure  and  Algorithms.  MIT\n\nPress. 1989.\n\n• David F. Manlove: Algorithmics of Matching under Preferences. World Scientific Publishing Company.\n\n2013.\n\nVerwendbarkeit des Moduls\n\n• Wahlbereich Bachelor-Studiengang PO 2021\n• Wahlpflicht- und Schwerpunktbereich Bachelor-Studiengang PO 2013 und PO 2016\n• Anwendungsfach im Bachelor-Studiengang Mathematik und Anwendungsgebiete\n• Nebenfach im Bachelor-Studiengang Physik\n• Nebenfach im Bachelor-Studiengang Medizinische Physik\n\nTeilnahmevoraussetzungen\n\n• Inhaltlich: Inhalte des Moduls Theoretische Informatik\n\nVersion: 2025-07-02\n\nModulhandbuch B.Sc. Informatik PO 2021\n\n115\n"
+          },
+          {
+            "modul_name": "baut auf einem Kurs und dem zugehörigen Buch von Prof. Gianluca Bon-tempi an der",
+            "ects": null,
+            "semester": null,
+            "veranstaltungsart": "Übung",
+            "sprache": "R für Statistical Computing",
+            "voraussetzungen": "• keine",
+            "inhalte": "sind",
+            "lernziele": null,
+            "prüfung": "(i. d. R. schriftlich)",
+            "raw_text": "Modul  baut  auf  einem  Kurs  und  dem  zugehörigen  Buch  von  Prof.  Gianluca  Bon-tempi  an  der\nUniversité Libre de Bruxelles zu den statistischen Grundlagen des maschinellen Lernens auf. Inhalte sind\nim Einzelnen:\n\n• Die Programmiersprache R für Statistical Computing\n• Beschreibende Statistik\n• Grundlagen der Wahrscheinlichkeitsrechnung\n• Klassische parametrische Schätzung und Tests\n• Nicht-parametrische Schätzung und Tests\n• Statistisches Lernen\n• Lineare Ansätze\n• Nicht-lineare Ansätze\n• Dimensionalitätsreduktion\n\nLernergebnisse/Kompetenzen\n\nNach erfolgreicher Teilnahme an den Veranstaltungen dieses Moduls können die Studierenden:\n\n• grundlegende \n\nKonzepte \n\nder \n\nstatistischen \n\nDatenanalyse \n\nzusammenfassen \n\nWahrscheinlichkeitsverteilungen, \nParameterschätzer, bedingte Wahrscheinlichkeiten, Permutationstests),\n\nparametrische \n\nund \n\nnichtparametrische \n\n(z. B.\nHypothesentests,\n\n• parametrische und nicht-parametrische Tests für statistische Hypothesen entwickeln,\n• statistische Modelle mit mehrdimensionalen Prädiktoren zu formulieren,\n• statistische Datenanalysen mit R planen und durchführen und\n• aussagekräftige grafische Darstellungen von Daten mit ggplot2 erstellen.\n\nLiteratur\n\n• Gianluca  Bontempi.  Handbook  statistical  foundations  of  machine  learning.  Self-published,  Brüssel,\n\n2021. 2nd edition.\n\nVerwendbarkeit des Moduls\n\n• Wahlbereich Bachelor-Studiengang PO 2021\n• Wahlpflicht- und Schwerpunktbereich Bachelor-Studiengang PO 2013 und PO 2016\n• Anwendungsfach im Bachelor-Studiengang Mathematik und Anwendungsgebiete\n• Nebenfach im Bachelor-Studiengang Physik\n• Nebenfach im Bachelor-Studiengang Medizinische Physik\n\nVersion: 2025-07-02\n\nModulhandbuch B.Sc. Informatik PO 2021\n\n121\n\n\fTeilnahmevoraussetzungen\n\n• keine\n\nVoraussetzungen für die Vergabe von Leistungspunkten\n\n• aktive Teilnahme an den Übungen\n• erfolgreiches Bearbeiten der Übungsaufgaben (50%)\n• abschließende Prüfung (i. d. R. schriftlich)\n\nModulbeauftragte und hauptamtlich Lehrende\n\nPr"
+          }
+        ],
+        "statistics": {
+          "total_modules_found": 41,
+          "modules_with_ects": 31,
+          "modules_with_name": 41
+        }
+      }
+    },
+    "count": 1
+  },
+  "statistics": {
+    "lsf_entries": 4,
+    "website_entries": 3,
+    "pdf_entries": 1,
+    "total_modules_from_pdf": 41
+  }
+}

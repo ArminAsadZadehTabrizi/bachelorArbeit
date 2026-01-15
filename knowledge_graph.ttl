@@ -1,0 +1,40 @@
+@prefix hhu: <http://www.hhu.de/hhu-ontology#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+hhu:Person a rdfs:Class ;
+    rdfs:label "Person"@de ;
+    rdfs:comment "Eine Person (Dozent/in) an der HHU"@de .
+
+hhu:Veranstaltung a rdfs:Class ;
+    rdfs:label "Veranstaltung"@de ;
+    rdfs:comment "Eine Lehrveranstaltung an der HHU"@de .
+
+hhu:event_12345 a hhu:Veranstaltung ;
+    hhu:hatECTS 6 ;
+    hhu:hatTitel "Einführung in die Informatik"@de ;
+    hhu:wirdGehaltenVon hhu:person_ProfDrMaxMueller .
+
+hhu:event_67890 a hhu:Veranstaltung ;
+    hhu:hatTitel "Künstliche Intelligenz"@de ;
+    hhu:wirdGehaltenVon hhu:person_DrAnnaSchmidt .
+
+hhu:hatECTS a rdf:Property ;
+    rdfs:label "hat ECTS-Punkte"@de ;
+    rdfs:domain hhu:Veranstaltung .
+
+hhu:hatTitel a rdf:Property ;
+    rdfs:label "hat Titel"@de .
+
+hhu:wirdGehaltenVon a rdf:Property ;
+    rdfs:label "wird gehalten von"@de ;
+    rdfs:domain hhu:Veranstaltung ;
+    rdfs:range hhu:Person .
+
+hhu:person_DrAnnaSchmidt a hhu:Person ;
+    rdfs:label "Dr. Anna Schmidt"@de .
+
+hhu:person_ProfDrMaxMueller a hhu:Person ;
+    rdfs:label "Prof. Dr. Max Müller"@de .
+
