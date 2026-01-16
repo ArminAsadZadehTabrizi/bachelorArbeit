@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 LSF HTML Extractor - Prototyp für Datenstruktur-Analyse
 
@@ -106,7 +105,7 @@ def parse_detail_page(html_content: str) -> Dict[str, Any]:
                 if sprache_td:
                     result['sprache'] = sprache_td.get_text(strip=True)
             
-            # Hyperlink (Hauptlink)
+            # Hyperlink 
             hyperlink_th = basicdata_table.find('th', {'id': 'basic_13'})
             if hyperlink_th:
                 hyperlink_td = basicdata_table.find('td', {'headers': 'basic_13'})
@@ -125,7 +124,7 @@ def parse_detail_page(html_content: str) -> Dict[str, Any]:
             # Weitere Links
             weitere_links_th = basicdata_table.find('th', {'id': 'basic_15'})
             if weitere_links_th:
-                # Kann mehrere Zeilen haben (rowspan)
+                # Kann mehrere Zeilen haben
                 weitere_links_tds = basicdata_table.find_all('td', {'headers': 'basic_15'})
                 for td in weitere_links_tds:
                     links = td.find_all('a', class_='regular')
@@ -157,7 +156,7 @@ def parse_detail_page(html_content: str) -> Dict[str, Any]:
     if terms_anchor:
         terms_table = terms_anchor.find_next('table', {'summary': 'Übersicht über alle Veranstaltungstermine'})
         if terms_table:
-            rows = terms_table.find_all('tr')[1:]  # Skip header row
+            rows = terms_table.find_all('tr')[1:]  
             for row in rows:
                 cells = row.find_all('td')
                 if len(cells) >= 5:
