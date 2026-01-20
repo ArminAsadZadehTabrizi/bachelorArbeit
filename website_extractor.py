@@ -1,9 +1,7 @@
-#!/usr/bin/env python3
-"""
-Website HTML Extractor - Extrahiert unstrukturierte Informationen von Universitäts-Websites
 
-Extrahiert Informationen basierend auf Keywords wie "Klausur", "Sprechstunde", "Skript", etc.
-"""
+# Website HTML Extractor - Extrahiert unstrukturierte Informationen von Universitäts-Websites
+
+#Extrahiert Informationen basierend auf Keywords wie "Klausur", "Sprechstunde", "Skript", etc.
 
 import json
 import re
@@ -87,12 +85,12 @@ def extract_structured_info(soup: BeautifulSoup, url: str) -> Dict[str, Any]:
     if title_tag:
         result['title'] = title_tag.get_text(strip=True)
     
-    # H1 als möglicher Titel
+    # H1 als Titel
     h1 = soup.find('h1')
     if h1 and not result['title']:
         result['title'] = h1.get_text(strip=True)
     
-    # Haupttext extrahieren (ohne Scripts und Styles)
+    # Haupttext extrahieren 
     for script in soup(["script", "style", "nav", "footer", "header"]):
         script.decompose()
     
@@ -124,7 +122,7 @@ def extract_structured_info(soup: BeautifulSoup, url: str) -> Dict[str, Any]:
         elif not href.startswith('http'):
             continue
         
-        if text and len(text) < 200:  # Vermeide sehr lange Link-Texte
+        if text and len(text) < 200:  
             result['links'].append({
                 'url': href,
                 'text': text
@@ -146,7 +144,7 @@ def extract_structured_info(soup: BeautifulSoup, url: str) -> Dict[str, Any]:
     text_blocks = []
     for element in soup.find_all(['p', 'li', 'div']):
         text = element.get_text(strip=True)
-        if text and len(text) > 20 and len(text) < 1000:  # Sinnvolle Größe
+        if text and len(text) > 20 and len(text) < 1000:  
             text_blocks.append(text)
     
     result['text_blocks'] = text_blocks[:50]  # Begrenze auf 50 Blöcke
@@ -237,7 +235,7 @@ def extract_from_html_file(filepath: str, source_url: Optional[str] = None) -> D
 
 
 def main():
-    """Hauptfunktion: Extrahiert Informationen von URLs oder HTML-Dateien."""
+    #Hauptfunktion: Extrahiert Informationen von URLs oder HTML-Dateien.
     import sys
     
     urls = [

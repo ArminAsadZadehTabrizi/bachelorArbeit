@@ -269,10 +269,10 @@ def main():
     
     # Liste der Detail-Dateien (ohne Veranstaltungsverzeichnis)
     detail_files = [
-        '- Vorlesung Präsenz: Algorithmen und Datenstrukturen Heinrich Heine Universität Düsseldorf.html',
-        '- Vorlesung (Hybrid Plus: Präsenz + Streaming + Aufzeichnung): Programmierung Heinrich Heine Univers.html',
-        '- Vorlesung (Hybrid Plus: Präsenz + Streaming + Aufzeichnung): Rechnerarchitektur Heinrich Heine Uni.html',
-        '- Übung: Programmierung (Übung) Heinrich Heine Universität Düsseldorf.html'
+        'data:/- Vorlesung Präsenz: Algorithmen und Datenstrukturen Heinrich Heine Universität Düsseldorf.html',
+        'data:/- Vorlesung (Hybrid Plus: Präsenz + Streaming + Aufzeichnung): Programmierung Heinrich Heine Univers.html',
+        'data:/- Vorlesung (Hybrid Plus: Präsenz + Streaming + Aufzeichnung): Rechnerarchitektur Heinrich Heine Uni.html',
+        'data:/- Übung: Programmierung (Übung) Heinrich Heine Universität Düsseldorf.html'
     ]
     
     results = {}

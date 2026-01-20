@@ -1,21 +1,15 @@
-#!/usr/bin/env python3
-"""
-validate_graph.py
-Validiert den RDF-Graphen (hhu_graph_full.ttl) mithilfe von SHACL.
-Phase 3: Datenqualitätsprüfung
-"""
+
 
 from rdflib import Graph, Namespace
 from pyshacl import validate
 
 # SHACL Shape-Graph als Turtle-String
-# WICHTIG: Verwendet inline shape für bessere Kompatibilität mit numerischen Werten
 shapes_graph_ttl = """
 @prefix sh: <http://www.w3.org/ns/shacl#> .
 @prefix hhu: <http://www.hhu.de/hhu-ontology#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-# Shape für Veranstaltungen
+# Shape für Veranstaltungen.
 hhu:VeranstaltungShape
     a sh:NodeShape ;
     sh:targetClass hhu:Veranstaltung ;
@@ -59,19 +53,19 @@ def main():
     conforms, results_graph, results_text = validate(
         data_graph,
         shacl_graph=shapes_graph,
-        inference=None,  # Keine Inferenz, um Performance zu verbessern
+        inference=None,  
         abort_on_first=False,
-        advanced=True,  # Advanced features aktivieren
+        advanced=True,  
         allow_warnings=True
     )
     
     # Ergebnisse ausgeben
     print("=" * 60)
     if conforms:
-        print("✓ VALIDIERUNG ERFOLGREICH")
+        print("VALIDIERUNG ERFOLGREICH")
         print("Der Graph entspricht allen SHACL-Regeln.")
     else:
-        print("✗ VALIDIERUNG FEHLGESCHLAGEN")
+        print("VALIDIERUNG FEHLGESCHLAGEN")
         print("Der Graph verletzt eine oder mehrere SHACL-Regeln.\n")
         
         # Fehler aus dem results_graph extrahieren
@@ -111,7 +105,7 @@ def main():
     
     # Falls keine Fehler gefunden wurden, manuelle Prüfung durchführen
     if conforms:
-        print("\n⚠️  Manuelle Prüfung: ECTS-Werte über 30 suchen...")
+        print("\n  Manuelle Prüfung: ECTS-Werte über 30 suchen...")
         HHU = Namespace("http://www.hhu.de/hhu-ontology#")
         
         fehlerhafte_veranstaltungen = []
@@ -132,10 +126,10 @@ def main():
                 print(f"    URI: {uri}")
                 print(f"    ECTS: {ects} (Maximal erlaubt: 30)")
                 print()
-            print("⚠️  Hinweis: SHACL-Validierung hat diese Fehler NICHT erkannt.")
-            print("    Dies liegt an der Darstellung numerischer Werte in RDF.")
+            print(" Hinweis: SHACL-Validierung hat diese Fehler NICHT erkannt.")
+            print(" Dies liegt an der Darstellung numerischer Werte in RDF.")
         else:
-            print("✓ Keine ECTS-Werte über 30 gefunden.")
+            print("Keine ECTS-Werte über 30 gefunden.")
     
     # Detaillierter Report nur bei tatsächlichen SHACL-Fehlern
     if not conforms:

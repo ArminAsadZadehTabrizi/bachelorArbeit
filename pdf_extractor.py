@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 PDF Extractor - Extrahiert Modulbeschreibungen aus PDF-Dateien
 
@@ -118,7 +117,7 @@ def find_module_blocks(text: str) -> List[Dict[str, Any]]:
         })
     
     for match in ects_matches:
-        # Suche rückwärts nach Modul-Name (max. 500 Zeichen)
+        # Suche rückwärts nach Modul-Name
         start_pos = max(0, match.start() - 500)
         context_before = text[start_pos:match.start()]
         
@@ -177,7 +176,7 @@ def extract_module_info(block_text: str, default_name: Optional[str] = None) -> 
         'inhalte': None,
         'lernziele': None,
         'prüfung': None,
-        'raw_text': block_text[:2000]  # Erste 2000 Zeichen als Raw-Text
+        'raw_text': block_text[:2000]  
     }
     
     # Extrahiere für jedes Pattern
@@ -252,7 +251,7 @@ def main():
     import sys
     
     pdf_files = [
-        'modulhandbuch_bachelor_po21_de.pdf'
+        'data:/modulhandbuch_bachelor_po21_de.pdf'
     ]
     
     results = {}

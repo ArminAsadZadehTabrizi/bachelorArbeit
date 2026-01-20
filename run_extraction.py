@@ -31,10 +31,10 @@ def run_lsf_extraction() -> Dict[str, Any]:
     
     base_path = Path(__file__).parent
     detail_files = [
-        '- Vorlesung Präsenz: Algorithmen und Datenstrukturen Heinrich Heine Universität Düsseldorf.html',
-        '- Vorlesung (Hybrid Plus: Präsenz + Streaming + Aufzeichnung): Programmierung Heinrich Heine Univers.html',
-        '- Vorlesung (Hybrid Plus: Präsenz + Streaming + Aufzeichnung): Rechnerarchitektur Heinrich Heine Uni.html',
-        '- Übung: Programmierung (Übung) Heinrich Heine Universität Düsseldorf.html'
+        'data:/- Vorlesung Präsenz: Algorithmen und Datenstrukturen Heinrich Heine Universität Düsseldorf.html',
+        'data:/- Vorlesung (Hybrid Plus: Präsenz + Streaming + Aufzeichnung): Programmierung Heinrich Heine Univers.html',
+        'data:/- Vorlesung (Hybrid Plus: Präsenz + Streaming + Aufzeichnung): Rechnerarchitektur Heinrich Heine Uni.html',
+        'data:/- Übung: Programmierung (Übung) Heinrich Heine Universität Düsseldorf.html'
     ]
     
     results = {}
@@ -110,7 +110,7 @@ def run_pdf_extraction() -> Dict[str, Any]:
     print("=" * 60, file=sys.stderr)
     
     pdf_files = [
-        'modulhandbuch_bachelor_po21_de.pdf'
+        'data:/modulhandbuch_bachelor_po21_de.pdf'
     ]
     
     results = {}

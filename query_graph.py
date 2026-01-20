@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 SPARQL Query Script for HHU Knowledge Graph
 Phase 3: Nutzung und Validierung
@@ -9,7 +9,7 @@ durch drei Proof-of-Concept Abfragen für die Evaluation der Bachelorarbeit.
 
 from rdflib import Graph, Namespace
 
-# Setup: Graph laden
+#  Graph laden
 print("=" * 80)
 print("HHU Knowledge Graph - SPARQL Query Demonstrator")
 print("=" * 80)
@@ -18,15 +18,13 @@ print("\nLade Graph aus hhu_graph_full.ttl...")
 g = Graph()
 g.parse("hhu_graph_full.ttl", format="turtle")
 
-# Namespace definieren (exakt wie im Builder)
+# Namespace definieren 
 HHU = Namespace("http://www.hhu.de/hhu-ontology#")
 
-print(f"✓ Graph erfolgreich geladen: {len(g)} Tripel\n")
+print(f" Graph erfolgreich geladen: {len(g)} Tripel\n")
 
 
-# ============================================================================
 # ABFRAGE A: Überblick - Anzahl Veranstaltungen und Personen
-# ============================================================================
 print("=" * 80)
 print("ABFRAGE A: Überblick über den Graphen")
 print("=" * 80)
@@ -44,16 +42,14 @@ WHERE {
 
 results_a = g.query(query_a)
 for row in results_a:
-    print(f"\n📊 Statistik:")
+    print(f"\n  Statistik:")
     print(f"   • Veranstaltungen im Graph: {row.anzahl_veranstaltungen}")
     print(f"   • Personen im Graph:        {row.anzahl_personen}")
 
 print("\n" + "-" * 80 + "\n")
 
 
-# ============================================================================
 # ABFRAGE B: Filterung nach Wert - Veranstaltungen mit > 5 ECTS
-# ============================================================================
 print("=" * 80)
 print("ABFRAGE B: Veranstaltungen mit mehr als 5 ECTS")
 print("=" * 80)
@@ -82,16 +78,14 @@ for row in results_b:
     print()
 
 if result_count_b == 0:
-    print("   ⚠️  Keine Veranstaltungen mit mehr als 5 ECTS gefunden.\n")
+    print("    Keine Veranstaltungen mit mehr als 5 ECTS gefunden.\n")
 else:
-    print(f"✓ Insgesamt {result_count_b} Veranstaltung(en) gefunden.\n")
+    print(f" Insgesamt {result_count_b} Veranstaltung(en) gefunden.\n")
 
 print("-" * 80 + "\n")
 
 
-# ============================================================================
 # ABFRAGE C: Relationale Suche - Veranstaltungen von bestimmten Dozenten
-# ============================================================================
 print("=" * 80)
 print("ABFRAGE C: Veranstaltungen von Dozenten (Mauve oder Conrad)")
 print("=" * 80)
@@ -118,7 +112,7 @@ ORDER BY ?dozent ?veranstaltung_titel
 results_c = g.query(query_c)
 result_count_c = 0
 
-print("\n👨‍🏫 Gefundene Veranstaltungen:\n")
+print("\n Gefundene Veranstaltungen:\n")
 current_dozent = None
 for row in results_c:
     result_count_c += 1
@@ -130,18 +124,16 @@ for row in results_c:
     print(f"      • {row.veranstaltung_titel}")
 
 if result_count_c == 0:
-    print("   ⚠️  Keine Veranstaltungen für die gesuchten Dozenten gefunden.\n")
+    print("     Keine Veranstaltungen für die gesuchten Dozenten gefunden.\n")
 else:
-    print(f"\n✓ Insgesamt {result_count_c} Veranstaltung(en) gefunden.\n")
+    print(f"\n Insgesamt {result_count_c} Veranstaltung(en) gefunden.\n")
 
 print("-" * 80 + "\n")
 
 
-# ============================================================================
 # Abschluss
-# ============================================================================
 print("=" * 80)
-print("✓ Alle Abfragen erfolgreich ausgeführt")
+print(" Alle Abfragen erfolgreich ausgeführt")
 print("=" * 80)
 print("\nDiese Queries demonstrieren:")
 print("  • Aggregation (COUNT)")
@@ -149,4 +141,4 @@ print("  • Filterung nach Werten (FILTER >)")
 print("  • Relationale Suche über Objektbeziehungen")
 print("  • Pattern Matching mit Regex")
 print("  • Sortierung (ORDER BY)")
-print("\n→ Der Wissensgraph ist einsatzbereit für die Evaluation! 🎉\n")
+print("\n Der Wissensgraph ist einsatzbereit für die Evaluation! 🎉\n")
