@@ -120,7 +120,7 @@ def main():
                 pass
         
         if fehlerhafte_veranstaltungen:
-            print(f"\n✗ WARNUNG: {len(fehlerhafte_veranstaltungen)} Veranstaltung(en) mit ungültigen ECTS-Werten gefunden:\n")
+            print(f"\n WARNUNG: {len(fehlerhafte_veranstaltungen)} Veranstaltung(en) mit ungültigen ECTS-Werten gefunden:\n")
             for uri, ects, titel in fehlerhafte_veranstaltungen:
                 print(f"  • {titel}")
                 print(f"    URI: {uri}")

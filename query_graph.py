@@ -70,7 +70,7 @@ ORDER BY DESC(?ects)
 results_b = g.query(query_b)
 result_count_b = 0
 
-print("\n🎓 Gefundene Veranstaltungen (sortiert nach ECTS, absteigend):\n")
+print("\n Gefundene Veranstaltungen (sortiert nach ECTS, absteigend):\n")
 for row in results_b:
     result_count_b += 1
     print(f"   [{result_count_b}] {row.titel}")
@@ -141,4 +141,4 @@ print("  • Filterung nach Werten (FILTER >)")
 print("  • Relationale Suche über Objektbeziehungen")
 print("  • Pattern Matching mit Regex")
 print("  • Sortierung (ORDER BY)")
-print("\n Der Wissensgraph ist einsatzbereit für die Evaluation! 🎉\n")
+print("\n Der Wissensgraph ist einsatzbereit für die Evaluation! \n")

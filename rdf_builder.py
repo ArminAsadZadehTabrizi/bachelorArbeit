@@ -97,7 +97,7 @@ def extract_courses_from_json(full_data):
                     'dozenten': dozenten  # Jetzt eine Liste
                 })
         
-        print(f"✓ Extracted {len(courses)} courses from LSF data")
+        print(f" Extracted {len(courses)} courses from LSF data")
     except Exception as e:
         print(f"Warning: Error processing LSF data: {e}")
     
@@ -260,7 +260,7 @@ if __name__ == "__main__":
             with open(json_file_path, 'r', encoding='utf-8') as f:
                 full_data = json.load(f)
             
-            print("✓ Successfully loaded JSON file")
+            print(" Successfully loaded JSON file")
             
             # Benutze den Adapter Pattern um die Kurse zu extrahieren
             print("\n--- Extracting Courses Using Adapter Pattern ---")
